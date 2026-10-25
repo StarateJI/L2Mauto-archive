@@ -1,0 +1,501 @@
+=== Log tail 2026-10-25T15:42:11.153274 | last 500 lines ===
+2026-10-20 11:12:00,473 - INFO - [DewPew] Аук: окно уложено спать
+2026-10-20 11:12:00,474 - WARNING - [DewPew] Аук: не удалось сохранить фулл-скрин au_final_fullscreen.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-20 11:12:00,474 - INFO - [DewPew] Аук: нечего переставлять (все лоты в «Продаётся» или список пуст)
+2026-10-20 11:12:00,475 - DEBUG - [DewPew] Аук: log_uploader запущен в фоне
+2026-10-20 11:12:00,475 - INFO - [DewPew] Шось сломалось либо не смог перевыставить аук
+2026-10-20 11:12:10,571 - INFO - [DewPew] main_loop завершился
+2026-10-20 15:00:42,175 - INFO - [DewPew] Запуск Scheduler профиля
+2026-10-20 15:00:42,184 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-20 15:00:42,184 - INFO - [DewPew] Был в энерго, вырубаю перед запуском Шедули
+2026-10-20 15:00:55,067 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-20 15:01:00,000 - INFO - [DewPew] Не смог выйти из энерго — остановка
+2026-10-20 15:01:00,033 - INFO - [DewPew] main_loop завершился
+2026-10-20 15:02:47,013 - INFO - [DewPew] Запуск Scheduler профиля
+2026-10-20 15:02:47,018 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-20 15:02:47,019 - INFO - [DewPew] Был в энерго, вырубаю перед запуском Шедули
+2026-10-20 15:02:54,789 - INFO - [DewPew] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-20 15:03:40,937 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-20 15:03:40,937 - INFO - [DewPew] Энерго подтверждён (попытка 1)
+2026-10-20 15:03:40,937 - INFO - [DewPew] Энерго включён, профиль завершён
+2026-10-20 15:03:40,938 - INFO - [DewPew] main_loop завершился
+2026-10-21 09:45:56,627 - INFO - [DewPew] Запуск Scheduler профиля
+2026-10-21 09:45:56,649 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-21 09:45:56,649 - INFO - [DewPew] Был в энерго, вырубаю перед запуском Шедули
+2026-10-21 09:46:05,127 - INFO - [DewPew] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-21 09:46:51,250 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-21 09:46:51,250 - INFO - [DewPew] Энерго подтверждён (попытка 1)
+2026-10-21 09:46:51,250 - INFO - [DewPew] Энерго включён, профиль завершён
+2026-10-21 09:46:51,250 - INFO - [DewPew] main_loop завершился
+2026-10-21 10:07:25,427 - INFO - [DewPew] Данги: окно wx=800 wy=835 400x225
+2026-10-21 10:07:25,437 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-21 10:07:32,170 - INFO - [DewPew] Не находимся в энерго
+2026-10-21 10:07:32,170 - INFO - [DewPew] _wake_up: вышли из сна с попытки 1
+2026-10-21 10:07:35,680 - INFO - [DewPew] Данги: меню подземелий открыто
+2026-10-21 10:07:35,711 - INFO - [DewPew] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-21 10:07:35,721 - INFO - [DewPew] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-21 10:07:36,963 - INFO - [DewPew] Данги OCR [--psm 11]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | ahs | “vane | try | >. | оставылерся | награды | 1 | роз) | ua | st '
+2026-10-21 10:07:37,943 - INFO - [DewPew] Данги OCR [--psm 6]: 'зе | we | e | . | . | gca | в | во | ушка | о | с | ч | 1 | fe. | 2 | a | х | os | у | у | умы | „>. | . | oc | staneece | rtp | 1 | роз) | tas | в | '
+2026-10-21 10:07:39,507 - INFO - [DewPew] Данги OCR [--psm 12]: 'т” | were | 910030 | ©9.00409 | tt | аит | т | 2120 | оду | ak | ' | „1 | 0399 | в | oad | ate | 2232} | ro | ronnces | моб | presredoreg | womans | 0'
+2026-10-21 10:07:40,533 - INFO - [DewPew] Данги OCR [--psm 3]: 'нью | fame | waewerunsme | дринибынич | - | oer | в | at | fot | век | bll | oc | staneece | rtp | 1 | роз) | остроа | номстовства | с+>сьсх | сброс |'
+2026-10-21 10:07:40,533 - DEBUG - [DewPew] Данги: попытка 1/15 — OCR=нет
+2026-10-21 10:07:46,897 - INFO - [DewPew] Данги OCR [--psm 11]: '9 | uctsesaecs | гысрыды | teste) | 5.4 | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | . | 4 | ve | .. | qpeen | деступь | 140mm | '
+2026-10-21 10:07:48,230 - INFO - [DewPew] Данги OCR [--psm 6]: 'о, | м | ие | uctsesaecs | гысрыды | teste) | . | ха | остров | hencreacrma | 3602 | < | re | 1 | : | 7 | срок | о | нодуиено | в | 0500 | a) | i | : '
+2026-10-21 10:07:49,949 - INFO - [DewPew] Данги OCR [--psm 12]: '9 | uctsesaecs | гысрыды | teste) | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | ip | : | qpeen | деступь | 140mm | р | бе’ | очью '
+2026-10-21 10:07:51,267 - INFO - [DewPew] Данги OCR [--psm 3]: 'р, | м | тя | uctsesaecs | гысрыды | teste) | ae | a) | остров | hencreacrma | 3602 | 4. | сброс | © | недра | в | 0500 | броня | доступю | 10 | gtety'
+2026-10-21 10:07:51,267 - DEBUG - [DewPew] Данги: попытка 2/15 — OCR=нет
+2026-10-21 10:07:59,242 - INFO - [DewPew] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | geen | доступе | 140mm | ффичий | 1% | © | men | hs, | г | разоремвеый | замок | +60 | сброс | © | по | душ | ве | blo | wa | эрос'
+2026-10-21 10:08:00,549 - INFO - [DewPew] Данги OCR [--psm 6]: 'в | pa | ‘ | о | ни | фобии | бий | \. | г | 4 | gaeqyowe | apeens | teens | , | ee | . | iy | wy | parsopersada | замок | 6h | z | vs | a | : | . | с'
+2026-10-21 10:08:02,203 - INFO - [DewPew] Данги OCR [--psm 12]: ''y | ower | geen | доступе | 140mm | , | ффичий | 1 | © | men | г | разоремвеый | замок | +60 | сброс | © | по | душ | ве | blo | < | of | эроса | дес'
+2026-10-21 10:08:03,208 - INFO - [DewPew] Данги OCR [--psm 3]: 'разоренемй | замок | 60h | сброс | © | по | душ | ве | blo | эроса | деступе | 140mm | боевое | арочый | 3 | 14 | mer | храм | рассвета | uu | cgc | 0'
+2026-10-21 10:08:03,208 - DEBUG - [DewPew] Данги: попытка 3/15 — OCR=нет
+2026-10-21 10:08:09,624 - INFO - [DewPew] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-21 10:08:11,045 - INFO - [DewPew] Данги OCR [--psm 11]: 'reaper | оо | сх | mf. | м | к. | у. | cpa | © | ae | дум | bees | а. | я | т | " | ees | tyne | 1 | omen | beet | oe | оф | 2+. | 14 | мых | № | ях |'
+2026-10-21 10:08:12,693 - INFO - [DewPew] Данги OCR [--psm 6]: 'ew | s's | ind | reaper | ee | в» | ocs | trec | we) | dh | eke | . | < | гу | ее | у. | cpa | © | ae | дум | bees | а. | а | аг | tymene | доступа | '
+2026-10-21 10:08:14,351 - DEBUG - [DewPew] Данги: попытка 4/15 — OCR=да
+2026-10-21 10:08:14,351 - DEBUG - [DewPew] Данги: OCR нашёл но в самом низу (ocr_y=142, list_h=146) — прокручиваю ещё
+2026-10-21 10:08:21,822 - INFO - [DewPew] Данги OCR [--psm 11]: 'ay | $ | г | " | 4k | se | cees | ctyns | 10 | men | о | 2. | 14 | ees | № | bd | храм | pacoseta | «ах | крик | в | ве | дум | bo | то | диете | mpet'
+2026-10-21 10:08:23,112 - DEBUG - [DewPew] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-21 10:08:23,112 - INFO - [DewPew] Данги: найден через OCR (33,167)
+2026-10-21 10:08:23,115 - INFO - [DewPew] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-21 10:08:23,115 - INFO - [DewPew] Данги: клик по строке (33,167)
+2026-10-21 10:08:27,317 - INFO - [DewPew] Данги: кликнул, проверяю время доступа
+2026-10-21 10:08:27,344 - INFO - [DewPew] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-21 10:08:27,355 - INFO - [DewPew] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-21 10:08:27,356 - INFO - [DewPew] Данги: время доступа есть — иду в данж
+2026-10-21 10:08:30,609 - INFO - [DewPew] Данги: нажал Вход
+2026-10-21 10:08:30,626 - INFO - [DewPew] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-21 10:08:30,636 - INFO - [DewPew] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-21 10:08:30,655 - INFO - [DewPew] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-21 10:08:30,669 - INFO - [DewPew] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-21 10:08:30,686 - INFO - [DewPew] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-21 10:08:30,703 - INFO - [DewPew] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-21 10:08:30,720 - INFO - [DewPew] Данги: Ур.40 mean=25 ОТКРЫТ
+2026-10-21 10:08:30,736 - INFO - [DewPew] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-21 10:08:30,737 - INFO - [DewPew] Данги: кликаю последний открытый = Ур.75
+2026-10-21 10:08:31,157 - INFO - [DewPew] Данги: клик Ур.75 (260,166) offset=(0,2)
+2026-10-21 10:08:36,462 - INFO - [DewPew] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-21 10:08:36,463 - INFO - [DewPew] Данги: светлый экран (mean=132) — данж запущен через Ур.75
+2026-10-21 10:08:36,463 - INFO - [DewPew] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-21 10:08:44,479 - INFO - [DewPew] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-21 10:08:46,304 - INFO - [DewPew] Не находимся в энерго
+2026-10-21 10:08:46,305 - INFO - [DewPew] Данги: попытка усыпления 1/3
+2026-10-21 10:08:52,470 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-21 10:08:52,470 - INFO - [DewPew] Данги: уснул с попытки 1
+2026-10-21 10:08:52,470 - INFO - [DewPew] Данги: Благословенная Земля запущена, окно в сне
+2026-10-21 10:08:52,471 - INFO - [DewPew] main_loop завершился
+2026-10-21 10:08:59,264 - WARNING - [DewPew] log_uploader: PNG profiles_Dungeon_blessed_after_load.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_load.png'
+2026-10-21 10:08:59,265 - WARNING - [DewPew] log_uploader: PNG profiles_Dungeon_blessed_after_Ур_75.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_Ур_75.png'
+2026-10-21 10:08:59,265 - WARNING - [DewPew] log_uploader: PNG profiles_Dungeon_blessed_found_ocr.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_found_ocr.png'
+2026-10-21 10:08:59,265 - WARNING - [DewPew] log_uploader: PNG profiles_Dungeon_blessed_level_window.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_level_window.png'
+2026-10-21 10:08:59,265 - WARNING - [DewPew] log_uploader: PNG profiles_Dungeon_blessed_scroll_03.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_scroll_03.png'
+2026-10-21 10:08:59,266 - WARNING - [DewPew] log_uploader: PNG profiles_Dungeon_blessed_time_check.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_time_check.png'
+2026-10-21 10:13:48,441 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-21 10:14:00,690 - INFO - [DewPew] Ищем вкладки
+2026-10-21 10:14:02,702 - INFO - [DewPew] Перешел на вкладку: (381, 34)
+2026-10-21 10:14:04,048 - INFO - [DewPew] Собираю награду тут: (302, 101)
+2026-10-21 10:14:10,331 - INFO - [DewPew] Перешел на вкладку: (381, 59)
+2026-10-21 10:14:11,682 - INFO - [DewPew] Собираю награду тут: (302, 101)
+2026-10-21 10:14:16,250 - INFO - [DewPew] Перешел на вкладку: (381, 84)
+2026-10-21 10:14:17,631 - INFO - [DewPew] Пропускаем кнопку с алмазом/донатом: (302, 101)
+2026-10-21 10:14:17,885 - INFO - [DewPew] Всего собрано: 3
+2026-10-21 10:14:17,885 - INFO - [DewPew] Дейлик успешно собран
+2026-10-21 10:14:19,725 - INFO - [DewPew] Не находимся в энерго
+2026-10-21 10:14:22,979 - INFO - [DewPew] Нашел почту
+2026-10-21 10:14:29,737 - INFO - [DewPew] Почта собрана
+2026-10-21 10:14:30,235 - INFO - [DewPew] Почта успешно собран
+2026-10-21 10:14:32,044 - INFO - [DewPew] Не находимся в энерго
+2026-10-21 10:14:37,043 - INFO - [DewPew] Нет красной точки на иконке достижений
+2026-10-21 10:14:37,043 - INFO - [DewPew] Нет новых ачивы или не удалось собрать
+2026-10-21 10:14:38,859 - INFO - [DewPew] Не находимся в энерго
+2026-10-21 10:14:40,722 - INFO - [DewPew] Нашел сбор клана
+2026-10-21 10:14:50,531 - INFO - [DewPew] Клан успешно собран
+2026-10-21 10:14:52,076 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-21 10:15:00,482 - INFO - [DewPew] Нашел сбор альянса, жму
+2026-10-21 10:15:07,162 - INFO - [DewPew] Альянс успешно собран
+2026-10-21 10:15:08,976 - INFO - [DewPew] Не находимся в энерго
+2026-10-21 10:15:12,006 - INFO - [DewPew] Нашел бп
+2026-10-21 10:15:13,505 - INFO - [DewPew] Пробую чекнуть вкладочки бп
+2026-10-21 10:15:14,007 - INFO - [DewPew] {'left': 800, 'top': 860, 'width': 400, 'height': 1}
+2026-10-21 10:15:14,027 - INFO - [DewPew] [80, 155, 230, 305]
+2026-10-21 10:15:14,027 - INFO - [DewPew] final [['80, 25', 'no'], ['155, 25', 'no'], ['230, 25', 'no'], ['305, 25', 'no']]
+2026-10-21 10:15:14,027 - INFO - [DewPew] Обнаружил вкладок бп: 4, начинаю чекать...
+2026-10-21 10:15:15,828 - INFO - [DewPew] Подвкладок найдено: 0
+2026-10-21 10:15:24,176 - INFO - [DewPew] Подвкладок найдено: 1
+2026-10-21 10:15:25,461 - INFO - [DewPew] Собираю награду [2.1]
+2026-10-21 10:15:29,259 - INFO - [DewPew] Нет наград во вкладке 2, под 1
+2026-10-21 10:15:32,093 - INFO - [DewPew] Собирать нечего, проверяю следующую вкладку
+2026-10-21 10:15:33,861 - INFO - [DewPew] Подвкладок найдено: 0
+2026-10-21 10:15:42,226 - INFO - [DewPew] Подвкладок найдено: 0
+2026-10-21 10:15:48,861 - INFO - [DewPew] Закрываю баттл пасс
+2026-10-21 10:15:51,142 - INFO - [DewPew] Пасс успешно собран
+2026-10-21 10:15:52,962 - INFO - [DewPew] Не находимся в энерго
+2026-10-21 10:15:57,071 - INFO - [DewPew] Вылезла обычная реклама, закрыл гадость
+2026-10-21 10:16:18,927 - INFO - [DewPew] Шоп успешно собран
+2026-10-21 10:16:20,744 - INFO - [DewPew] Не находимся в энерго
+2026-10-21 10:16:30,812 - INFO - [DewPew] main_loop завершился
+2026-10-21 10:55:33,950 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-21 10:55:37,815 - INFO - [DewPew] Аук: запущен relist (снять+найти+поставить)
+2026-10-21 10:55:39,633 - INFO - [DewPew] Не находимся в энерго
+2026-10-21 10:55:45,565 - INFO - [DewPew] Аук: загрузился
+2026-10-21 10:55:45,569 - INFO - [DewPew] Аук: сохранил позицию окна до resize: (800,835) 400x225
+2026-10-21 10:55:45,571 - INFO - [DewPew] Аук: монитор рабочая область 2560x1400 на (0,0)
+2026-10-21 10:55:47,114 - INFO - [DewPew] Аук: окно resize 2560x1400 на (0,40), scale=(2.67,2.59)
+2026-10-21 10:55:52,859 - INFO - [DewPew] Аук: вкладка Продажа открыта
+2026-10-21 10:55:52,859 - WARNING - [DewPew] Аук: не удалось сохранить фулл-скрин au_after_tab_sell.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-21 10:55:52,859 - INFO - [DewPew] Аук: предмет 1/10
+2026-10-21 10:55:52,884 - INFO - [DewPew] Аук: сохранён au_lot_zone.png
+2026-10-21 10:55:52,885 - INFO - [DewPew] Аук: сохранён au_sample.png
+2026-10-21 10:55:52,886 - INFO - [DewPew] Аук: SIFT образец (лот): 0 точек
+2026-10-21 10:55:53,217 - DEBUG - [DewPew] Аук: статус лота Tesseract: '2акен.'
+2026-10-21 10:55:53,218 - DEBUG - [DewPew] Аук: статус зелёных пикселей: 0 (0.00%)
+2026-10-21 10:55:53,218 - INFO - [DewPew] Аук: образец лота пустой (нет иконки) — список лотов пуст. Завершаю прогон (не ошибка).
+2026-10-21 10:55:53,218 - INFO - [DewPew] Аук: лотов больше нет на странице (предмет 1)
+2026-10-21 10:55:56,513 - INFO - [DewPew] Аук: аук закрыт
+2026-10-21 10:55:56,926 - INFO - [DewPew] Аук: окно возвращено 400x225 на (800,835)
+2026-10-21 10:55:58,748 - INFO - [DewPew] Не находимся в энерго
+2026-10-21 10:56:04,899 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-21 10:56:04,899 - INFO - [DewPew] Аук: окно уложено спать
+2026-10-21 10:56:04,899 - WARNING - [DewPew] Аук: не удалось сохранить фулл-скрин au_final_fullscreen.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-21 10:56:04,899 - INFO - [DewPew] Аук: нечего переставлять (все лоты в «Продаётся» или список пуст)
+2026-10-21 10:56:04,900 - DEBUG - [DewPew] Аук: log_uploader запущен в фоне
+2026-10-21 10:56:04,900 - INFO - [DewPew] Шось сломалось либо не смог перевыставить аук
+2026-10-21 10:56:15,023 - INFO - [DewPew] main_loop завершился
+2026-10-21 13:16:20,537 - INFO - [DewPew] Запуск Scheduler профиля
+2026-10-21 13:16:20,562 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-21 13:16:20,563 - INFO - [DewPew] Был в энерго, вырубаю перед запуском Шедули
+2026-10-21 13:16:29,095 - INFO - [DewPew] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-21 13:17:15,249 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-21 13:17:15,249 - INFO - [DewPew] Энерго подтверждён (попытка 1)
+2026-10-21 13:17:15,249 - INFO - [DewPew] Энерго включён, профиль завершён
+2026-10-21 13:17:15,249 - INFO - [DewPew] main_loop завершился
+2026-10-22 14:26:06,396 - INFO - [DewPew] Данги: окно wx=800 wy=835 400x225
+2026-10-22 14:26:06,406 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-22 14:26:13,139 - INFO - [DewPew] Не находимся в энерго
+2026-10-22 14:26:13,140 - INFO - [DewPew] _wake_up: вышли из сна с попытки 1
+2026-10-22 14:26:16,630 - INFO - [DewPew] Данги: меню подземелий открыто
+2026-10-22 14:26:16,646 - INFO - [DewPew] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-22 14:26:16,657 - INFO - [DewPew] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-22 14:26:17,891 - INFO - [DewPew] Данги OCR [--psm 11]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | ahs | “vane | try | >. | оставылерся | награды | 1 | роз) | ua | st '
+2026-10-22 14:26:18,869 - INFO - [DewPew] Данги OCR [--psm 6]: 'зе | we | e | . | . | gca | в | во | ушка | о | с | ч | 1 | fe. | 2 | a | х | os | у | у | умы | „>. | . | oc | staneece | rtp | 1 | роз) | tas | в | '
+2026-10-22 14:26:20,364 - INFO - [DewPew] Данги OCR [--psm 12]: 'т” | wer | ne | enedeenotuey | tt | wangr) | qh | analy | ak | ' | „1 | 0399 | в | oad | ate | 2232} | ro | ronnces | моб | presredoreg | womans | 010'
+2026-10-22 14:26:21,393 - INFO - [DewPew] Данги OCR [--psm 3]: 'нью | fame | waewerunsme | дринибынич | - | oer | в | at | fot | век | bll | oc | staneece | rtp | 1 | роз) | остроа | номстовства | с+>сьсх | сброс |'
+2026-10-22 14:26:21,393 - DEBUG - [DewPew] Данги: попытка 1/15 — OCR=нет
+2026-10-22 14:26:27,882 - INFO - [DewPew] Данги OCR [--psm 11]: '9 | uctsesaecs | гысрыды | teste) | 5.4 | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | . | 4 | ve | .. | qpeen | деступь | 140mm | '
+2026-10-22 14:26:29,186 - INFO - [DewPew] Данги OCR [--psm 6]: 'о, | м | ие | uctsesaecs | гысрыды | teste) | . | ха | остров | hencreacrma | 3602 | < | re | 1 | : | 7 | срок | о | нодуиено | в | 0500 | a) | { | . '
+2026-10-22 14:26:30,815 - INFO - [DewPew] Данги OCR [--psm 12]: '9 | uctsesaecs | гысрыды | teste) | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | ip | : | qpeen | деступь | 140mm | р | бе’ | очью '
+2026-10-22 14:26:32,119 - INFO - [DewPew] Данги OCR [--psm 3]: 'р, | м | тя | uctsesaecs | гысрыды | teste) | ae | a) | остров | hencreacrma | 3602 | 4. | сброс | © | недра | в | 0500 | броня | доступю | 10 | gtety'
+2026-10-22 14:26:32,120 - DEBUG - [DewPew] Данги: попытка 2/15 — OCR=нет
+2026-10-22 14:26:39,994 - INFO - [DewPew] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | geen | доступе | 140mm | ффичий | 1% | © | men | hs, | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | wa | эр'
+2026-10-22 14:26:41,266 - INFO - [DewPew] Данги OCR [--psm 6]: 'в | pa | ‘ | о | ни | фобии | бий | \. | г | 4 | gaeqyowe | apeens | teens | , | ee | . | iy | wy | parsopersada | замок | 6h | z | 7“ | se | lt | . |'
+2026-10-22 14:26:42,896 - INFO - [DewPew] Данги OCR [--psm 12]: ''y | ower | geen | доступе | 140mm | , | ффичий | 1 | © | men | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | < | of | эроса | д'
+2026-10-22 14:26:43,904 - INFO - [DewPew] Данги OCR [--psm 3]: 'разоренемй | замок | 60h | сре | о | по | pero | в | 05 | сю | эроса | доступе | 1чф | мыл | steqyoue | agen | 3% | 1% | мым | храм | рассвета | uu | '
+2026-10-22 14:26:43,905 - DEBUG - [DewPew] Данги: попытка 3/15 — OCR=нет
+2026-10-22 14:26:50,292 - INFO - [DewPew] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-22 14:26:51,696 - INFO - [DewPew] Данги OCR [--psm 11]: 'reaper | оо | сх | mf. | м | к. | у. | cpa | © | ae | дум | bees | а. | я | т | " | ees | tyne | 1 | omen | bot | oe | офееые | 2-14 | ees | № | ях | '
+2026-10-22 14:26:53,353 - INFO - [DewPew] Данги OCR [--psm 6]: 'ew | s's | ind | reaper | ee | в» | ocs | trec | we) | dh | eke | . | < | гу | ее | у. | cpa | © | ae | дум | bees | а. | а | аг | tymene | доступа | '
+2026-10-22 14:26:55,040 - DEBUG - [DewPew] Данги: попытка 4/15 — OCR=да
+2026-10-22 14:26:55,040 - DEBUG - [DewPew] Данги: OCR нашёл но в самом низу (ocr_y=142, list_h=146) — прокручиваю ещё
+2026-10-22 14:27:02,465 - INFO - [DewPew] Данги OCR [--psm 11]: 'ay | $ | г | " | 4k | se | cees | ctyns | 10 | men | . | men | once | мые | an | ани | № | bd | в | храм | рассвета | «ах | крик | в | ве | дум | bo |'
+2026-10-22 14:27:03,742 - DEBUG - [DewPew] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-22 14:27:03,742 - INFO - [DewPew] Данги: найден через OCR (33,167)
+2026-10-22 14:27:03,745 - INFO - [DewPew] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-22 14:27:03,745 - INFO - [DewPew] Данги: клик по строке (33,167)
+2026-10-22 14:27:07,928 - INFO - [DewPew] Данги: кликнул, проверяю время доступа
+2026-10-22 14:27:07,945 - INFO - [DewPew] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-22 14:27:07,957 - INFO - [DewPew] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-22 14:27:07,958 - INFO - [DewPew] Данги: время доступа есть — иду в данж
+2026-10-22 14:27:11,236 - INFO - [DewPew] Данги: нажал Вход
+2026-10-22 14:27:11,264 - INFO - [DewPew] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-22 14:27:11,273 - INFO - [DewPew] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-22 14:27:11,289 - INFO - [DewPew] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-22 14:27:11,305 - INFO - [DewPew] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-22 14:27:11,323 - INFO - [DewPew] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-22 14:27:11,339 - INFO - [DewPew] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-22 14:27:11,356 - INFO - [DewPew] Данги: Ур.40 mean=46 ОТКРЫТ
+2026-10-22 14:27:11,373 - INFO - [DewPew] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-22 14:27:11,373 - INFO - [DewPew] Данги: кликаю последний открытый = Ур.75
+2026-10-22 14:27:11,776 - INFO - [DewPew] Данги: клик Ур.75 (263,162) offset=(3,-2)
+2026-10-22 14:27:17,064 - INFO - [DewPew] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-22 14:27:17,065 - INFO - [DewPew] Данги: светлый экран (mean=81) — данж запущен через Ур.75
+2026-10-22 14:27:17,065 - INFO - [DewPew] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-22 14:27:25,099 - INFO - [DewPew] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-22 14:27:26,907 - INFO - [DewPew] Не находимся в энерго
+2026-10-22 14:27:26,907 - INFO - [DewPew] Данги: попытка усыпления 1/3
+2026-10-22 14:27:33,040 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-22 14:27:33,040 - INFO - [DewPew] Данги: уснул с попытки 1
+2026-10-22 14:27:33,040 - INFO - [DewPew] Данги: Благословенная Земля запущена, окно в сне
+2026-10-22 14:27:33,041 - INFO - [DewPew] main_loop завершился
+2026-10-22 14:27:40,084 - WARNING - [DewPew] log_uploader: PNG profiles_Dungeon_blessed_after_Ур_75.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_Ур_75.png'
+2026-10-22 15:29:14,919 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-22 15:29:26,593 - INFO - [DewPew] Ищем вкладки
+2026-10-22 15:29:28,599 - INFO - [DewPew] Перешел на вкладку: (381, 34)
+2026-10-22 15:29:29,938 - INFO - [DewPew] Собираю награду тут: (302, 101)
+2026-10-22 15:29:34,484 - INFO - [DewPew] Всего собрано: 1
+2026-10-22 15:29:34,484 - INFO - [DewPew] Дейлик успешно собран
+2026-10-22 15:29:36,317 - INFO - [DewPew] Не находимся в энерго
+2026-10-22 15:29:39,498 - INFO - [DewPew] Нашел почту
+2026-10-22 15:29:43,279 - INFO - [DewPew] Лимит опыта, ливнул
+2026-10-22 15:29:44,029 - INFO - [DewPew] Нет новых почта или не удалось собрать
+2026-10-22 15:29:45,852 - INFO - [DewPew] Не находимся в энерго
+2026-10-22 15:29:50,852 - INFO - [DewPew] Нет красной точки на иконке достижений
+2026-10-22 15:29:50,852 - INFO - [DewPew] Нет новых ачивы или не удалось собрать
+2026-10-22 15:29:52,668 - INFO - [DewPew] Не находимся в энерго
+2026-10-22 15:29:53,594 - INFO - [DewPew] Нашел сбор клана
+2026-10-22 15:30:03,913 - INFO - [DewPew] Клан успешно собран
+2026-10-22 15:30:05,733 - INFO - [DewPew] Не находимся в энерго
+2026-10-22 15:30:09,536 - INFO - [DewPew] Нашел сбор альянса, жму
+2026-10-22 15:30:14,135 - INFO - [DewPew] Альянс успешно собран
+2026-10-22 15:30:15,952 - INFO - [DewPew] Не находимся в энерго
+2026-10-22 15:30:19,141 - INFO - [DewPew] Нашел бп
+2026-10-22 15:30:20,647 - INFO - [DewPew] Пробую чекнуть вкладочки бп
+2026-10-22 15:30:21,146 - INFO - [DewPew] {'left': 800, 'top': 860, 'width': 400, 'height': 1}
+2026-10-22 15:30:21,167 - INFO - [DewPew] [155]
+2026-10-22 15:30:21,167 - INFO - [DewPew] final [['155, 25', 'no']]
+2026-10-22 15:30:21,167 - INFO - [DewPew] Обнаружил вкладок бп: 1, начинаю чекать...
+2026-10-22 15:30:22,937 - INFO - [DewPew] Подвкладок найдено: 1
+2026-10-22 15:30:24,201 - INFO - [DewPew] Собираю награду [1.1]
+2026-10-22 15:30:28,369 - INFO - [DewPew] Нет наград во вкладке 1, под 1
+2026-10-22 15:30:31,184 - INFO - [DewPew] Собирать нечего, проверяю следующую вкладку
+2026-10-22 15:30:31,185 - INFO - [DewPew] Закрываю баттл пасс
+2026-10-22 15:30:33,443 - INFO - [DewPew] Пасс успешно собран
+2026-10-22 15:30:35,250 - INFO - [DewPew] Не находимся в энерго
+2026-10-22 15:30:39,276 - INFO - [DewPew] Вылезла обычная реклама, закрыл гадость
+2026-10-22 15:31:00,353 - INFO - [DewPew] Шоп успешно собран
+2026-10-22 15:31:02,186 - INFO - [DewPew] Не находимся в энерго
+2026-10-22 15:31:12,209 - INFO - [DewPew] main_loop завершился
+2026-10-22 17:02:12,441 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-22 17:02:16,343 - INFO - [DewPew] Аук: запущен relist (снять+найти+поставить)
+2026-10-22 17:02:18,156 - INFO - [DewPew] Не находимся в энерго
+2026-10-22 17:02:24,625 - INFO - [DewPew] Аук: загрузился
+2026-10-22 17:02:24,628 - INFO - [DewPew] Аук: сохранил позицию окна до resize: (800,835) 400x225
+2026-10-22 17:02:24,630 - INFO - [DewPew] Аук: монитор рабочая область 2560x1400 на (0,0)
+2026-10-22 17:02:26,173 - INFO - [DewPew] Аук: окно resize 2560x1400 на (0,40), scale=(2.67,2.59)
+2026-10-22 17:02:31,931 - INFO - [DewPew] Аук: вкладка Продажа открыта
+2026-10-22 17:02:31,931 - WARNING - [DewPew] Аук: не удалось сохранить фулл-скрин au_after_tab_sell.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-22 17:02:31,931 - INFO - [DewPew] Аук: предмет 1/10
+2026-10-22 17:02:31,943 - INFO - [DewPew] Аук: сохранён au_lot_zone.png
+2026-10-22 17:02:31,944 - INFO - [DewPew] Аук: сохранён au_sample.png
+2026-10-22 17:02:31,946 - INFO - [DewPew] Аук: SIFT образец (лот): 0 точек
+2026-10-22 17:02:32,240 - DEBUG - [DewPew] Аук: статус лота Tesseract: 'г'
+2026-10-22 17:02:32,241 - DEBUG - [DewPew] Аук: статус зелёных пикселей: 0 (0.00%)
+2026-10-22 17:02:32,241 - INFO - [DewPew] Аук: образец лота пустой (нет иконки) — список лотов пуст. Завершаю прогон (не ошибка).
+2026-10-22 17:02:32,241 - INFO - [DewPew] Аук: лотов больше нет на странице (предмет 1)
+2026-10-22 17:02:35,510 - INFO - [DewPew] Аук: аук закрыт
+2026-10-22 17:02:35,937 - INFO - [DewPew] Аук: окно возвращено 400x225 на (800,835)
+2026-10-22 17:02:37,757 - INFO - [DewPew] Не находимся в энерго
+2026-10-22 17:02:43,908 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-22 17:02:43,909 - INFO - [DewPew] Аук: окно уложено спать
+2026-10-22 17:02:43,909 - WARNING - [DewPew] Аук: не удалось сохранить фулл-скрин au_final_fullscreen.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-22 17:02:43,909 - INFO - [DewPew] Аук: нечего переставлять (все лоты в «Продаётся» или список пуст)
+2026-10-22 17:02:43,909 - DEBUG - [DewPew] Аук: log_uploader запущен в фоне
+2026-10-22 17:02:43,909 - INFO - [DewPew] Шось сломалось либо не смог перевыставить аук
+2026-10-22 17:02:50,026 - INFO - [DewPew] main_loop завершился
+2026-10-22 20:15:20,989 - INFO - [DewPew] Запуск Scheduler профиля
+2026-10-22 20:15:21,017 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-22 20:15:21,017 - INFO - [DewPew] Был в энерго, вырубаю перед запуском Шедули
+2026-10-22 20:15:29,508 - INFO - [DewPew] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-22 20:16:15,618 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-22 20:16:15,618 - INFO - [DewPew] Энерго подтверждён (попытка 1)
+2026-10-22 20:16:15,618 - INFO - [DewPew] Энерго включён, профиль завершён
+2026-10-22 20:16:15,618 - INFO - [DewPew] main_loop завершился
+2026-10-23 07:15:25,458 - INFO - [DewPew] Запуск Scheduler профиля
+2026-10-23 07:15:25,496 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-23 07:15:25,497 - INFO - [DewPew] Был в энерго, вырубаю перед запуском Шедули
+2026-10-23 07:15:40,762 - WARNING - [DewPew] Кнопка «Начать расписание» не найдена — выхожу из меню и усыпаю окно (возможно расписание уже идёт)
+2026-10-23 07:15:41,024 - DEBUG - [DewPew] Шедуля: клик выхода из меню (365, 45) — стрелочка
+2026-10-23 07:15:46,346 - INFO - [DewPew] Не находимся в энерго
+2026-10-23 07:15:50,520 - INFO - [DewPew] Шедуля: окно уложено спать (расписание уже идёт или кнопка не найдена)
+2026-10-23 07:15:50,520 - INFO - [DewPew] main_loop завершился
+2026-10-23 07:29:33,349 - INFO - [DewPew] Данги: окно wx=800 wy=835 400x225
+2026-10-23 07:29:33,377 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-23 07:29:40,877 - INFO - [DewPew] Не находимся в энерго
+2026-10-23 07:29:40,877 - INFO - [DewPew] _wake_up: вышли из сна с попытки 1
+2026-10-23 07:29:49,126 - INFO - [DewPew] Данги: меню подземелий открыто
+2026-10-23 07:29:49,153 - INFO - [DewPew] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-23 07:29:49,165 - INFO - [DewPew] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-23 07:29:50,404 - INFO - [DewPew] Данги OCR [--psm 11]: 'р | ариша | feu | лрернельляю | feet | воин | му | 27 | ва: | уе | a | вч.тч | аль | | | нх | ~ | veet | j | pry | ‘cl | atameccs | гыгрьды | 1 | разд'
+2026-10-23 07:29:51,259 - INFO - [DewPew] Данги OCR [--psm 6]: 'ри | а | med | er | ai | ай | a | peat | < | = | ts | ” | к | №. | «ое. | . | oct | stemeecs | рыгрыды | 1 | рыл) | ' | nee | „8 | { | . | a | ' | сбр'
+2026-10-23 07:29:52,804 - INFO - [DewPew] Данги OCR [--psm 12]: 'р | (geen | feu | лрернельляю | дина | ния4 | - | в | вом | м4 | чи, | ise | 2h | ти | a | ветчаль | | | ee | ~ | veet | pry | > | ‘cl | atameccs | гы'
+2026-10-23 07:29:53,970 - INFO - [DewPew] Данги OCR [--psm 3]: '1 | . | ария | pm | haewerenses | fmt | - | an | wove | ма | eee | ty, | shark, | nd | eed | a | вч.тч | аль | | | +. | “<. | . | oct | stemeecs | рыг'
+2026-10-23 07:29:53,970 - DEBUG - [DewPew] Данги: попытка 1/15 — OCR=нет
+2026-10-23 07:30:01,692 - INFO - [DewPew] Данги OCR [--psm 11]: '9 | uctsesaecs | гысрыды | teste) | 5.4 | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | . | 4 | ve | .. | qpeen | деступь | 140mm | '
+2026-10-23 07:30:03,024 - INFO - [DewPew] Данги OCR [--psm 6]: 'о, | м | ие | uctsesaecs | гысрыды | teste) | . | ха | остров | hencreacrma | 3602 | < | re | 1 | : | 7 | срок | о | нодуиено | в | 0500 | a) | { | : '
+2026-10-23 07:30:04,640 - INFO - [DewPew] Данги OCR [--psm 12]: '9 | uctsesaecs | гысрыды | teste) | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | ip | : | qpeen | деступь | 140mm | р | бе’ | очью '
+2026-10-23 07:30:05,939 - INFO - [DewPew] Данги OCR [--psm 3]: 'р, | м | тя | uctsesaecs | гысрыды | teste) | ae | a) | остров | hencreacrma | 3602 | 4. | сброс | © | недра | в | 0500 | броня | доступю | 10 | gtety'
+2026-10-23 07:30:05,939 - DEBUG - [DewPew] Данги: попытка 2/15 — OCR=нет
+2026-10-23 07:30:13,831 - INFO - [DewPew] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | geen | доступе | 140mm | ффичий | 1% | © | men | hs, | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | wa | у '
+2026-10-23 07:30:15,125 - INFO - [DewPew] Данги OCR [--psm 6]: 'в | pa | ‘ | о | ни | фобии | бий | \. | и | 4 | gaeqyowe | apeens | teens | р | whi” | - | iy | wy | parsopersada | замок | 6h | z | 7“ | se | lt | .'
+2026-10-23 07:30:16,811 - INFO - [DewPew] Данги OCR [--psm 12]: ''y | ower | geen | доступе | 140mm | , | ффичий | 1 | © | men | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | < | of | у | 140mm'
+2026-10-23 07:30:17,820 - INFO - [DewPew] Данги OCR [--psm 3]: 'разоренемй | замок | 60h | сре | о | по | pero | в | 05 | сю | у | 140mm | боевое | apenas | 2% | 14 | мыех. | храм | рассвета | uu | cog | 0 | 20 | f'
+2026-10-23 07:30:17,821 - DEBUG - [DewPew] Данги: попытка 3/15 — OCR=нет
+2026-10-23 07:30:23,180 - INFO - [DewPew] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-23 07:30:24,569 - INFO - [DewPew] Данги OCR [--psm 11]: 'end | reap | een | ea | wa, | plas | < | <6. | aw | ray | a) | gee | ad | feet | ae | ei | 17 | my | nf | их | myatees | деть | omen | beer | ee | agm'
+2026-10-23 07:30:26,074 - INFO - [DewPew] Данги OCR [--psm 6]: 'ay | a | reaper | eae | < | <. | у | е | а | por | ae | jeet | be | et, | . | р | га | ао | `` | м | yee | ctt | to | mee | ans | . | ий | ое | е | . '
+2026-10-23 07:30:27,589 - DEBUG - [DewPew] Данги: попытка 4/15 — OCR=да
+2026-10-23 07:30:27,589 - DEBUG - [DewPew] Данги: OCR нашёл но в самом низу (ocr_y=142, list_h=146) — прокручиваю ещё
+2026-10-23 07:30:32,876 - INFO - [DewPew] Данги OCR [--psm 11]: 'ay | se | on | se | " | cees | ctyns | 10 | men | стек | ори | +. | 14 | ees | № | ях | храм | рассвета | aay | крик | в | ве | ap | bo | ule | gul | '
+2026-10-23 07:30:34,247 - DEBUG - [DewPew] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-23 07:30:34,247 - INFO - [DewPew] Данги: найден через OCR (33,167)
+2026-10-23 07:30:34,252 - INFO - [DewPew] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-23 07:30:34,252 - INFO - [DewPew] Данги: клик по строке (33,167)
+2026-10-23 07:30:36,110 - INFO - [DewPew] Данги: кликнул, проверяю время доступа
+2026-10-23 07:30:36,135 - INFO - [DewPew] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-23 07:30:36,146 - INFO - [DewPew] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-23 07:30:36,147 - INFO - [DewPew] Данги: время доступа есть — иду в данж
+2026-10-23 07:30:39,466 - INFO - [DewPew] Данги: нажал Вход
+2026-10-23 07:30:39,482 - INFO - [DewPew] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-23 07:30:39,493 - INFO - [DewPew] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-23 07:30:39,511 - INFO - [DewPew] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-23 07:30:39,529 - INFO - [DewPew] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-23 07:30:39,544 - INFO - [DewPew] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-23 07:30:39,561 - INFO - [DewPew] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-23 07:30:39,578 - INFO - [DewPew] Данги: Ур.40 mean=29 ОТКРЫТ
+2026-10-23 07:30:39,594 - INFO - [DewPew] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-23 07:30:39,594 - INFO - [DewPew] Данги: кликаю последний открытый = Ур.75
+2026-10-23 07:30:39,897 - INFO - [DewPew] Данги: клик Ур.75 (263,165) offset=(3,1)
+2026-10-23 07:30:45,271 - INFO - [DewPew] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-23 07:30:45,271 - INFO - [DewPew] Данги: светлый экран (mean=87) — данж запущен через Ур.75
+2026-10-23 07:30:45,272 - INFO - [DewPew] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-23 07:30:53,288 - INFO - [DewPew] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-23 07:30:55,111 - INFO - [DewPew] Не находимся в энерго
+2026-10-23 07:30:55,111 - INFO - [DewPew] Данги: попытка усыпления 1/3
+2026-10-23 07:31:01,312 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-23 07:31:01,312 - INFO - [DewPew] Данги: уснул с попытки 1
+2026-10-23 07:31:01,312 - INFO - [DewPew] Данги: Благословенная Земля запущена, окно в сне
+2026-10-23 07:31:01,312 - INFO - [DewPew] main_loop завершился
+2026-10-23 07:31:07,588 - WARNING - [DewPew] log_uploader: PNG profiles_Dungeon_blessed_after_load.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_load.png'
+2026-10-23 07:31:07,588 - WARNING - [DewPew] log_uploader: PNG profiles_Dungeon_blessed_after_Ур_75.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_Ур_75.png'
+2026-10-23 07:31:07,589 - WARNING - [DewPew] log_uploader: PNG profiles_Dungeon_blessed_level_window.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_level_window.png'
+2026-10-23 07:31:07,589 - WARNING - [DewPew] log_uploader: PNG profiles_Dungeon_blessed_time_check.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_time_check.png'
+2026-10-23 09:40:24,145 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-23 09:40:35,815 - INFO - [DewPew] Ищем вкладки
+2026-10-23 09:40:37,834 - INFO - [DewPew] Перешел на вкладку: (381, 34)
+2026-10-23 09:40:39,183 - INFO - [DewPew] Собираю награду тут: (302, 101)
+2026-10-23 09:40:43,750 - INFO - [DewPew] Всего собрано: 1
+2026-10-23 09:40:43,750 - INFO - [DewPew] Дейлик успешно собран
+2026-10-23 09:40:45,593 - INFO - [DewPew] Не находимся в энерго
+2026-10-23 09:40:48,674 - INFO - [DewPew] Нашел почту
+2026-10-23 09:40:59,496 - INFO - [DewPew] Почта собрана
+2026-10-23 09:40:59,995 - INFO - [DewPew] Почта успешно собран
+2026-10-23 09:41:01,815 - INFO - [DewPew] Не находимся в энерго
+2026-10-23 09:41:06,827 - INFO - [DewPew] Нет красной точки на иконке достижений
+2026-10-23 09:41:06,827 - INFO - [DewPew] Нет новых ачивы или не удалось собрать
+2026-10-23 09:41:08,645 - INFO - [DewPew] Не находимся в энерго
+2026-10-23 09:41:10,428 - INFO - [DewPew] Нашел сбор клана
+2026-10-23 09:41:20,343 - INFO - [DewPew] Клан успешно собран
+2026-10-23 09:41:22,158 - INFO - [DewPew] Не находимся в энерго
+2026-10-23 09:41:25,728 - INFO - [DewPew] Нашел сбор альянса, жму
+2026-10-23 09:41:31,929 - INFO - [DewPew] Альянс успешно собран
+2026-10-23 09:41:33,742 - INFO - [DewPew] Не находимся в энерго
+2026-10-23 09:41:36,847 - INFO - [DewPew] Нашел бп
+2026-10-23 09:41:38,346 - INFO - [DewPew] Пробую чекнуть вкладочки бп
+2026-10-23 09:41:38,853 - INFO - [DewPew] {'left': 800, 'top': 860, 'width': 400, 'height': 1}
+2026-10-23 09:41:38,860 - INFO - [DewPew] [155]
+2026-10-23 09:41:38,860 - INFO - [DewPew] final [['155, 25', 'no']]
+2026-10-23 09:41:38,860 - INFO - [DewPew] Обнаружил вкладок бп: 1, начинаю чекать...
+2026-10-23 09:41:40,878 - INFO - [DewPew] Подвкладок найдено: 1
+2026-10-23 09:41:42,128 - INFO - [DewPew] Собираю награду [1.1]
+2026-10-23 09:41:45,910 - INFO - [DewPew] Нет наград во вкладке 1, под 1
+2026-10-23 09:41:48,742 - INFO - [DewPew] Собирать нечего, проверяю следующую вкладку
+2026-10-23 09:41:48,743 - INFO - [DewPew] Закрываю баттл пасс
+2026-10-23 09:41:50,994 - INFO - [DewPew] Пасс успешно собран
+2026-10-23 09:41:52,810 - INFO - [DewPew] Не находимся в энерго
+2026-10-23 09:41:56,837 - INFO - [DewPew] Вылезла обычная реклама, закрыл гадость
+2026-10-23 09:42:18,578 - INFO - [DewPew] Шоп успешно собран
+2026-10-23 09:42:20,394 - INFO - [DewPew] Не находимся в энерго
+2026-10-23 09:42:30,376 - INFO - [DewPew] main_loop завершился
+2026-10-25 15:07:40,382 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-25 15:07:52,530 - INFO - [DewPew] Ищем вкладки
+2026-10-25 15:07:54,551 - INFO - [DewPew] Перешел на вкладку: (381, 34)
+2026-10-25 15:07:55,882 - INFO - [DewPew] Собираю награду тут: (302, 101)
+2026-10-25 15:08:00,453 - INFO - [DewPew] Всего собрано: 1
+2026-10-25 15:08:00,454 - INFO - [DewPew] Дейлик успешно собран
+2026-10-25 15:08:02,293 - INFO - [DewPew] Не находимся в энерго
+2026-10-25 15:08:05,435 - INFO - [DewPew] Нашел почту
+2026-10-25 15:08:12,585 - INFO - [DewPew] Почта собрана
+2026-10-25 15:08:13,082 - INFO - [DewPew] Почта успешно собран
+2026-10-25 15:08:14,893 - INFO - [DewPew] Не находимся в энерго
+2026-10-25 15:08:19,894 - INFO - [DewPew] Нет красной точки на иконке достижений
+2026-10-25 15:08:19,894 - INFO - [DewPew] Нет новых ачивы или не удалось собрать
+2026-10-25 15:08:21,728 - INFO - [DewPew] Не находимся в энерго
+2026-10-25 15:08:23,281 - INFO - [DewPew] Нашел сбор клана
+2026-10-25 15:08:35,145 - INFO - [DewPew] Не нашел clan_6
+2026-10-25 15:08:35,417 - INFO - [DewPew] Нет новых клан или не удалось собрать
+2026-10-25 15:08:37,244 - INFO - [DewPew] Не находимся в энерго
+2026-10-25 15:08:40,815 - INFO - [DewPew] Нашел сбор альянса, жму
+2026-10-25 15:08:46,983 - INFO - [DewPew] Альянс успешно собран
+2026-10-25 15:08:47,060 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-25 15:08:54,682 - INFO - [DewPew] Нашел бп
+2026-10-25 15:08:56,182 - INFO - [DewPew] Пробую чекнуть вкладочки бп
+2026-10-25 15:08:56,683 - INFO - [DewPew] {'left': 800, 'top': 860, 'width': 400, 'height': 1}
+2026-10-25 15:08:56,711 - INFO - [DewPew] [155]
+2026-10-25 15:08:56,711 - INFO - [DewPew] final [['155, 25', 'no']]
+2026-10-25 15:08:56,713 - INFO - [DewPew] Обнаружил вкладок бп: 1, начинаю чекать...
+2026-10-25 15:08:58,478 - INFO - [DewPew] Подвкладок найдено: 1
+2026-10-25 15:08:59,729 - INFO - [DewPew] Собираю награду [1.1]
+2026-10-25 15:09:03,477 - INFO - [DewPew] Нет наград во вкладке 1, под 1
+2026-10-25 15:09:07,348 - INFO - [DewPew] Закрываю баттл пасс
+2026-10-25 15:09:09,607 - INFO - [DewPew] Пасс успешно собран
+2026-10-25 15:09:11,445 - INFO - [DewPew] Не находимся в энерго
+2026-10-25 15:09:15,911 - INFO - [DewPew] Вылезла обычная реклама, закрыл гадость
+2026-10-25 15:09:36,527 - INFO - [DewPew] Шоп успешно собран
+2026-10-25 15:09:38,362 - INFO - [DewPew] Не находимся в энерго
+2026-10-25 15:09:48,429 - INFO - [DewPew] main_loop завершился
+2026-10-25 15:40:44,466 - INFO - [DewPew] Данги: окно wx=800 wy=835 400x225
+2026-10-25 15:40:44,491 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-25 15:40:51,991 - INFO - [DewPew] Не находимся в энерго
+2026-10-25 15:40:51,992 - INFO - [DewPew] _wake_up: вышли из сна с попытки 1
+2026-10-25 15:40:59,652 - INFO - [DewPew] Данги: меню подземелий открыто
+2026-10-25 15:40:59,670 - INFO - [DewPew] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-25 15:40:59,695 - INFO - [DewPew] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-25 15:41:00,901 - INFO - [DewPew] Данги OCR [--psm 11]: 'fen | fauve | злиррернельнико | fete | ugk | в | at | fp | ores | blgly | he | ahs | “vane | try | >. | оставылерся | награды | 1 | роз) | ua | st | о'
+2026-10-25 15:41:01,848 - INFO - [DewPew] Данги OCR [--psm 6]: 'зе | we | e | . | . | gca | в | во | ушка | о | с | ч | 1 | fe. | 2 | a | х | os | у | у | умы | „>. | . | oc | staneece | rtp | 1 | роз) | tas | в | '
+2026-10-25 15:41:03,282 - INFO - [DewPew] Данги OCR [--psm 12]: 'т” | wer | ne | enedeenotuey | tt | wangr) | qh | analy | ak | ' | „1 | 0399 | в | oad | ate | 2232} | ro | ronnces | моб | presredoreg | womans | 010'
+2026-10-25 15:41:04,257 - INFO - [DewPew] Данги OCR [--psm 3]: 'рты | fame | aewerunsme | fps. | - | oer | в | at | fot | век | bll | oc | staneece | rtp | 1 | роз) | остроа | номстовства | с+>сьсх | сброс | оводуе'
+2026-10-25 15:41:04,257 - DEBUG - [DewPew] Данги: попытка 1/15 — OCR=нет
+2026-10-25 15:41:11,788 - INFO - [DewPew] Данги OCR [--psm 11]: 'fe | uctseamece | ныгрыды | 1 | peated | st | тих | "бара | надевал | `. | сброс | о | модуиеено | 00600 | з | oe | .. | брачная | деступь | 1ч. | фи '
+2026-10-25 15:41:12,408 - INFO - [DewPew] Данги OCR [--psm 6]: 'м | т | : | uctseumerce | награды | 1 | peas) | , | `, | ” | is: | - | cdpeceunpusne | nseeo | „$ | bo | is | | | г: | разорезомый | замок | +: | < | '
+2026-10-25 15:41:14,091 - INFO - [DewPew] Данги OCR [--psm 12]: 'fe | uctseamece | ныгрыды | 1 | peated | клан | "биз | hath | i | sé | $ | еек: | bu. | `. | сброс | о | модуиеено | 00600 | з | : | брачная | деступь'
+2026-10-25 15:41:15,454 - INFO - [DewPew] Данги OCR [--psm 3]: 'ter | mane | ae | uden | й | = | . | . | сыграды | 1 | раз | (0) | ,. | рики | reps | . | хе. | рель | , | т | tke | надеты. | i | сброс | опорно | в '
+2026-10-25 15:41:15,454 - DEBUG - [DewPew] Данги: попытка 2/15 — OCR=нет
+2026-10-25 15:41:23,419 - INFO - [DewPew] Данги OCR [--psm 11]: '™ | . | 5 | рр | зе | ие | пр | ao | ть | md | “al | г. | разоремвеый | замок | --: | 2 | сре | о | по | древе | в | 10 | 2 | ; | e's | oe | 2 | of | '
+2026-10-25 15:41:24,667 - INFO - [DewPew] Данги OCR [--psm 6]: '‘4 | pa | ‘ | —— | we | soot | а | ume | а | : | ry | parsopereadl | замок | „+. | <> | < | : | : | . | * | . | сре | о | по | древе | в | 10 | he | е'
+2026-10-25 15:41:26,233 - INFO - [DewPew] Данги OCR [--psm 12]: 'у | =—e_e | cu | лек, | и | , | г. | разоремвеый | замок | --: | 2 | es | i | сре | о | по | peer | в | 10 | 2 | of | speee | доступе | 14 | bam | “e '
+2026-10-25 15:41:27,365 - INFO - [DewPew] Данги OCR [--psm 3]: 'о | офи | eee | сил | лек, | и | розореномй | замок | os | сре | о | по | древе | в | 10 | эроа | доступе | 1чфшыл. | sepeqyowe | аровый | 3% | 14 | m'
+2026-10-25 15:41:27,365 - DEBUG - [DewPew] Данги: попытка 3/15 — OCR=нет
+2026-10-25 15:41:33,214 - INFO - [DewPew] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-25 15:41:34,547 - INFO - [DewPew] Данги OCR [--psm 11]: 'ра“ | reap | een | ек | wa, | nay, | у. | “в | re | м | 1 | as | вв | дым | ope | те | rs] | my | nf | ‘}: | myatees | ctor | 1 | фо | мы | beer | ee '
+2026-10-25 15:41:36,037 - INFO - [DewPew] Данги OCR [--psm 6]: 'м, | 5 | 3.“ | reaper | оз | а | i | ge | . | к | че | : | ee | бе: | к | ия | щенки | . | о | со | pens | доста | po | мых | ans | . | ий | ое | е | '
+2026-10-25 15:41:37,521 - DEBUG - [DewPew] Данги: попытка 4/15 — OCR=да
+2026-10-25 15:41:37,521 - DEBUG - [DewPew] Данги: OCR нашёл но в самом низу (ocr_y=142, list_h=146) — прокручиваю ещё
+2026-10-25 15:41:42,829 - INFO - [DewPew] Данги OCR [--psm 11]: 'ay | $ | г | " | 4k | se | cees | ctyns | 10 | men | . | bere | cee | време | , | : | a | 14 | => | № | bd | . | храм | рассвета | «ах | крик | в | ве'
+2026-10-25 15:41:44,171 - DEBUG - [DewPew] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-25 15:41:44,171 - INFO - [DewPew] Данги: найден через OCR (33,167)
+2026-10-25 15:41:44,175 - INFO - [DewPew] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-25 15:41:44,176 - INFO - [DewPew] Данги: клик по строке (33,167)
+2026-10-25 15:41:46,055 - INFO - [DewPew] Данги: кликнул, проверяю время доступа
+2026-10-25 15:41:46,082 - INFO - [DewPew] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-25 15:41:46,092 - INFO - [DewPew] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-25 15:41:46,093 - INFO - [DewPew] Данги: время доступа есть — иду в данж
+2026-10-25 15:41:49,347 - INFO - [DewPew] Данги: нажал Вход
+2026-10-25 15:41:49,365 - INFO - [DewPew] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-25 15:41:49,376 - INFO - [DewPew] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-25 15:41:49,392 - INFO - [DewPew] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-25 15:41:49,409 - INFO - [DewPew] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-25 15:41:49,427 - INFO - [DewPew] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-25 15:41:49,442 - INFO - [DewPew] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-25 15:41:49,460 - INFO - [DewPew] Данги: Ур.40 mean=32 ОТКРЫТ
+2026-10-25 15:41:49,476 - INFO - [DewPew] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-25 15:41:49,476 - INFO - [DewPew] Данги: кликаю последний открытый = Ур.75
+2026-10-25 15:41:49,781 - INFO - [DewPew] Данги: клик Ур.75 (257,164) offset=(-3,0)
+2026-10-25 15:41:55,119 - INFO - [DewPew] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-25 15:41:55,120 - INFO - [DewPew] Данги: светлый экран (mean=110) — данж запущен через Ур.75
+2026-10-25 15:41:55,120 - INFO - [DewPew] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-25 15:42:03,135 - INFO - [DewPew] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-25 15:42:04,960 - INFO - [DewPew] Не находимся в энерго
+2026-10-25 15:42:04,960 - INFO - [DewPew] Данги: попытка усыпления 1/3
+2026-10-25 15:42:11,109 - INFO - [DewPew] Находимся в энергорежиме
+2026-10-25 15:42:11,109 - INFO - [DewPew] Данги: уснул с попытки 1
+2026-10-25 15:42:11,109 - INFO - [DewPew] Данги: Благословенная Земля запущена, окно в сне
+2026-10-25 15:42:11,110 - INFO - [DewPew] main_loop завершился
