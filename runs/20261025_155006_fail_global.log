@@ -1,0 +1,201 @@
+=== Log tail 2026-10-25T15:50:10.452488 | last 200 lines ===
+2026-10-25 15:44:16,112 - INFO - [global] Проверяю обновы...
+2026-10-25 15:44:16,986 - DEBUG - [global] needs_update: raw → 5.14.15
+2026-10-25 15:44:17,192 - DEBUG - [global] needs_update: API → 5.14.15
+2026-10-25 15:44:17,192 - DEBUG - [global] needs_update: лучший источник raw → 5.14.15 (из 2)
+2026-10-25 15:44:17,192 - INFO - [global] needs_update: local=(5, 14, 8) remote=(5, 14, 15) -> has_update=True
+2026-10-25 15:44:17,192 - INFO - [global] Доступна обнова! Спавню кнопку
+2026-10-25 15:44:18,059 - INFO - [global] LogUploader: запускаю upload_run_logs...
+2026-10-25 15:44:18,060 - DEBUG - [global] log_uploader: START window=periodic made=-1 token=...Rjnfq
+2026-10-25 15:44:19,087 - DEBUG - [global] _api_put: GET runs/20261025_154418_fail_periodic.log -> 404
+2026-10-25 15:44:21,643 - DEBUG - [global] _api_put: PUT runs/20261025_154418_fail_periodic.log -> 201 (93319 bytes)
+2026-10-25 15:44:21,646 - DEBUG - [global] log_uploader: STEP 1 (window log) -> https://github.com/StarateJI/L2Mauto/blob/bot-logs/runs/20261025_154418_fail_periodic.log
+2026-10-25 15:44:22,791 - DEBUG - [global] _api_put: GET debug/periodic/profiles_Dungeon_blessed_menu_opened.png -> 200
+2026-10-25 15:44:24,914 - DEBUG - [global] _api_put: PUT debug/periodic/profiles_Dungeon_blessed_menu_opened.png -> 200 (108799 bytes)
+2026-10-25 15:44:26,014 - DEBUG - [global] _api_put: GET debug/periodic/profiles_Dungeon_blessed_scroll_00.png -> 200
+2026-10-25 15:44:28,205 - DEBUG - [global] _api_put: PUT debug/periodic/profiles_Dungeon_blessed_scroll_00.png -> 200 (47558 bytes)
+2026-10-25 15:44:28,207 - DEBUG - [global] log_uploader: STEP 2 (PNGs) -> 2/2 (удалено с диска: 2)
+2026-10-25 15:44:29,234 - DEBUG - [global] _api_put: GET runs/20261025_154418_fail_global.log -> 404
+2026-10-25 15:44:31,504 - DEBUG - [global] _api_put: PUT runs/20261025_154418_fail_global.log -> 201 (23207 bytes)
+2026-10-25 15:44:31,507 - DEBUG - [global] log_uploader: STEP 3 (global log) -> https://github.com/StarateJI/L2Mauto/blob/bot-logs/runs/20261025_154418_fail_global.log
+2026-10-25 15:44:31,507 - DEBUG - [global] log_uploader: END window=periodic
+2026-10-25 15:44:31,507 - INFO - [global] LogUploader: upload_run_logs завершён
+2026-10-25 15:44:47,209 - INFO - [global] Проверяю обновы...
+2026-10-25 15:44:48,128 - DEBUG - [global] needs_update: raw → 5.14.15
+2026-10-25 15:44:48,513 - DEBUG - [global] needs_update: API → 5.14.15
+2026-10-25 15:44:48,513 - DEBUG - [global] needs_update: лучший источник raw → 5.14.15 (из 2)
+2026-10-25 15:44:48,514 - INFO - [global] needs_update: local=(5, 14, 8) remote=(5, 14, 15) -> has_update=True
+2026-10-25 15:44:48,514 - INFO - [global] Доступна обнова! Спавню кнопку
+2026-10-25 15:45:13,546 - INFO - [global] [-BaseProfile-] Остановил слушалку
+2026-10-25 15:45:13,548 - DEBUG - [global] log_uploader: START window=АкцияКБ made=0 token=...Rjnfq
+2026-10-25 15:45:13,930 - INFO - [global] [-BaseProfile-] Остановил слушалку
+2026-10-25 15:45:13,931 - DEBUG - [global] log_uploader: START window=Коллектор made=0 token=...Rjnfq
+2026-10-25 15:45:14,144 - INFO - [global] Пачка 10/10: завершена за 91с
+2026-10-25 15:45:14,631 - DEBUG - [global] _api_put: GET runs/20261025_154513_fail_АкцияКБ.log -> 404
+2026-10-25 15:45:14,944 - DEBUG - [global] _api_put: GET runs/20261025_154513_fail_Коллектор.log -> 404
+2026-10-25 15:45:15,144 - INFO - [global] Прогон завершён за 910с (15.2 мин). Пачек: 10.
+2026-10-25 15:45:17,173 - DEBUG - [global] _api_put: PUT runs/20261025_154513_fail_АкцияКБ.log -> 201 (66859 bytes)
+2026-10-25 15:45:17,176 - DEBUG - [global] log_uploader: STEP 1 (window log) -> https://github.com/StarateJI/L2Mauto/blob/bot-logs/runs/20261025_154513_fail_%D0%90%D0%BA%D1%86%D0%B8%D1%8F%D0%9A%D0%91.log
+2026-10-25 15:45:17,289 - DEBUG - [global] _api_put: PUT runs/20261025_154513_fail_Коллектор.log -> 409 (67222 bytes)
+2026-10-25 15:45:17,289 - WARNING - [global] _api_put: PUT failed body: {"message":"is at c19fe24729d33b141430b2fc55c017519a78e6a1 but expected 3292d336b87947f6e2a58abd10db13deda54a4e0","documentation_url":"https://docs.github.com/rest/repos/contents#create-or-update-file
+2026-10-25 15:45:17,291 - DEBUG - [global] log_uploader: STEP 1 (window log) -> FAILED
+2026-10-25 15:45:18,424 - DEBUG - [global] _api_put: GET debug/АкцияКБ/profiles_Dungeon_blessed_after_dungeon_click.png -> 200
+2026-10-25 15:45:18,509 - DEBUG - [global] _api_put: GET debug/Коллектор/profiles_Dungeon_blessed_after_dungeon_click.png -> 200
+2026-10-25 15:45:18,532 - INFO - [global] Проверяю обновы...
+2026-10-25 15:45:19,551 - DEBUG - [global] needs_update: raw → 5.14.15
+2026-10-25 15:45:19,761 - DEBUG - [global] needs_update: API → 5.14.15
+2026-10-25 15:45:19,761 - DEBUG - [global] needs_update: лучший источник raw → 5.14.15 (из 2)
+2026-10-25 15:45:19,761 - INFO - [global] needs_update: local=(5, 14, 8) remote=(5, 14, 15) -> has_update=True
+2026-10-25 15:45:19,761 - INFO - [global] Доступна обнова! Спавню кнопку
+2026-10-25 15:45:20,558 - DEBUG - [global] _api_put: PUT debug/АкцияКБ/profiles_Dungeon_blessed_after_dungeon_click.png -> 200 (117057 bytes)
+2026-10-25 15:45:20,689 - DEBUG - [global] _api_put: PUT debug/Коллектор/profiles_Dungeon_blessed_after_dungeon_click.png -> 409 (117057 bytes)
+2026-10-25 15:45:20,689 - WARNING - [global] _api_put: PUT failed body: {"message":"is at fd07d9ee2f69d3d68ee67af3152bdd0f5061c729 but expected c19fe24729d33b141430b2fc55c017519a78e6a1","documentation_url":"https://docs.github.com/rest/repos/contents#create-or-update-file
+2026-10-25 15:45:21,669 - DEBUG - [global] _api_put: GET debug/Коллектор/profiles_Dungeon_blessed_after_load.png -> 404
+2026-10-25 15:45:21,915 - DEBUG - [global] _api_put: GET debug/АкцияКБ/profiles_Dungeon_blessed_after_load.png -> 200
+2026-10-25 15:45:24,038 - DEBUG - [global] _api_put: PUT debug/АкцияКБ/profiles_Dungeon_blessed_after_load.png -> 200 (183908 bytes)
+2026-10-25 15:45:24,115 - DEBUG - [global] _api_put: PUT debug/Коллектор/profiles_Dungeon_blessed_after_load.png -> 409 (183908 bytes)
+2026-10-25 15:45:24,115 - WARNING - [global] _api_put: PUT failed body: {"message":"is at e57532fa14663c6a026912dd825b3d3652c6e263 but expected fd07d9ee2f69d3d68ee67af3152bdd0f5061c729","documentation_url":"https://docs.github.com/rest/repos/contents#create-or-update-file
+2026-10-25 15:45:25,139 - DEBUG - [global] _api_put: GET debug/АкцияКБ/profiles_Dungeon_blessed_after_Ур_75.png -> 200
+2026-10-25 15:45:25,212 - DEBUG - [global] _api_put: GET debug/Коллектор/profiles_Dungeon_blessed_after_Ур_75.png -> 200
+2026-10-25 15:45:27,419 - DEBUG - [global] _api_put: PUT debug/АкцияКБ/profiles_Dungeon_blessed_after_Ур_75.png -> 200 (163735 bytes)
+2026-10-25 15:45:27,477 - DEBUG - [global] _api_put: PUT debug/Коллектор/profiles_Dungeon_blessed_after_Ур_75.png -> 409 (163735 bytes)
+2026-10-25 15:45:27,477 - WARNING - [global] _api_put: PUT failed body: {"message":"is at 72ba692ea1d39dd543222308444b99af16b0099a but expected e57532fa14663c6a026912dd825b3d3652c6e263","documentation_url":"https://docs.github.com/rest/repos/contents#create-or-update-file
+2026-10-25 15:45:28,414 - DEBUG - [global] _api_put: GET debug/АкцияКБ/profiles_Dungeon_blessed_found_ocr.png -> 404
+2026-10-25 15:45:28,479 - DEBUG - [global] _api_put: GET debug/Коллектор/profiles_Dungeon_blessed_found_ocr.png -> 404
+2026-10-25 15:45:30,472 - DEBUG - [global] _api_put: PUT debug/Коллектор/profiles_Dungeon_blessed_found_ocr.png -> 201 (49794 bytes)
+2026-10-25 15:45:30,541 - DEBUG - [global] _api_put: PUT debug/АкцияКБ/profiles_Dungeon_blessed_found_ocr.png -> 409 (49794 bytes)
+2026-10-25 15:45:30,541 - WARNING - [global] _api_put: PUT failed body: {"message":"is at 355eacc4731878b2aa7681c67500d590ff6512c3 but expected 72ba692ea1d39dd543222308444b99af16b0099a","documentation_url":"https://docs.github.com/rest/repos/contents#create-or-update-file
+2026-10-25 15:45:31,500 - DEBUG - [global] _api_put: GET debug/Коллектор/profiles_Dungeon_blessed_level_window.png -> 404
+2026-10-25 15:45:31,536 - INFO - [global] LogUploader: запускаю upload_run_logs...
+2026-10-25 15:45:31,537 - DEBUG - [global] log_uploader: START window=periodic made=-1 token=...Rjnfq
+2026-10-25 15:45:31,564 - DEBUG - [global] _api_put: GET debug/АкцияКБ/profiles_Dungeon_blessed_level_window.png -> 404
+2026-10-25 15:45:32,738 - DEBUG - [global] _api_put: GET runs/20261025_154531_fail_periodic.log -> 404
+2026-10-25 15:45:33,625 - DEBUG - [global] _api_put: PUT debug/АкцияКБ/profiles_Dungeon_blessed_level_window.png -> 201 (59433 bytes)
+2026-10-25 15:45:33,703 - DEBUG - [global] _api_put: PUT debug/Коллектор/profiles_Dungeon_blessed_level_window.png -> 409 (59433 bytes)
+2026-10-25 15:45:33,703 - WARNING - [global] _api_put: PUT failed body: {"message":"is at e86276c44a07a3f814d994de58b50d67837fe124 but expected 355eacc4731878b2aa7681c67500d590ff6512c3","documentation_url":"https://docs.github.com/rest/repos/contents#create-or-update-file
+2026-10-25 15:45:34,718 - DEBUG - [global] _api_put: GET debug/Коллектор/profiles_Dungeon_blessed_scroll_03.png -> 404
+2026-10-25 15:45:34,824 - DEBUG - [global] _api_put: GET debug/АкцияКБ/profiles_Dungeon_blessed_scroll_03.png -> 404
+2026-10-25 15:45:35,257 - DEBUG - [global] _api_put: PUT runs/20261025_154531_fail_periodic.log -> 201 (93319 bytes)
+2026-10-25 15:45:35,258 - DEBUG - [global] log_uploader: STEP 1 (window log) -> https://github.com/StarateJI/L2Mauto/blob/bot-logs/runs/20261025_154531_fail_periodic.log
+2026-10-25 15:45:36,360 - DEBUG - [global] _api_put: GET debug/periodic/profiles_Dungeon_blessed_scroll_03.png -> 200
+2026-10-25 15:45:36,552 - DEBUG - [global] _api_put: PUT debug/Коллектор/profiles_Dungeon_blessed_scroll_03.png -> 201 (50096 bytes)
+2026-10-25 15:45:36,770 - DEBUG - [global] _api_put: PUT debug/АкцияКБ/profiles_Dungeon_blessed_scroll_03.png -> 409 (50096 bytes)
+2026-10-25 15:45:36,770 - WARNING - [global] _api_put: PUT failed body: {"message":"is at 4441c113f3cd5b88e9a706c6b6b64c9a78bfb51d but expected 30f7d386449bdb52b5cb591c09121fddec8ef44d","documentation_url":"https://docs.github.com/rest/repos/contents#create-or-update-file
+2026-10-25 15:45:37,588 - DEBUG - [global] _api_put: GET debug/Коллектор/profiles_Dungeon_blessed_time_check.png -> 404
+2026-10-25 15:45:37,833 - DEBUG - [global] _api_put: GET debug/АкцияКБ/profiles_Dungeon_blessed_time_check.png -> 200
+2026-10-25 15:45:38,331 - DEBUG - [global] _api_put: PUT debug/periodic/profiles_Dungeon_blessed_scroll_03.png -> 200 (50096 bytes)
+2026-10-25 15:45:39,168 - DEBUG - [global] _api_put: PUT debug/Коллектор/profiles_Dungeon_blessed_time_check.png -> 201 (10384 bytes)
+2026-10-25 15:45:39,172 - DEBUG - [global] log_uploader: STEP 2 (PNGs) -> 3/7 (удалено с диска: 3)
+2026-10-25 15:45:39,267 - DEBUG - [global] _api_put: GET debug/periodic/profiles_Dungeon_blessed_time_check.png -> 200
+2026-10-25 15:45:39,659 - DEBUG - [global] _api_put: PUT debug/АкцияКБ/profiles_Dungeon_blessed_time_check.png -> 409 (10384 bytes)
+2026-10-25 15:45:39,659 - WARNING - [global] _api_put: PUT failed body: {"message":"is at 5770fbce348cf00e3a24c9eeaf646e0054383710 but expected 4fd75920826d709f334659bf6e688ecbfd658b43","documentation_url":"https://docs.github.com/rest/repos/contents#create-or-update-file
+2026-10-25 15:45:39,661 - DEBUG - [global] log_uploader: STEP 2 (PNGs) -> 4/7 (удалено с диска: 4)
+2026-10-25 15:45:40,347 - DEBUG - [global] _api_put: GET runs/20261025_154513_fail_global.log -> 404
+2026-10-25 15:45:40,599 - DEBUG - [global] _api_put: GET runs/20261025_154513_fail_global.log -> 404
+2026-10-25 15:45:40,978 - DEBUG - [global] _api_put: PUT debug/periodic/profiles_Dungeon_blessed_time_check.png -> 200 (10384 bytes)
+2026-10-25 15:45:40,980 - DEBUG - [global] log_uploader: STEP 2 (PNGs) -> 2/2 (удалено с диска: 2)
+2026-10-25 15:45:43,195 - DEBUG - [global] _api_put: GET runs/20261025_154531_fail_global.log -> 404
+2026-10-25 15:45:43,491 - DEBUG - [global] _api_put: PUT runs/20261025_154513_fail_global.log -> 409 (24727 bytes)
+2026-10-25 15:45:43,492 - WARNING - [global] _api_put: PUT failed body: {"message":"is at 60b7d517fad7f2d14c79458a42a982a8946b5ad4 but expected 51ef12a23158e267a5d37e9870cd72e9d0fcc94a","documentation_url":"https://docs.github.com/rest/repos/contents#create-or-update-file
+2026-10-25 15:45:43,494 - DEBUG - [global] log_uploader: STEP 3 (global log) -> FAILED
+2026-10-25 15:45:43,494 - DEBUG - [global] log_uploader: END window=АкцияКБ
+2026-10-25 15:45:43,522 - DEBUG - [global] _api_put: PUT runs/20261025_154513_fail_global.log -> 201 (24589 bytes)
+2026-10-25 15:45:43,524 - DEBUG - [global] log_uploader: STEP 3 (global log) -> https://github.com/StarateJI/L2Mauto/blob/bot-logs/runs/20261025_154513_fail_global.log
+2026-10-25 15:45:43,524 - DEBUG - [global] log_uploader: END window=Коллектор
+2026-10-25 15:45:45,673 - DEBUG - [global] _api_put: PUT runs/20261025_154531_fail_global.log -> 201 (24711 bytes)
+2026-10-25 15:45:45,675 - DEBUG - [global] log_uploader: STEP 3 (global log) -> https://github.com/StarateJI/L2Mauto/blob/bot-logs/runs/20261025_154531_fail_global.log
+2026-10-25 15:45:45,675 - DEBUG - [global] log_uploader: END window=periodic
+2026-10-25 15:45:45,675 - INFO - [global] LogUploader: upload_run_logs завершён
+2026-10-25 15:45:49,779 - INFO - [global] Проверяю обновы...
+2026-10-25 15:45:50,641 - DEBUG - [global] needs_update: raw → 5.14.15
+2026-10-25 15:45:50,839 - DEBUG - [global] needs_update: API → 5.14.15
+2026-10-25 15:45:50,839 - DEBUG - [global] needs_update: лучший источник raw → 5.14.15 (из 2)
+2026-10-25 15:45:50,839 - INFO - [global] needs_update: local=(5, 14, 8) remote=(5, 14, 15) -> has_update=True
+2026-10-25 15:45:50,839 - INFO - [global] Доступна обнова! Спавню кнопку
+2026-10-25 15:46:20,856 - INFO - [global] Проверяю обновы...
+2026-10-25 15:46:21,877 - DEBUG - [global] needs_update: raw → 5.14.15
+2026-10-25 15:46:21,910 - DEBUG - [global] needs_update: API → 5.14.15
+2026-10-25 15:46:21,910 - DEBUG - [global] needs_update: лучший источник raw → 5.14.15 (из 2)
+2026-10-25 15:46:21,910 - INFO - [global] needs_update: local=(5, 14, 8) remote=(5, 14, 15) -> has_update=True
+2026-10-25 15:46:21,910 - INFO - [global] Доступна обнова! Спавню кнопку
+2026-10-25 15:46:45,707 - INFO - [global] LogUploader: запускаю upload_run_logs...
+2026-10-25 15:46:45,708 - DEBUG - [global] log_uploader: START window=periodic made=-1 token=...Rjnfq
+2026-10-25 15:46:46,657 - DEBUG - [global] _api_put: GET runs/20261025_154645_fail_periodic.log -> 404
+2026-10-25 15:46:49,214 - DEBUG - [global] _api_put: PUT runs/20261025_154645_fail_periodic.log -> 201 (93319 bytes)
+2026-10-25 15:46:49,218 - DEBUG - [global] log_uploader: STEP 1 (window log) -> https://github.com/StarateJI/L2Mauto/blob/bot-logs/runs/20261025_154645_fail_periodic.log
+2026-10-25 15:46:49,221 - DEBUG - [global] log_uploader: STEP 2 SKIP (no PNGs)
+2026-10-25 15:46:50,242 - DEBUG - [global] _api_put: GET runs/20261025_154645_fail_global.log -> 404
+2026-10-25 15:46:51,929 - INFO - [global] Проверяю обновы...
+2026-10-25 15:46:52,641 - DEBUG - [global] _api_put: PUT runs/20261025_154645_fail_global.log -> 201 (24370 bytes)
+2026-10-25 15:46:52,644 - DEBUG - [global] log_uploader: STEP 3 (global log) -> https://github.com/StarateJI/L2Mauto/blob/bot-logs/runs/20261025_154645_fail_global.log
+2026-10-25 15:46:52,644 - DEBUG - [global] log_uploader: END window=periodic
+2026-10-25 15:46:52,644 - INFO - [global] LogUploader: upload_run_logs завершён
+2026-10-25 15:46:52,950 - DEBUG - [global] needs_update: API → 5.14.15
+2026-10-25 15:46:52,979 - DEBUG - [global] needs_update: raw → 5.14.15
+2026-10-25 15:46:52,979 - DEBUG - [global] needs_update: лучший источник API → 5.14.15 (из 2)
+2026-10-25 15:46:52,979 - INFO - [global] needs_update: local=(5, 14, 8) remote=(5, 14, 15) -> has_update=True
+2026-10-25 15:46:52,979 - INFO - [global] Доступна обнова! Спавню кнопку
+2026-10-25 15:47:22,996 - INFO - [global] Проверяю обновы...
+2026-10-25 15:47:23,827 - DEBUG - [global] needs_update: raw → 5.14.15
+2026-10-25 15:47:24,027 - DEBUG - [global] needs_update: API → 5.14.15
+2026-10-25 15:47:24,027 - DEBUG - [global] needs_update: лучший источник raw → 5.14.15 (из 2)
+2026-10-25 15:47:24,027 - INFO - [global] needs_update: local=(5, 14, 8) remote=(5, 14, 15) -> has_update=True
+2026-10-25 15:47:24,027 - INFO - [global] Доступна обнова! Спавню кнопку
+2026-10-25 15:47:52,677 - INFO - [global] LogUploader: запускаю upload_run_logs...
+2026-10-25 15:47:52,678 - DEBUG - [global] log_uploader: START window=periodic made=-1 token=...Rjnfq
+2026-10-25 15:47:53,627 - DEBUG - [global] _api_put: GET runs/20261025_154752_fail_periodic.log -> 404
+2026-10-25 15:47:54,044 - INFO - [global] Проверяю обновы...
+2026-10-25 15:47:54,894 - DEBUG - [global] needs_update: raw → 5.14.15
+2026-10-25 15:47:55,073 - DEBUG - [global] needs_update: API → 5.14.15
+2026-10-25 15:47:55,073 - DEBUG - [global] needs_update: лучший источник raw → 5.14.15 (из 2)
+2026-10-25 15:47:55,073 - INFO - [global] needs_update: local=(5, 14, 8) remote=(5, 14, 15) -> has_update=True
+2026-10-25 15:47:55,073 - INFO - [global] Доступна обнова! Спавню кнопку
+2026-10-25 15:47:56,223 - DEBUG - [global] _api_put: PUT runs/20261025_154752_fail_periodic.log -> 201 (93319 bytes)
+2026-10-25 15:47:56,225 - DEBUG - [global] log_uploader: STEP 1 (window log) -> https://github.com/StarateJI/L2Mauto/blob/bot-logs/runs/20261025_154752_fail_periodic.log
+2026-10-25 15:47:56,227 - DEBUG - [global] log_uploader: STEP 2 SKIP (no PNGs)
+2026-10-25 15:47:57,249 - DEBUG - [global] _api_put: GET runs/20261025_154752_fail_global.log -> 404
+2026-10-25 15:47:59,579 - DEBUG - [global] _api_put: PUT runs/20261025_154752_fail_global.log -> 201 (23920 bytes)
+2026-10-25 15:47:59,582 - DEBUG - [global] log_uploader: STEP 3 (global log) -> https://github.com/StarateJI/L2Mauto/blob/bot-logs/runs/20261025_154752_fail_global.log
+2026-10-25 15:47:59,584 - DEBUG - [global] log_uploader: END window=periodic
+2026-10-25 15:47:59,584 - INFO - [global] LogUploader: upload_run_logs завершён
+2026-10-25 15:48:25,090 - INFO - [global] Проверяю обновы...
+2026-10-25 15:48:26,120 - DEBUG - [global] needs_update: raw → 5.14.15
+2026-10-25 15:48:26,159 - DEBUG - [global] needs_update: API → 5.14.15
+2026-10-25 15:48:26,159 - DEBUG - [global] needs_update: лучший источник raw → 5.14.15 (из 2)
+2026-10-25 15:48:26,159 - INFO - [global] needs_update: local=(5, 14, 8) remote=(5, 14, 15) -> has_update=True
+2026-10-25 15:48:26,159 - INFO - [global] Доступна обнова! Спавню кнопку
+2026-10-25 15:48:56,178 - INFO - [global] Проверяю обновы...
+2026-10-25 15:48:57,034 - DEBUG - [global] needs_update: raw → 5.14.15
+2026-10-25 15:48:57,172 - DEBUG - [global] needs_update: API → 5.14.15
+2026-10-25 15:48:57,173 - DEBUG - [global] needs_update: лучший источник raw → 5.14.15 (из 2)
+2026-10-25 15:48:57,173 - INFO - [global] needs_update: local=(5, 14, 8) remote=(5, 14, 15) -> has_update=True
+2026-10-25 15:48:57,173 - INFO - [global] Доступна обнова! Спавню кнопку
+2026-10-25 15:48:59,619 - INFO - [global] LogUploader: запускаю upload_run_logs...
+2026-10-25 15:48:59,620 - DEBUG - [global] log_uploader: START window=periodic made=-1 token=...Rjnfq
+2026-10-25 15:49:00,593 - DEBUG - [global] _api_put: GET runs/20261025_154859_fail_periodic.log -> 404
+2026-10-25 15:49:03,281 - DEBUG - [global] _api_put: PUT runs/20261025_154859_fail_periodic.log -> 201 (93319 bytes)
+2026-10-25 15:49:03,284 - DEBUG - [global] log_uploader: STEP 1 (window log) -> https://github.com/StarateJI/L2Mauto/blob/bot-logs/runs/20261025_154859_fail_periodic.log
+2026-10-25 15:49:03,286 - DEBUG - [global] log_uploader: STEP 2 SKIP (no PNGs)
+2026-10-25 15:49:04,267 - DEBUG - [global] _api_put: GET runs/20261025_154859_fail_global.log -> 404
+2026-10-25 15:49:06,651 - DEBUG - [global] _api_put: PUT runs/20261025_154859_fail_global.log -> 201 (23782 bytes)
+2026-10-25 15:49:06,652 - DEBUG - [global] log_uploader: STEP 3 (global log) -> https://github.com/StarateJI/L2Mauto/blob/bot-logs/runs/20261025_154859_fail_global.log
+2026-10-25 15:49:06,653 - DEBUG - [global] log_uploader: END window=periodic
+2026-10-25 15:49:06,653 - INFO - [global] LogUploader: upload_run_logs завершён
+2026-10-25 15:49:27,192 - INFO - [global] Проверяю обновы...
+2026-10-25 15:49:28,174 - DEBUG - [global] needs_update: raw → 5.14.15
+2026-10-25 15:49:28,258 - DEBUG - [global] needs_update: API → 5.14.15
+2026-10-25 15:49:28,259 - DEBUG - [global] needs_update: лучший источник raw → 5.14.15 (из 2)
+2026-10-25 15:49:28,259 - INFO - [global] needs_update: local=(5, 14, 8) remote=(5, 14, 15) -> has_update=True
+2026-10-25 15:49:28,259 - INFO - [global] Доступна обнова! Спавню кнопку
+2026-10-25 15:49:58,281 - INFO - [global] Проверяю обновы...
+2026-10-25 15:49:59,285 - DEBUG - [global] needs_update: raw → 5.14.15
+2026-10-25 15:49:59,288 - DEBUG - [global] needs_update: API → 5.14.15
+2026-10-25 15:49:59,289 - DEBUG - [global] needs_update: лучший источник raw → 5.14.15 (из 2)
+2026-10-25 15:49:59,289 - INFO - [global] needs_update: local=(5, 14, 8) remote=(5, 14, 15) -> has_update=True
+2026-10-25 15:49:59,289 - INFO - [global] Доступна обнова! Спавню кнопку
+2026-10-25 15:50:06,687 - INFO - [global] LogUploader: запускаю upload_run_logs...
+2026-10-25 15:50:06,688 - DEBUG - [global] log_uploader: START window=periodic made=-1 token=...Rjnfq
+2026-10-25 15:50:07,770 - DEBUG - [global] _api_put: GET runs/20261025_155006_fail_periodic.log -> 404
+2026-10-25 15:50:10,401 - DEBUG - [global] _api_put: PUT runs/20261025_155006_fail_periodic.log -> 201 (93319 bytes)
+2026-10-25 15:50:10,402 - DEBUG - [global] log_uploader: STEP 1 (window log) -> https://github.com/StarateJI/L2Mauto/blob/bot-logs/runs/20261025_155006_fail_periodic.log
+2026-10-25 15:50:10,404 - DEBUG - [global] log_uploader: STEP 2 SKIP (no PNGs)
