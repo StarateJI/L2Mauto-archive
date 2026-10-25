@@ -1,0 +1,501 @@
+=== Log tail 2026-10-25T15:33:05.324153 | last 500 lines ===
+2026-10-20 11:19:09,948 - WARNING - [GameStop] Аук: не удалось сохранить фулл-скрин au_final_fullscreen.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-20 11:19:09,948 - INFO - [GameStop] Аук: нечего переставлять (все лоты в «Продаётся» или список пуст)
+2026-10-20 11:19:09,948 - DEBUG - [GameStop] Аук: log_uploader запущен в фоне
+2026-10-20 11:19:09,948 - INFO - [GameStop] Шось сломалось либо не смог перевыставить аук
+2026-10-20 11:19:18,088 - INFO - [GameStop] main_loop завершился
+2026-10-20 15:07:44,690 - INFO - [GameStop] Запуск Scheduler профиля
+2026-10-20 15:07:44,706 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-20 15:07:44,706 - INFO - [GameStop] Был в энерго, вырубаю перед запуском Шедули
+2026-10-20 15:07:52,397 - INFO - [GameStop] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-20 15:08:38,542 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-20 15:08:38,542 - INFO - [GameStop] Энерго подтверждён (попытка 1)
+2026-10-20 15:08:38,542 - INFO - [GameStop] Энерго включён, профиль завершён
+2026-10-20 15:08:38,542 - INFO - [GameStop] main_loop завершился
+2026-10-21 09:52:53,458 - INFO - [GameStop] Запуск Scheduler профиля
+2026-10-21 09:52:53,488 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-21 09:52:53,488 - INFO - [GameStop] Был в энерго, вырубаю перед запуском Шедули
+2026-10-21 09:53:01,966 - INFO - [GameStop] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-21 09:53:48,139 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-21 09:53:48,139 - INFO - [GameStop] Энерго подтверждён (попытка 1)
+2026-10-21 09:53:48,139 - INFO - [GameStop] Энерго включён, профиль завершён
+2026-10-21 09:53:48,139 - INFO - [GameStop] main_loop завершился
+2026-10-21 09:56:40,451 - INFO - [GameStop] Данги: окно wx=0 wy=305 400x225
+2026-10-21 09:56:40,474 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-21 09:56:48,010 - INFO - [GameStop] Не находимся в энерго
+2026-10-21 09:56:48,010 - INFO - [GameStop] _wake_up: вышли из сна с попытки 1
+2026-10-21 09:56:55,410 - INFO - [GameStop] Данги: меню подземелий открыто
+2026-10-21 09:56:55,433 - INFO - [GameStop] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-21 09:56:55,445 - INFO - [GameStop] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-21 09:56:56,681 - INFO - [GameStop] Данги OCR [--psm 11]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | ahs | “vane | try | >. | оставылерся | награды | 1 | роз) | ua | st '
+2026-10-21 09:56:57,515 - INFO - [GameStop] Данги OCR [--psm 6]: 'зе | we | e | . | . | gca | в | во | ушка | о | с | ч | 7 | ох | tas | в | остров | hencroacrma | (ccc | se | ets | . | | | rare | брома | деступь | 1'
+2026-10-21 09:56:58,951 - INFO - [GameStop] Данги OCR [--psm 12]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | =, | we | veaet | try | >. | оставылерся | награды | 1 | роз) | ua |'
+2026-10-21 09:56:59,981 - INFO - [GameStop] Данги OCR [--psm 3]: 'нью | fame | waewerunsme | дринибынич | - | oer | в | at | fot | век | bll | oc | staneece | rtp | 1 | роз) | остроа | номстовства | с+>сьсх | сброс |'
+2026-10-21 09:56:59,981 - DEBUG - [GameStop] Данги: попытка 1/15 — OCR=нет
+2026-10-21 09:57:07,549 - INFO - [GameStop] Данги OCR [--psm 11]: '9 | uctsesaecs | гысрыды | teste) | 5.4 | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | . | 4 | ve | .. | 2 | браша | доступь | 1 | '
+2026-10-21 09:57:08,933 - INFO - [GameStop] Данги OCR [--psm 6]: 'о, | м | ие | uctsesaecs | гысрыды | teste) | mo, | aa | остров | hencreacrma | 3602 | < | re | 1 | : | 7 | срок | о | нодуиено | в | 0500 | ra | i | '
+2026-10-21 09:57:10,541 - INFO - [GameStop] Данги OCR [--psm 12]: '9 | uctsesaecs | гысрыды | teste) | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | ip | : | 2 | браша | доступь | 1 | oman | р | г. |'
+2026-10-21 09:57:11,726 - INFO - [GameStop] Данги OCR [--psm 3]: 'о | ставальюсв | napa | 1 | peated | остров | hencroacraa | <r | сброс | © | недра | в | 0500 | qpeen | деступь | 1ч. | фи | бе | очьо | aguas | © | р'
+2026-10-21 09:57:11,726 - DEBUG - [GameStop] Данги: попытка 2/15 — OCR=нет
+2026-10-21 09:57:19,258 - INFO - [GameStop] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | брочая | доступе | 140mm | эрачив | ‹ | hs, | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | wa | ты | г | as'
+2026-10-21 09:57:20,534 - INFO - [GameStop] Данги OCR [--psm 6]: 'в | { | ‘ | о | ни | фобии | бий | ‘ | (у | . | ‘ | qpeee | доступе | 140m | ~ | oan | gteqyowe | pees | с | : | ee | . | iy | wy | parsopersada | зам'
+2026-10-21 09:57:22,152 - INFO - [GameStop] Данги OCR [--psm 12]: ''y | ower | qpeee | доступе | 140mm | , | эрачив | ‹ | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | < | of | ты | г | ase | “6 '
+2026-10-21 09:57:23,134 - INFO - [GameStop] Данги OCR [--psm 3]: 'разоренемй | замок | 60h | сре | о | по | pero | в | 05 | сю | ты | г | боевое | арочый | 2% | 32 | mer | храм | рассвета | uu | cog | 0 | 20 | fps | '
+2026-10-21 09:57:23,134 - DEBUG - [GameStop] Данги: попытка 3/15 — OCR=нет
+2026-10-21 09:57:28,595 - INFO - [GameStop] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-21 09:57:29,977 - INFO - [GameStop] Данги OCR [--psm 11]: 'reaper | оо | сх | mf. | м | к. | у. | cpa | © | ae | дум | bees | а. | я | т | " | ees | tyne | 1 | omen | bee | oko | berr | 2-22 | ees | № | ях | х'
+2026-10-21 09:57:31,469 - INFO - [GameStop] Данги OCR [--psm 6]: 'ew | s's | у. | reaper | оо | a. | <. | ? | е, | у. | рик | ева | дум | бек | sine | а | аг | бурение | cty | 1 | о | мым | a | . | м | соч | вебе | 3'
+2026-10-21 09:57:33,301 - INFO - [GameStop] Данги OCR [--psm 12]: 'reaper | оо | * | af, | va, | * | } | № | : | cpa | © | ae | дум | bees | а. | я | fe | sy | ‘ | oy | ees | tyne | 1 | omen | bee | oko | berr | 2-22 '
+2026-10-21 09:57:34,532 - INFO - [GameStop] Данги OCR [--psm 3]: 'reaper | оо | cpa | © | ae | дум | bees | а. | ees | tyne | 1 | omen | bee | oko | berr | 2-22 | ees | храм | paccseta | газа | colo: | yates | дкктуг'
+2026-10-21 09:57:34,532 - DEBUG - [GameStop] Данги: попытка 4/15 — OCR=нет
+2026-10-21 09:57:36,714 - INFO - [GameStop] Данги OCR [--psm 11]: 'bd | храм | рассвета | a) | ст | ae | ap | bees | ule | su | lo | colo | af | i | = | “4! | mees | tyne | 1 | omens | it | mp | t | a: | berg | oke | '
+2026-10-21 09:57:37,950 - DEBUG - [GameStop] Данги: попытка 5/15 — OCR=да
+2026-10-21 09:57:37,950 - INFO - [GameStop] Данги: найден через OCR (33,154)
+2026-10-21 09:57:37,954 - INFO - [GameStop] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-21 09:57:37,954 - INFO - [GameStop] Данги: клик по строке (33,154)
+2026-10-21 09:57:42,142 - INFO - [GameStop] Данги: кликнул, проверяю время доступа
+2026-10-21 09:57:42,168 - INFO - [GameStop] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-21 09:57:42,177 - INFO - [GameStop] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-21 09:57:42,178 - INFO - [GameStop] Данги: время доступа есть — иду в данж
+2026-10-21 09:57:45,434 - INFO - [GameStop] Данги: нажал Вход
+2026-10-21 09:57:45,448 - INFO - [GameStop] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-21 09:57:45,460 - INFO - [GameStop] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-21 09:57:45,476 - INFO - [GameStop] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-21 09:57:45,492 - INFO - [GameStop] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-21 09:57:45,509 - INFO - [GameStop] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-21 09:57:45,528 - INFO - [GameStop] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-21 09:57:45,542 - INFO - [GameStop] Данги: Ур.40 mean=31 ОТКРЫТ
+2026-10-21 09:57:45,559 - INFO - [GameStop] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-21 09:57:45,559 - INFO - [GameStop] Данги: кликаю последний открытый = Ур.75
+2026-10-21 09:57:45,965 - INFO - [GameStop] Данги: клик Ур.75 (262,165) offset=(2,1)
+2026-10-21 09:57:51,255 - INFO - [GameStop] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-21 09:57:51,255 - INFO - [GameStop] Данги: светлый экран (mean=129) — данж запущен через Ур.75
+2026-10-21 09:57:51,256 - INFO - [GameStop] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-21 09:57:59,270 - INFO - [GameStop] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-21 09:58:01,076 - INFO - [GameStop] Не находимся в энерго
+2026-10-21 09:58:01,076 - INFO - [GameStop] Данги: попытка усыпления 1/3
+2026-10-21 09:58:07,227 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-21 09:58:07,227 - INFO - [GameStop] Данги: уснул с попытки 1
+2026-10-21 09:58:07,227 - INFO - [GameStop] Данги: Благословенная Земля запущена, окно в сне
+2026-10-21 09:58:07,228 - INFO - [GameStop] main_loop завершился
+2026-10-21 09:58:13,869 - WARNING - [GameStop] log_uploader: PNG profiles_Dungeon_blessed_after_Ур_75.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_Ур_75.png'
+2026-10-21 09:58:13,869 - WARNING - [GameStop] log_uploader: PNG profiles_Dungeon_blessed_found_ocr.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_found_ocr.png'
+2026-10-21 09:58:13,870 - WARNING - [GameStop] log_uploader: PNG profiles_Dungeon_blessed_level_window.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_level_window.png'
+2026-10-21 09:58:13,870 - WARNING - [GameStop] log_uploader: PNG profiles_Dungeon_blessed_scroll_03.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_scroll_03.png'
+2026-10-21 09:58:13,870 - WARNING - [GameStop] log_uploader: PNG profiles_Dungeon_blessed_time_check.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_time_check.png'
+2026-10-21 10:32:53,744 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-21 10:33:06,102 - INFO - [GameStop] Ищем вкладки
+2026-10-21 10:33:08,116 - INFO - [GameStop] Перешел на вкладку: (381, 34)
+2026-10-21 10:33:09,467 - INFO - [GameStop] Собираю награду тут: (302, 101)
+2026-10-21 10:33:15,718 - INFO - [GameStop] Перешел на вкладку: (381, 59)
+2026-10-21 10:33:17,081 - INFO - [GameStop] Собираю награду тут: (302, 101)
+2026-10-21 10:33:21,623 - INFO - [GameStop] Перешел на вкладку: (381, 84)
+2026-10-21 10:33:23,016 - INFO - [GameStop] Пропускаем кнопку с алмазом/донатом: (302, 101)
+2026-10-21 10:33:23,257 - INFO - [GameStop] Всего собрано: 3
+2026-10-21 10:33:23,257 - INFO - [GameStop] Дейлик успешно собран
+2026-10-21 10:33:25,077 - INFO - [GameStop] Не находимся в энерго
+2026-10-21 10:33:28,242 - INFO - [GameStop] Нашел почту
+2026-10-21 10:33:34,990 - INFO - [GameStop] Почта собрана
+2026-10-21 10:33:35,486 - INFO - [GameStop] Почта успешно собран
+2026-10-21 10:33:37,310 - INFO - [GameStop] Не находимся в энерго
+2026-10-21 10:33:42,309 - INFO - [GameStop] Нет красной точки на иконке достижений
+2026-10-21 10:33:42,309 - INFO - [GameStop] Нет новых ачивы или не удалось собрать
+2026-10-21 10:33:44,127 - INFO - [GameStop] Не находимся в энерго
+2026-10-21 10:33:45,933 - INFO - [GameStop] Нашел сбор клана
+2026-10-21 10:33:55,781 - INFO - [GameStop] Клан успешно собран
+2026-10-21 10:33:57,612 - INFO - [GameStop] Не находимся в энерго
+2026-10-21 10:34:01,259 - INFO - [GameStop] Нашел сбор альянса, жму
+2026-10-21 10:34:07,374 - INFO - [GameStop] Альянс успешно собран
+2026-10-21 10:34:09,195 - INFO - [GameStop] Не находимся в энерго
+2026-10-21 10:34:12,348 - INFO - [GameStop] Нашел бп
+2026-10-21 10:34:13,851 - INFO - [GameStop] Пробую чекнуть вкладочки бп
+2026-10-21 10:34:14,353 - INFO - [GameStop] {'left': 0, 'top': 330, 'width': 400, 'height': 1}
+2026-10-21 10:34:14,360 - INFO - [GameStop] [80, 155, 230, 305]
+2026-10-21 10:34:14,360 - INFO - [GameStop] final [['80, 25', 'no'], ['155, 25', 'no'], ['230, 25', 'no'], ['305, 25', 'no']]
+2026-10-21 10:34:14,360 - INFO - [GameStop] Обнаружил вкладок бп: 4, начинаю чекать...
+2026-10-21 10:34:16,162 - INFO - [GameStop] Подвкладок найдено: 0
+2026-10-21 10:34:24,527 - INFO - [GameStop] Подвкладок найдено: 1
+2026-10-21 10:34:25,794 - INFO - [GameStop] Собираю награду [2.1]
+2026-10-21 10:34:29,577 - INFO - [GameStop] Нет наград во вкладке 2, под 1
+2026-10-21 10:34:36,911 - INFO - [GameStop] Подвкладок найдено: 0
+2026-10-21 10:34:45,296 - INFO - [GameStop] Подвкладок найдено: 0
+2026-10-21 10:34:51,891 - INFO - [GameStop] Закрываю баттл пасс
+2026-10-21 10:34:54,149 - INFO - [GameStop] Пасс успешно собран
+2026-10-21 10:34:55,962 - INFO - [GameStop] Не находимся в энерго
+2026-10-21 10:35:18,111 - INFO - [GameStop] Вылезла обычная реклама, закрыл гадость
+2026-10-21 10:35:20,644 - INFO - [GameStop] Шоп успешно собран
+2026-10-21 10:35:22,463 - INFO - [GameStop] Не находимся в энерго
+2026-10-21 10:35:32,449 - INFO - [GameStop] main_loop завершился
+2026-10-21 10:43:59,387 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-21 10:44:03,256 - INFO - [GameStop] Аук: запущен relist (снять+найти+поставить)
+2026-10-21 10:44:05,069 - INFO - [GameStop] Не находимся в энерго
+2026-10-21 10:44:11,070 - INFO - [GameStop] Аук: загрузился
+2026-10-21 10:44:11,074 - INFO - [GameStop] Аук: сохранил позицию окна до resize: (0,305) 400x225
+2026-10-21 10:44:11,076 - INFO - [GameStop] Аук: монитор рабочая область 2560x1400 на (0,0)
+2026-10-21 10:44:12,647 - INFO - [GameStop] Аук: окно resize 2560x1400 на (0,40), scale=(2.67,2.59)
+2026-10-21 10:44:18,406 - INFO - [GameStop] Аук: вкладка Продажа открыта
+2026-10-21 10:44:18,406 - WARNING - [GameStop] Аук: не удалось сохранить фулл-скрин au_after_tab_sell.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-21 10:44:18,406 - INFO - [GameStop] Аук: предмет 1/10
+2026-10-21 10:44:18,421 - INFO - [GameStop] Аук: сохранён au_lot_zone.png
+2026-10-21 10:44:18,422 - INFO - [GameStop] Аук: сохранён au_sample.png
+2026-10-21 10:44:18,423 - INFO - [GameStop] Аук: SIFT образец (лот): 0 точек
+2026-10-21 10:44:18,720 - DEBUG - [GameStop] Аук: статус лота Tesseract: 'г'
+2026-10-21 10:44:18,720 - DEBUG - [GameStop] Аук: статус зелёных пикселей: 0 (0.00%)
+2026-10-21 10:44:18,720 - INFO - [GameStop] Аук: образец лота пустой (нет иконки) — список лотов пуст. Завершаю прогон (не ошибка).
+2026-10-21 10:44:18,720 - INFO - [GameStop] Аук: лотов больше нет на странице (предмет 1)
+2026-10-21 10:44:21,985 - INFO - [GameStop] Аук: аук закрыт
+2026-10-21 10:44:22,403 - INFO - [GameStop] Аук: окно возвращено 2560x1400 на (0,40)
+2026-10-21 10:44:22,407 - WARNING - [GameStop] Аук: окно НЕ вернулось в 400x225, сейчас 2560x1400 — принудительный SetWindowPos
+2026-10-21 10:44:22,957 - INFO - [GameStop] Аук: принудительный resize завершён
+2026-10-21 10:44:24,769 - INFO - [GameStop] Не находимся в энерго
+2026-10-21 10:44:32,704 - INFO - [GameStop] Не находимся в энерго
+2026-10-21 10:44:32,704 - WARNING - [GameStop] Аук: энерго не включился (не критично)
+2026-10-21 10:44:32,704 - WARNING - [GameStop] Аук: не удалось сохранить фулл-скрин au_final_fullscreen.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-21 10:44:32,704 - INFO - [GameStop] Аук: нечего переставлять (все лоты в «Продаётся» или список пуст)
+2026-10-21 10:44:32,705 - DEBUG - [GameStop] Аук: log_uploader запущен в фоне
+2026-10-21 10:44:32,705 - INFO - [GameStop] Шось сломалось либо не смог перевыставить аук
+2026-10-21 10:44:38,823 - INFO - [GameStop] main_loop завершился
+2026-10-21 13:14:21,445 - INFO - [GameStop] Запуск Scheduler профиля
+2026-10-21 13:14:21,464 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-21 13:14:21,464 - INFO - [GameStop] Был в энерго, вырубаю перед запуском Шедули
+2026-10-21 13:14:29,183 - INFO - [GameStop] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-21 13:15:15,330 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-21 13:15:15,330 - INFO - [GameStop] Энерго подтверждён (попытка 1)
+2026-10-21 13:15:15,330 - INFO - [GameStop] Энерго включён, профиль завершён
+2026-10-21 13:15:15,331 - INFO - [GameStop] main_loop завершился
+2026-10-22 14:33:46,220 - INFO - [GameStop] Данги: окно wx=0 wy=305 400x225
+2026-10-22 14:33:46,229 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-22 14:33:52,928 - INFO - [GameStop] Не находимся в энерго
+2026-10-22 14:33:52,928 - INFO - [GameStop] _wake_up: вышли из сна с попытки 1
+2026-10-22 14:33:56,457 - INFO - [GameStop] Данги: меню подземелий открыто
+2026-10-22 14:33:56,485 - INFO - [GameStop] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-22 14:33:56,500 - INFO - [GameStop] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-22 14:33:57,655 - INFO - [GameStop] Данги OCR [--psm 11]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | ahs | “vane | try | >. | оставылерся | награды | 1 | роз) | ua | st '
+2026-10-22 14:33:58,654 - INFO - [GameStop] Данги OCR [--psm 6]: 'зе | we | e | . | . | gca | в | во | ушка | о | “¢ | oy | 7 | £23 | ‘a | х | os | у | у | умы | „>. | . | oc | staneece | rtp | 1 | роз) | tas | в | о'
+2026-10-22 14:34:00,031 - INFO - [GameStop] Данги OCR [--psm 12]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | =, | we | veaet | try | >. | оставылерся | награды | 1 | роз) | ua |'
+2026-10-22 14:34:01,030 - INFO - [GameStop] Данги OCR [--psm 3]: 'нью | fame | waewerunsme | дринибынич | - | oer | в | at | fot | век | bll | oc | staneece | rtp | 1 | роз) | остроа | номстовства | с+>сьсх | сброс |'
+2026-10-22 14:34:01,030 - DEBUG - [GameStop] Данги: попытка 1/15 — OCR=нет
+2026-10-22 14:34:06,881 - INFO - [GameStop] Данги OCR [--psm 11]: 'fe | uctseamece | ныгрыды | 1 | peated | st | sen | ei | aa | hs | `. | сброс | о | модуиеено | 00600 | з | oe | .. | брачная | деступь | 1ч. | фи | b'
+2026-10-22 14:34:07,684 - INFO - [GameStop] Данги OCR [--psm 6]: 'м | kta | ee | uctseamecca | награды | 1 | peste) | mo, | “ey | ча | ne | 2 | 0 | woo | a | ta | “ty | № | фразорезый | замом | <u | ae | храм | рассв'
+2026-10-22 14:34:09,275 - INFO - [GameStop] Данги OCR [--psm 12]: 'fe | uctseamece | ныгрыды | 1 | peated | samy | pa | ib | be | `. | сброс | о | модуиеено | 00600 | з | : | брачная | деступь | 14 | фи | ; | borrows.'
+2026-10-22 14:34:10,511 - INFO - [GameStop] Данги OCR [--psm 3]: ', | =“ | . | uctseamece | ныгрыды | 1 | peated | ока | sh | as | pn | he | ss: | сброс | ome | ppeere | 00600 | брачная | деступь | 14 | фи | 64040 | '
+2026-10-22 14:34:10,511 - DEBUG - [GameStop] Данги: попытка 2/15 — OCR=нет
+2026-10-22 14:34:18,286 - INFO - [GameStop] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | брочая | доступе | 140mm | эрачив | ‹ | hs, | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | wa | spees | дес'
+2026-10-22 14:34:19,630 - INFO - [GameStop] Данги OCR [--psm 6]: 'в | { | ‘ | о | ни | фобии | бий | ‘ | (у | . | ‘ | qpeee | доступе | 140m | so | басне | apne | ‹ | р | whi” | - | iy | wy | parsopersada | замок | 6'
+2026-10-22 14:34:21,250 - INFO - [GameStop] Данги OCR [--psm 12]: ''y | ower | qpeee | доступе | 140mm | , | эрачив | ‹ | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | < | of | spees | деступе | '
+2026-10-22 14:34:22,247 - INFO - [GameStop] Данги OCR [--psm 3]: 'разоренемй | замок | 60h | сре | о | по | pero | в | 05 | сю | эровиа | деступе | 1чфшыл | боевое | apenas | 4% | 32 | mer | храм | рассвета | uu | co'
+2026-10-22 14:34:22,247 - DEBUG - [GameStop] Данги: попытка 3/15 — OCR=нет
+2026-10-22 14:34:28,566 - INFO - [GameStop] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-22 14:34:29,918 - INFO - [GameStop] Данги OCR [--psm 11]: 'reaper | оо | сх | mf. | м | к. | у. | cpa | © | ae | дум | bees | а. | я | т | " | ees | tyne | 1 | omen | bee | oe | bem | 4..2 | ees | № | ях | хра'
+2026-10-22 14:34:31,453 - INFO - [GameStop] Данги OCR [--psm 6]: 'a | ty | om | ay | * | joe | reaper | ee | < | у | aly? | ye | cpa | © | ae | дум | bees | be | lu | га | ао | бои | рее | доста | 1 | ф | мым. | as |'
+2026-10-22 14:34:32,972 - DEBUG - [GameStop] Данги: попытка 4/15 — OCR=да
+2026-10-22 14:34:32,972 - DEBUG - [GameStop] Данги: OCR нашёл но в самом низу (ocr_y=142, list_h=146) — прокручиваю ещё
+2026-10-22 14:34:40,242 - INFO - [GameStop] Данги OCR [--psm 11]: 'ay | se | on | se | " | cees | дет | 14 | omen | bacon, | ace | bgmpen | 4+. | 1 | ых | № | ях | храм | рассвета | aay | крик | в | ве | ap | bo | ule'
+2026-10-22 14:34:41,593 - DEBUG - [GameStop] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-22 14:34:41,593 - INFO - [GameStop] Данги: найден через OCR (33,167)
+2026-10-22 14:34:41,596 - INFO - [GameStop] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-22 14:34:41,596 - INFO - [GameStop] Данги: клик по строке (33,167)
+2026-10-22 14:34:45,803 - INFO - [GameStop] Данги: кликнул, проверяю время доступа
+2026-10-22 14:34:45,821 - INFO - [GameStop] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-22 14:34:45,831 - INFO - [GameStop] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-22 14:34:45,831 - INFO - [GameStop] Данги: время доступа есть — иду в данж
+2026-10-22 14:34:49,084 - INFO - [GameStop] Данги: нажал Вход
+2026-10-22 14:34:49,103 - INFO - [GameStop] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-22 14:34:49,111 - INFO - [GameStop] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-22 14:34:49,131 - INFO - [GameStop] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-22 14:34:49,146 - INFO - [GameStop] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-22 14:34:49,163 - INFO - [GameStop] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-22 14:34:49,181 - INFO - [GameStop] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-22 14:34:49,196 - INFO - [GameStop] Данги: Ур.40 mean=25 ОТКРЫТ
+2026-10-22 14:34:49,213 - INFO - [GameStop] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-22 14:34:49,213 - INFO - [GameStop] Данги: кликаю последний открытый = Ур.75
+2026-10-22 14:34:49,615 - INFO - [GameStop] Данги: клик Ур.75 (259,162) offset=(-1,-2)
+2026-10-22 14:34:54,872 - INFO - [GameStop] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-22 14:34:54,873 - INFO - [GameStop] Данги: светлый экран (mean=119) — данж запущен через Ур.75
+2026-10-22 14:34:54,873 - INFO - [GameStop] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-22 14:35:02,904 - INFO - [GameStop] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-22 14:35:04,748 - INFO - [GameStop] Не находимся в энерго
+2026-10-22 14:35:04,748 - INFO - [GameStop] Данги: попытка усыпления 1/3
+2026-10-22 14:35:10,831 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-22 14:35:10,831 - INFO - [GameStop] Данги: уснул с попытки 1
+2026-10-22 14:35:10,831 - INFO - [GameStop] Данги: Благословенная Земля запущена, окно в сне
+2026-10-22 14:35:10,831 - INFO - [GameStop] main_loop завершился
+2026-10-22 14:35:17,576 - WARNING - [GameStop] log_uploader: PNG profiles_Dungeon_blessed_after_load.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_load.png'
+2026-10-22 14:35:17,576 - WARNING - [GameStop] log_uploader: PNG profiles_Dungeon_blessed_found_ocr.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_found_ocr.png'
+2026-10-22 14:35:17,576 - WARNING - [GameStop] log_uploader: PNG profiles_Dungeon_blessed_scroll_03.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_scroll_03.png'
+2026-10-22 14:35:17,576 - WARNING - [GameStop] log_uploader: PNG profiles_Dungeon_blessed_time_check.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_time_check.png'
+2026-10-22 15:18:00,889 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-22 15:18:12,626 - INFO - [GameStop] Ищем вкладки
+2026-10-22 15:18:14,652 - INFO - [GameStop] Перешел на вкладку: (381, 34)
+2026-10-22 15:18:15,996 - INFO - [GameStop] Собираю награду тут: (302, 101)
+2026-10-22 15:18:20,504 - INFO - [GameStop] Всего собрано: 1
+2026-10-22 15:18:20,504 - INFO - [GameStop] Дейлик успешно собран
+2026-10-22 15:18:22,324 - INFO - [GameStop] Не находимся в энерго
+2026-10-22 15:18:25,405 - INFO - [GameStop] Нашел почту
+2026-10-22 15:18:36,210 - INFO - [GameStop] Почта собрана
+2026-10-22 15:18:36,706 - INFO - [GameStop] Почта успешно собран
+2026-10-22 15:18:38,524 - INFO - [GameStop] Не находимся в энерго
+2026-10-22 15:18:43,524 - INFO - [GameStop] Нет красной точки на иконке достижений
+2026-10-22 15:18:43,524 - INFO - [GameStop] Нет новых ачивы или не удалось собрать
+2026-10-22 15:18:45,356 - INFO - [GameStop] Не находимся в энерго
+2026-10-22 15:18:47,223 - INFO - [GameStop] Нашел сбор клана
+2026-10-22 15:18:56,994 - INFO - [GameStop] Клан успешно собран
+2026-10-22 15:18:58,807 - INFO - [GameStop] Не находимся в энерго
+2026-10-22 15:19:02,480 - INFO - [GameStop] Нашел сбор альянса, жму
+2026-10-22 15:19:08,554 - INFO - [GameStop] Альянс успешно собран
+2026-10-22 15:19:10,372 - INFO - [GameStop] Не находимся в энерго
+2026-10-22 15:19:13,735 - INFO - [GameStop] Нашел бп
+2026-10-22 15:19:15,233 - INFO - [GameStop] Пробую чекнуть вкладочки бп
+2026-10-22 15:19:15,734 - INFO - [GameStop] {'left': 0, 'top': 330, 'width': 400, 'height': 1}
+2026-10-22 15:19:15,742 - INFO - [GameStop] [155]
+2026-10-22 15:19:15,742 - INFO - [GameStop] final [['155, 25', 'no']]
+2026-10-22 15:19:15,742 - INFO - [GameStop] Обнаружил вкладок бп: 1, начинаю чекать...
+2026-10-22 15:19:17,474 - INFO - [GameStop] Подвкладок найдено: 1
+2026-10-22 15:19:18,740 - INFO - [GameStop] Собираю награду [1.1]
+2026-10-22 15:19:22,506 - INFO - [GameStop] Нет наград во вкладке 1, под 1
+2026-10-22 15:19:25,323 - INFO - [GameStop] Собирать нечего, проверяю следующую вкладку
+2026-10-22 15:19:25,323 - INFO - [GameStop] Закрываю баттл пасс
+2026-10-22 15:19:27,563 - INFO - [GameStop] Пасс успешно собран
+2026-10-22 15:19:29,373 - INFO - [GameStop] Не находимся в энерго
+2026-10-22 15:19:51,797 - INFO - [GameStop] Вылезла реклама в магазе, закрыл
+2026-10-22 15:19:53,060 - INFO - [GameStop] Вылезла обычная реклама, закрыл гадость
+2026-10-22 15:19:55,575 - INFO - [GameStop] Шоп успешно собран
+2026-10-22 15:19:57,393 - INFO - [GameStop] Не находимся в энерго
+2026-10-22 15:20:07,469 - INFO - [GameStop] main_loop завершился
+2026-10-22 17:10:55,784 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-22 17:11:10,483 - INFO - [GameStop] Не находимся в энерго
+2026-10-22 17:11:15,699 - INFO - [GameStop] Аук: запущен relist (снять+найти+поставить)
+2026-10-22 17:11:17,517 - INFO - [GameStop] Не находимся в энерго
+2026-10-22 17:11:30,566 - INFO - [GameStop] Аук: жду загрузки... осталось 109с
+2026-10-22 17:11:42,636 - INFO - [GameStop] Аук: жду загрузки... осталось 97с
+2026-10-22 17:11:44,652 - INFO - [GameStop] Аук: загрузился
+2026-10-22 17:11:44,657 - INFO - [GameStop] Аук: сохранил позицию окна до resize: (0,305) 400x225
+2026-10-22 17:11:44,661 - INFO - [GameStop] Аук: монитор рабочая область 2560x1400 на (0,0)
+2026-10-22 17:11:46,204 - INFO - [GameStop] Аук: окно resize 2560x1400 на (0,40), scale=(2.67,2.59)
+2026-10-22 17:11:51,995 - INFO - [GameStop] Аук: вкладка Продажа открыта
+2026-10-22 17:11:51,995 - WARNING - [GameStop] Аук: не удалось сохранить фулл-скрин au_after_tab_sell.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-22 17:11:51,996 - INFO - [GameStop] Аук: предмет 1/10
+2026-10-22 17:11:52,017 - INFO - [GameStop] Аук: сохранён au_lot_zone.png
+2026-10-22 17:11:52,018 - INFO - [GameStop] Аук: сохранён au_sample.png
+2026-10-22 17:11:52,019 - INFO - [GameStop] Аук: SIFT образец (лот): 0 точек
+2026-10-22 17:11:52,378 - DEBUG - [GameStop] Аук: статус лота Tesseract: '‘крепление брс'
+2026-10-22 17:11:52,378 - DEBUG - [GameStop] Аук: статус зелёных пикселей: 0 (0.00%)
+2026-10-22 17:11:52,378 - INFO - [GameStop] Аук: образец лота пустой (нет иконки) — список лотов пуст. Завершаю прогон (не ошибка).
+2026-10-22 17:11:52,378 - INFO - [GameStop] Аук: лотов больше нет на странице (предмет 1)
+2026-10-22 17:11:55,644 - INFO - [GameStop] Аук: аук закрыт
+2026-10-22 17:11:56,080 - INFO - [GameStop] Аук: окно возвращено 400x225 на (0,305)
+2026-10-22 17:11:57,901 - INFO - [GameStop] Не находимся в энерго
+2026-10-22 17:12:04,018 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-22 17:12:04,018 - INFO - [GameStop] Аук: окно уложено спать
+2026-10-22 17:12:04,018 - WARNING - [GameStop] Аук: не удалось сохранить фулл-скрин au_final_fullscreen.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-22 17:12:04,019 - INFO - [GameStop] Аук: нечего переставлять (все лоты в «Продаётся» или список пуст)
+2026-10-22 17:12:04,019 - DEBUG - [GameStop] Аук: log_uploader запущен в фоне
+2026-10-22 17:12:04,019 - INFO - [GameStop] Шось сломалось либо не смог перевыставить аук
+2026-10-22 17:12:14,169 - INFO - [GameStop] main_loop завершился
+2026-10-22 20:12:22,363 - INFO - [GameStop] Запуск Scheduler профиля
+2026-10-22 20:12:22,395 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-22 20:12:22,395 - INFO - [GameStop] Был в энерго, вырубаю перед запуском Шедули
+2026-10-22 20:12:30,901 - INFO - [GameStop] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-22 20:13:16,996 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-22 20:13:16,996 - INFO - [GameStop] Энерго подтверждён (попытка 1)
+2026-10-22 20:13:16,996 - INFO - [GameStop] Энерго включён, профиль завершён
+2026-10-22 20:13:16,997 - INFO - [GameStop] main_loop завершился
+2026-10-23 07:21:21,684 - INFO - [GameStop] Запуск Scheduler профиля
+2026-10-23 07:21:21,718 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-23 07:21:21,718 - INFO - [GameStop] Был в энерго, вырубаю перед запуском Шедули
+2026-10-23 07:21:30,245 - INFO - [GameStop] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-23 07:22:16,387 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-23 07:22:16,387 - INFO - [GameStop] Энерго подтверждён (попытка 1)
+2026-10-23 07:22:16,387 - INFO - [GameStop] Энерго включён, профиль завершён
+2026-10-23 07:22:16,388 - INFO - [GameStop] main_loop завершился
+2026-10-23 07:34:11,013 - INFO - [GameStop] Данги: окно wx=0 wy=305 400x225
+2026-10-23 07:34:11,031 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-23 07:34:17,799 - INFO - [GameStop] Не находимся в энерго
+2026-10-23 07:34:17,799 - INFO - [GameStop] _wake_up: вышли из сна с попытки 1
+2026-10-23 07:34:21,322 - INFO - [GameStop] Данги: меню подземелий открыто
+2026-10-23 07:34:21,341 - INFO - [GameStop] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-23 07:34:21,352 - INFO - [GameStop] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-23 07:34:22,653 - INFO - [GameStop] Данги OCR [--psm 11]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | ahs | “vane | try | >. | оставылерся | награды | 1 | роз) | ua | st '
+2026-10-23 07:34:23,673 - INFO - [GameStop] Данги OCR [--psm 6]: 'зе | we | e | . | . | gca | в | во | ушка | о | с | ч | 7 | £23 | ‘a | х | os | у | у | умы | „>. | . | oc | staneece | rtp | 1 | роз) | tas | в | ост'
+2026-10-23 07:34:25,040 - INFO - [GameStop] Данги OCR [--psm 12]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | =, | we | veaet | try | >. | оставылерся | награды | 1 | роз) | ua |'
+2026-10-23 07:34:26,106 - INFO - [GameStop] Данги OCR [--psm 3]: 'нью | fame | waewerunsme | дринибынич | - | oer | в | at | fot | век | bll | oc | staneece | rtp | 1 | роз) | остроа | номстовства | с+>сьсх | сброс |'
+2026-10-23 07:34:26,106 - DEBUG - [GameStop] Данги: попытка 1/15 — OCR=нет
+2026-10-23 07:34:32,896 - INFO - [GameStop] Данги OCR [--psm 11]: '9 | uctsesaecs | гысрыды | teste) | 5.4 | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | . | 4 | ve | .. | 2 | браша | доступь | 1 | '
+2026-10-23 07:34:34,266 - INFO - [GameStop] Данги OCR [--psm 6]: 'о, | м | ие | uctsesaecs | гысрыды | teste) | mo, | aa | остров | hencreacrma | 3602 | < | re | 1 | : | 7 | срок | о | нодуиено | в | 0500 | ra | i | '
+2026-10-23 07:34:35,928 - INFO - [GameStop] Данги OCR [--psm 12]: '9 | uctsesaecs | гысрыды | teste) | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | ip | : | 2 | браша | доступь | 1 | oman | р | г. |'
+2026-10-23 07:34:37,168 - INFO - [GameStop] Данги OCR [--psm 3]: 'о | ставальюсв | napa | 1 | peated | остров | hencroacraa | <r | сброс | © | недра | в | 0500 | qpeen | деступь | 1ч. | фи | бе | очьо | aguas | © | р'
+2026-10-23 07:34:37,168 - DEBUG - [GameStop] Данги: попытка 2/15 — OCR=нет
+2026-10-23 07:34:45,039 - INFO - [GameStop] Данги OCR [--psm 11]: 'о | . | ‘ | t | мв | eee | , | уча | me | 4 | 1 | bcd, | pase | al | aes | ods | а | 4 | ыы | гм. | ь | «-.< | разоремный | замом | <<: | я | ч; | сро'
+2026-10-23 07:34:46,240 - INFO - [GameStop] Данги OCR [--psm 6]: 'о | eo. | 1 | о | a | see | pended | даны | septa | dion | cel | puss | tak | as | a | ae’ | $ | be.) | я | a | разорезамый | замок | :--: | <> | ae |'
+2026-10-23 07:34:48,270 - INFO - [GameStop] Данги OCR [--psm 12]: 'у | . | ‘ | t | мв | eee | , | уча | me | kees | gpeee | 1 | bed | pase | чад | behe | eee | tat | lara | ес... | 0c | разоремный | замом | <<: | ct |'
+2026-10-23 07:34:49,627 - INFO - [GameStop] Данги OCR [--psm 3]: '’ | ra | а | и | ae | ra | oot, | , | ee) | 148 | sett | aondbgaed | дало | дс | pus | tanec | разорезамый | замок | :--: | <> | срок | © | ше | ppuer'
+2026-10-23 07:34:49,627 - DEBUG - [GameStop] Данги: попытка 3/15 — OCR=нет
+2026-10-23 07:34:55,803 - INFO - [GameStop] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-23 07:34:57,210 - INFO - [GameStop] Данги OCR [--psm 11]: 'reaper | оо | сх | mf. | м | к. | у. | cpa | © | ae | дум | bees | а. | я | т | " | ees | tyne | 1 | omen | bee | oe | bem | 4..2 | ees | № | ях | хра'
+2026-10-23 07:34:58,886 - INFO - [GameStop] Данги OCR [--psm 6]: 'a | ty | om | ay | * | joe | reaper | ee | < | у | aly? | ye | cpa | © | ae | дум | bees | be | lu | га | ао | бои | рее | доста | 1 | ф | мым. | as |'
+2026-10-23 07:35:00,431 - DEBUG - [GameStop] Данги: попытка 4/15 — OCR=да
+2026-10-23 07:35:00,431 - DEBUG - [GameStop] Данги: OCR нашёл но в самом низу (ocr_y=142, list_h=146) — прокручиваю ещё
+2026-10-23 07:35:07,898 - INFO - [GameStop] Данги OCR [--psm 11]: 'ay | se | on | se | " | cees | дет | 14 | omen | bacon, | ace | bgmpen | 4+. | 1 | ых | № | ях | храм | рассвета | aay | крик | в | ве | ap | bo | ule'
+2026-10-23 07:35:09,260 - DEBUG - [GameStop] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-23 07:35:09,260 - INFO - [GameStop] Данги: найден через OCR (33,167)
+2026-10-23 07:35:09,263 - INFO - [GameStop] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-23 07:35:09,263 - INFO - [GameStop] Данги: клик по строке (33,167)
+2026-10-23 07:35:13,619 - INFO - [GameStop] Данги: кликнул, проверяю время доступа
+2026-10-23 07:35:13,640 - INFO - [GameStop] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-23 07:35:13,649 - INFO - [GameStop] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-23 07:35:13,650 - INFO - [GameStop] Данги: время доступа есть — иду в данж
+2026-10-23 07:35:16,919 - INFO - [GameStop] Данги: нажал Вход
+2026-10-23 07:35:16,939 - INFO - [GameStop] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-23 07:35:16,950 - INFO - [GameStop] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-23 07:35:16,967 - INFO - [GameStop] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-23 07:35:16,984 - INFO - [GameStop] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-23 07:35:16,999 - INFO - [GameStop] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-23 07:35:17,015 - INFO - [GameStop] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-23 07:35:17,034 - INFO - [GameStop] Данги: Ур.40 mean=25 ОТКРЫТ
+2026-10-23 07:35:17,048 - INFO - [GameStop] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-23 07:35:17,048 - INFO - [GameStop] Данги: кликаю последний открытый = Ур.75
+2026-10-23 07:35:17,420 - INFO - [GameStop] Данги: клик Ур.75 (260,165) offset=(0,1)
+2026-10-23 07:35:22,693 - INFO - [GameStop] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-23 07:35:22,693 - INFO - [GameStop] Данги: светлый экран (mean=73) — данж запущен через Ур.75
+2026-10-23 07:35:22,694 - INFO - [GameStop] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-23 07:35:30,725 - INFO - [GameStop] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-23 07:35:32,532 - INFO - [GameStop] Не находимся в энерго
+2026-10-23 07:35:32,532 - INFO - [GameStop] Данги: попытка усыпления 1/3
+2026-10-23 07:35:38,667 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-23 07:35:38,667 - INFO - [GameStop] Данги: уснул с попытки 1
+2026-10-23 07:35:38,667 - INFO - [GameStop] Данги: Благословенная Земля запущена, окно в сне
+2026-10-23 07:35:38,667 - INFO - [GameStop] main_loop завершился
+2026-10-23 07:35:45,175 - WARNING - [GameStop] log_uploader: PNG profiles_Dungeon_blessed_after_Ур_75.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_Ур_75.png'
+2026-10-23 07:35:45,176 - WARNING - [GameStop] log_uploader: PNG profiles_Dungeon_blessed_time_check.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_time_check.png'
+2026-10-23 09:33:54,336 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-23 09:34:06,598 - INFO - [GameStop] Ищем вкладки
+2026-10-23 09:34:08,611 - INFO - [GameStop] Перешел на вкладку: (381, 34)
+2026-10-23 09:34:09,941 - INFO - [GameStop] Собираю награду тут: (302, 101)
+2026-10-23 09:34:14,503 - INFO - [GameStop] Всего собрано: 1
+2026-10-23 09:34:14,503 - INFO - [GameStop] Дейлик успешно собран
+2026-10-23 09:34:16,335 - INFO - [GameStop] Не находимся в энерго
+2026-10-23 09:34:19,700 - INFO - [GameStop] Нашел почту
+2026-10-23 09:34:26,564 - INFO - [GameStop] Почта собрана
+2026-10-23 09:34:27,061 - INFO - [GameStop] Почта успешно собран
+2026-10-23 09:34:28,884 - INFO - [GameStop] Не находимся в энерго
+2026-10-23 09:34:29,141 - INFO - [GameStop] Нашел сбор ачив
+2026-10-23 09:34:37,670 - INFO - [GameStop] Ачивок больше нет
+2026-10-23 09:34:37,944 - INFO - [GameStop] Ачивы успешно собран
+2026-10-23 09:34:39,769 - INFO - [GameStop] Не находимся в энерго
+2026-10-23 09:34:41,444 - INFO - [GameStop] Нашел сбор клана
+2026-10-23 09:34:51,296 - INFO - [GameStop] Клан успешно собран
+2026-10-23 09:34:53,136 - INFO - [GameStop] Не находимся в энерго
+2026-10-23 09:34:56,739 - INFO - [GameStop] Нашел сбор альянса, жму
+2026-10-23 09:35:02,901 - INFO - [GameStop] Альянс успешно собран
+2026-10-23 09:35:04,719 - INFO - [GameStop] Не находимся в энерго
+2026-10-23 09:35:08,131 - INFO - [GameStop] Нашел бп
+2026-10-23 09:35:09,622 - INFO - [GameStop] Пробую чекнуть вкладочки бп
+2026-10-23 09:35:10,124 - INFO - [GameStop] {'left': 0, 'top': 330, 'width': 400, 'height': 1}
+2026-10-23 09:35:10,137 - INFO - [GameStop] [155]
+2026-10-23 09:35:10,138 - INFO - [GameStop] final [['155, 25', 'no']]
+2026-10-23 09:35:10,138 - INFO - [GameStop] Обнаружил вкладок бп: 1, начинаю чекать...
+2026-10-23 09:35:11,935 - INFO - [GameStop] Подвкладок найдено: 1
+2026-10-23 09:35:15,171 - INFO - [GameStop] Нет наград во вкладке 1, под 1
+2026-10-23 09:35:18,005 - INFO - [GameStop] Собирать нечего, проверяю следующую вкладку
+2026-10-23 09:35:18,005 - INFO - [GameStop] Закрываю баттл пасс
+2026-10-23 09:35:20,282 - INFO - [GameStop] Пасс успешно собран
+2026-10-23 09:35:22,102 - INFO - [GameStop] Не находимся в энерго
+2026-10-23 09:35:26,498 - INFO - [GameStop] Вылезла обычная реклама, закрыл гадость
+2026-10-23 09:35:47,003 - INFO - [GameStop] Шоп успешно собран
+2026-10-23 09:35:48,820 - INFO - [GameStop] Не находимся в энерго
+2026-10-23 09:35:58,855 - INFO - [GameStop] main_loop завершился
+2026-10-25 15:23:00,426 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-25 15:23:12,105 - INFO - [GameStop] Ищем вкладки
+2026-10-25 15:23:14,132 - INFO - [GameStop] Перешел на вкладку: (381, 34)
+2026-10-25 15:23:15,496 - INFO - [GameStop] Собираю награду тут: (302, 101)
+2026-10-25 15:23:20,025 - INFO - [GameStop] Всего собрано: 1
+2026-10-25 15:23:20,025 - INFO - [GameStop] Дейлик успешно собран
+2026-10-25 15:23:21,841 - INFO - [GameStop] Не находимся в энерго
+2026-10-25 15:23:24,916 - INFO - [GameStop] Нашел почту
+2026-10-25 15:23:31,663 - INFO - [GameStop] Почта собрана
+2026-10-25 15:23:32,160 - INFO - [GameStop] Почта успешно собран
+2026-10-25 15:23:33,975 - INFO - [GameStop] Не находимся в энерго
+2026-10-25 15:23:38,975 - INFO - [GameStop] Нет красной точки на иконке достижений
+2026-10-25 15:23:38,975 - INFO - [GameStop] Нет новых ачивы или не удалось собрать
+2026-10-25 15:23:40,809 - INFO - [GameStop] Не находимся в энерго
+2026-10-25 15:23:42,331 - INFO - [GameStop] Нашел сбор клана
+2026-10-25 15:23:54,143 - INFO - [GameStop] Не нашел clan_6
+2026-10-25 15:23:54,407 - INFO - [GameStop] Нет новых клан или не удалось собрать
+2026-10-25 15:23:56,242 - INFO - [GameStop] Не находимся в энерго
+2026-10-25 15:23:59,861 - INFO - [GameStop] Нашел сбор альянса, жму
+2026-10-25 15:24:06,015 - INFO - [GameStop] Альянс успешно собран
+2026-10-25 15:24:07,826 - INFO - [GameStop] Не находимся в энерго
+2026-10-25 15:24:11,099 - INFO - [GameStop] Нашел бп
+2026-10-25 15:24:12,602 - INFO - [GameStop] Пробую чекнуть вкладочки бп
+2026-10-25 15:24:13,103 - INFO - [GameStop] {'left': 0, 'top': 330, 'width': 400, 'height': 1}
+2026-10-25 15:24:13,110 - INFO - [GameStop] [155]
+2026-10-25 15:24:13,110 - INFO - [GameStop] final [['155, 25', 'no']]
+2026-10-25 15:24:13,110 - INFO - [GameStop] Обнаружил вкладок бп: 1, начинаю чекать...
+2026-10-25 15:24:14,875 - INFO - [GameStop] Подвкладок найдено: 1
+2026-10-25 15:24:16,126 - INFO - [GameStop] Собираю награду [1.1]
+2026-10-25 15:24:19,893 - INFO - [GameStop] Нет наград во вкладке 1, под 1
+2026-10-25 15:24:25,495 - INFO - [GameStop] Закрываю баттл пасс
+2026-10-25 15:24:28,052 - INFO - [GameStop] Пасс успешно собран
+2026-10-25 15:24:29,860 - INFO - [GameStop] Не находимся в энерго
+2026-10-25 15:24:51,860 - INFO - [GameStop] Вылезла реклама в магазе, закрыл
+2026-10-25 15:24:53,140 - INFO - [GameStop] Вылезла обычная реклама, закрыл гадость
+2026-10-25 15:24:55,692 - INFO - [GameStop] Шоп успешно собран
+2026-10-25 15:24:57,526 - INFO - [GameStop] Не находимся в энерго
+2026-10-25 15:25:07,562 - INFO - [GameStop] main_loop завершился
+2026-10-25 15:31:40,100 - INFO - [GameStop] Данги: окно wx=0 wy=305 400x225
+2026-10-25 15:31:40,115 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-25 15:31:46,817 - INFO - [GameStop] Не находимся в энерго
+2026-10-25 15:31:46,817 - INFO - [GameStop] _wake_up: вышли из сна с попытки 1
+2026-10-25 15:31:50,332 - INFO - [GameStop] Данги: меню подземелий открыто
+2026-10-25 15:31:50,361 - INFO - [GameStop] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-25 15:31:50,368 - INFO - [GameStop] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-25 15:31:51,623 - INFO - [GameStop] Данги OCR [--psm 11]: 'ариша | feu | лрернельляю | feet | 244 | ae | мм | yee | cees | | | @.. | ра | =i, | las | - | умы] | bry | <. | ‘cl | atameccs | гыгрьды | 1 | разд) '
+2026-10-25 15:31:52,518 - INFO - [GameStop] Данги OCR [--psm 6]: '4 | 5 | @: | еду | ee | oee! | coeetee | | | -‹ | р | ° | к | №. | «ое. | . | oct | stemeecs | рыгрыды | 1 | рыл) | ' | „8 | { | . | a | ' | сброс | o'
+2026-10-25 15:31:54,055 - INFO - [GameStop] Данги OCR [--psm 12]: 'ариша | feu | лрернельляю | feet | 244 | ae | мм | yee | cees | | | ра | =i, | las | - | умы] | bry | <. | ‘cl | atameccs | гыгрьды | 1 | разд) | „ху '
+2026-10-25 15:31:55,082 - INFO - [GameStop] Данги OCR [--psm 3]: '! | aqwen | fem | taewerensms | fpemeieel.. | - | | | ro | ae | ry | : | 14мм | рул" | ceqietue | oct | stemeecs | рыгрыды | 1 | рыл) | остров | hencr'
+2026-10-25 15:31:55,082 - DEBUG - [GameStop] Данги: попытка 1/15 — OCR=нет
+2026-10-25 15:32:01,242 - INFO - [GameStop] Данги OCR [--psm 11]: 'mater | 5 | = | = | оставался | ныгрыды | 1 | peated | маминых | юж, | ма | capea | №: | мо | pea | talk | say | uae | ° | ` | 4 | <бросозодреено | в '
+2026-10-25 15:32:02,515 - INFO - [GameStop] Данги OCR [--psm 6]: 'о | о | иу | . | оставался | ныгрыды | 1 | peated | lv | ae | not | юм | на | none | аг | суар | lk | о | дезео | о | . | й | — | сброс | one | дмивыо'
+2026-10-25 15:32:04,204 - INFO - [GameStop] Данги OCR [--psm 12]: 'mater | 5 | = | = | оставался | ныгрыды | 1 | peated | маминых | юж, | ма | capea | №: | мо | pea | talk | say | uae | ° | ` | 4 | <бросозодреено | в '
+2026-10-25 15:32:05,495 - INFO - [GameStop] Данги OCR [--psm 3]: 'eter | stee | al | . | оставался | ныгрыды | 1 | peated | маминых | эм, | ~ | cape | №: | “oth | pea | talk | sree | la | cars | & | ’ | a | ws | chpo'
+2026-10-25 15:32:05,495 - DEBUG - [GameStop] Данги: попытка 2/15 — OCR=нет
+2026-10-25 15:32:12,998 - INFO - [GameStop] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | брочая | доступе | 140mm | эрачив | ‹ | hs, | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | wa | spees | дес'
+2026-10-25 15:32:14,332 - INFO - [GameStop] Данги OCR [--psm 6]: 'в | { | ‘ | о | ни | фобии | бий | ‘ | (у | . | ‘ | qpeee | доступе | 140m | so | басне | apne | ‹ | р | whi” | - | iy | wy | parsopersada | замок | 6'
+2026-10-25 15:32:15,969 - INFO - [GameStop] Данги OCR [--psm 12]: ''y | ower | qpeee | доступе | 140mm | , | эрачив | ‹ | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | < | of | spees | деступе | '
+2026-10-25 15:32:16,943 - INFO - [GameStop] Данги OCR [--psm 3]: 'разоренемй | замок | 60h | сре | о | по | pero | в | 05 | сю | эровиа | деступе | 1чфшыл | боевое | apenas | 4% | 32 | mer | храм | рассвета | uu | co'
+2026-10-25 15:32:16,943 - DEBUG - [GameStop] Данги: попытка 3/15 — OCR=нет
+2026-10-25 15:32:23,053 - INFO - [GameStop] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-25 15:32:24,421 - INFO - [GameStop] Данги OCR [--psm 11]: 'reaper | оо | сх | mf. | м | к. | у. | cpa | © | ae | дум | bees | а. | я | т | " | ees | tyne | 1 | omen | bee | oe | bem | 4..2 | ees | № | ях | хра'
+2026-10-25 15:32:26,077 - INFO - [GameStop] Данги OCR [--psm 6]: 'a | ty | om | ay | * | joe | reaper | ee | < | у | aly? | ye | cpa | © | ae | дум | bees | be | lu | га | ао | бои | рее | доста | 1 | ф | мым. | as |'
+2026-10-25 15:32:27,585 - DEBUG - [GameStop] Данги: попытка 4/15 — OCR=да
+2026-10-25 15:32:27,586 - DEBUG - [GameStop] Данги: OCR нашёл но в самом низу (ocr_y=142, list_h=146) — прокручиваю ещё
+2026-10-25 15:32:34,817 - INFO - [GameStop] Данги OCR [--psm 11]: 'ay | $ | г | " | 4k | se | cees | дет | 14 | omen | ees | men | one | geese | 4: | 2 | ~ | > | № | в | ааа. | храм | рассвета | «ах | крик | в | ве | '
+2026-10-25 15:32:36,149 - DEBUG - [GameStop] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-25 15:32:36,149 - INFO - [GameStop] Данги: найден через OCR (33,167)
+2026-10-25 15:32:36,151 - INFO - [GameStop] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-25 15:32:36,151 - INFO - [GameStop] Данги: клик по строке (33,167)
+2026-10-25 15:32:40,188 - INFO - [GameStop] Данги: кликнул, проверяю время доступа
+2026-10-25 15:32:40,207 - INFO - [GameStop] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-25 15:32:40,219 - INFO - [GameStop] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-25 15:32:40,220 - INFO - [GameStop] Данги: время доступа есть — иду в данж
+2026-10-25 15:32:43,490 - INFO - [GameStop] Данги: нажал Вход
+2026-10-25 15:32:43,505 - INFO - [GameStop] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-25 15:32:43,517 - INFO - [GameStop] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-25 15:32:43,533 - INFO - [GameStop] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-25 15:32:43,549 - INFO - [GameStop] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-25 15:32:43,567 - INFO - [GameStop] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-25 15:32:43,582 - INFO - [GameStop] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-25 15:32:43,598 - INFO - [GameStop] Данги: Ур.40 mean=25 ОТКРЫТ
+2026-10-25 15:32:43,617 - INFO - [GameStop] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-25 15:32:43,617 - INFO - [GameStop] Данги: кликаю последний открытый = Ур.75
+2026-10-25 15:32:43,985 - INFO - [GameStop] Данги: клик Ур.75 (262,162) offset=(2,-2)
+2026-10-25 15:32:49,278 - INFO - [GameStop] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-25 15:32:49,278 - INFO - [GameStop] Данги: светлый экран (mean=128) — данж запущен через Ур.75
+2026-10-25 15:32:49,279 - INFO - [GameStop] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-25 15:32:57,311 - INFO - [GameStop] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-25 15:32:59,152 - INFO - [GameStop] Не находимся в энерго
+2026-10-25 15:32:59,152 - INFO - [GameStop] Данги: попытка усыпления 1/3
+2026-10-25 15:33:05,301 - INFO - [GameStop] Находимся в энергорежиме
+2026-10-25 15:33:05,301 - INFO - [GameStop] Данги: уснул с попытки 1
+2026-10-25 15:33:05,301 - INFO - [GameStop] Данги: Благословенная Земля запущена, окно в сне
+2026-10-25 15:33:05,302 - INFO - [GameStop] main_loop завершился
