@@ -1,0 +1,501 @@
+=== Log tail 2026-10-25T15:31:35.710287 | last 500 lines ===
+2026-10-21 09:54:56,941 - INFO - [Daryl] Энерго включён, профиль завершён
+2026-10-21 09:54:56,941 - INFO - [Daryl] main_loop завершился
+2026-10-21 09:55:08,888 - INFO - [Daryl] Данги: окно wx=0 wy=40 400x225
+2026-10-21 09:55:08,907 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-21 09:55:15,674 - INFO - [Daryl] Не находимся в энерго
+2026-10-21 09:55:15,674 - INFO - [Daryl] _wake_up: вышли из сна с попытки 1
+2026-10-21 09:55:19,174 - INFO - [Daryl] Данги: меню подземелий открыто
+2026-10-21 09:55:19,219 - INFO - [Daryl] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-21 09:55:19,230 - INFO - [Daryl] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-21 09:55:21,188 - INFO - [Daryl] Данги OCR [--psm 11]: '(enn | fae, | feet | + | eae | мои | позер | зы | hae | peer | gr | ра | аз | ыы | j | bry | ‘cl | atameccs | гыгрьды | 1 | разд) | а | <. | остров | '
+2026-10-21 09:55:22,208 - INFO - [Daryl] Данги OCR [--psm 6]: 'а” | “guns | чом | врозь | ся | вок | sar | р | ем | “weeny | se | oc | aenanece | rurpaies | 1 | раз) | tas | a | остров | hencroecraa | (<0 | settee'
+2026-10-21 09:55:23,696 - INFO - [Daryl] Данги OCR [--psm 12]: 'р | (enn | fae, | feet | ‘ | he | cr | move | рн | ot | per | ss | veet | se | bry | = | ‘cl | atameccs | гыгрьды | 1 | разд) | а | “ey | остров | hen'
+2026-10-21 09:55:24,794 - INFO - [Daryl] Данги OCR [--psm 3]: 'р | рты | pome | ce | .. | _ | ae | i | eee | чом | врозь | ся | вок | sar | per | ss | я | 4 | “<. | . | oct | stemeecs | рыгрыды | 1 | рыл) | остров'
+2026-10-21 09:55:24,795 - DEBUG - [Daryl] Данги: попытка 1/15 — OCR=нет
+2026-10-21 09:55:30,911 - INFO - [Daryl] Данги OCR [--psm 11]: '9 | uctsesaecs | гысрыды | teste) | 5.4 | остров | hencroacraa | 2 | <0. | сброс | о | медушено | в | 06.00 | . | 4 | ve | .. | @роша | 2 | доступ | 1'
+2026-10-21 09:55:32,313 - INFO - [Daryl] Данги OCR [--psm 6]: 'о, | м | ие | uctsesaecs | гысрыды | teste) | pa | ya | остров | неистовства | ++. | << | wy | te | ty. | . | , | и | 7 | сброс | ome | peer | в | 050'
+2026-10-21 09:55:33,881 - INFO - [Daryl] Данги OCR [--psm 12]: '9 | uctsesaecs | гысрыды | teste) | остров | hencroacraa | 2 | <0. | сброс | о | медушено | в | 06.00 | ip | : | @роша | ' | р | 2 | доступ | 1 | oman'
+2026-10-21 09:55:35,109 - INFO - [Daryl] Данги OCR [--psm 3]: 'о | ставальюсв | napa | 1 | peated | остров | hencroacraa | <r | сброс | онодвенов | 0500 | qpeen | деступь | 1ч. | фи | бе | очьо | aguas | © | разор'
+2026-10-21 09:55:35,109 - DEBUG - [Daryl] Данги: попытка 2/15 — OCR=нет
+2026-10-21 09:55:42,857 - INFO - [Daryl] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | брочая | доступе | 140mm | ages | ‹ | hs, | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | wa | ты | 140mm | '
+2026-10-21 09:55:44,275 - INFO - [Daryl] Данги OCR [--psm 6]: 'в | { | ‘ | о | ни | фобии | бий | ‘ | (у | . | ‘ | qpeee | доступе | 140m | so | gteqyowe | ape | © | р | whi” | - | iy | wy | parsopersada | замок |'
+2026-10-21 09:55:45,898 - INFO - [Daryl] Данги OCR [--psm 12]: ''y | ower | qpeee | доступе | 140mm | , | ages | ‹ | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | < | of | ты | 140mm | ase | “'
+2026-10-21 09:55:46,924 - INFO - [Daryl] Данги OCR [--psm 3]: 'разоренемй | замок | 60h | сре | о | по | pero | в | 05 | сю | ты | г | steqyoue | аровый | 3% | 40 | me | храм | рассвета | uu | cog | 0 | 20 | fps |'
+2026-10-21 09:55:46,924 - DEBUG - [Daryl] Данги: попытка 3/15 — OCR=нет
+2026-10-21 09:55:53,262 - INFO - [Daryl] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-21 09:55:54,657 - INFO - [Daryl] Данги OCR [--psm 11]: 'reaper | оо | сх | mf. | м | к. | у. | cpa | © | ae | дум | bees | а. | я | т | " | ees | tyne | 1 | omen | bot | oe | офееые | 5+. | 4k | мых | № | я'
+2026-10-21 09:55:56,169 - INFO - [Daryl] Данги OCR [--psm 6]: 'а | ry | ay | у. | reaper | оо | < | у | aly? | ye | cpa | © | ae | дум | bees | be | lu | сау | as | press | доста | 1 | omens | as | . | ий | baton '
+2026-10-21 09:55:57,830 - DEBUG - [Daryl] Данги: попытка 4/15 — OCR=да
+2026-10-21 09:55:57,830 - DEBUG - [Daryl] Данги: OCR нашёл но в самом низу (ocr_y=142, list_h=146) — прокручиваю ещё
+2026-10-21 09:56:05,217 - INFO - [Daryl] Данги OCR [--psm 11]: 'ay | se | on | “ | ay | " | wie | храм | pacoseta | aay | крик | в | ве | ap | bo | ule | gul | lo | lo | `-4 | <. | е | mpetees | tyr | 1 | omen | . '
+2026-10-21 09:56:06,452 - DEBUG - [Daryl] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-21 09:56:06,452 - INFO - [Daryl] Данги: найден через OCR (33,167)
+2026-10-21 09:56:06,456 - INFO - [Daryl] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-21 09:56:06,456 - INFO - [Daryl] Данги: клик по строке (33,167)
+2026-10-21 09:56:10,661 - INFO - [Daryl] Данги: кликнул, проверяю время доступа
+2026-10-21 09:56:10,681 - INFO - [Daryl] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-21 09:56:10,694 - INFO - [Daryl] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-21 09:56:10,703 - INFO - [Daryl] Данги: время доступа есть — иду в данж
+2026-10-21 09:56:13,966 - INFO - [Daryl] Данги: нажал Вход
+2026-10-21 09:56:13,981 - INFO - [Daryl] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-21 09:56:13,992 - INFO - [Daryl] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-21 09:56:14,007 - INFO - [Daryl] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-21 09:56:14,024 - INFO - [Daryl] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-21 09:56:14,041 - INFO - [Daryl] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-21 09:56:14,058 - INFO - [Daryl] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-21 09:56:14,074 - INFO - [Daryl] Данги: Ур.40 mean=31 ОТКРЫТ
+2026-10-21 09:56:14,092 - INFO - [Daryl] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-21 09:56:14,092 - INFO - [Daryl] Данги: кликаю последний открытый = Ур.75
+2026-10-21 09:56:14,462 - INFO - [Daryl] Данги: клик Ур.75 (262,162) offset=(2,-2)
+2026-10-21 09:56:19,768 - INFO - [Daryl] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-21 09:56:19,768 - INFO - [Daryl] Данги: светлый экран (mean=137) — данж запущен через Ур.75
+2026-10-21 09:56:19,768 - INFO - [Daryl] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-21 09:56:27,803 - INFO - [Daryl] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-21 09:56:29,610 - INFO - [Daryl] Не находимся в энерго
+2026-10-21 09:56:29,610 - INFO - [Daryl] Данги: попытка усыпления 1/3
+2026-10-21 09:56:35,792 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-21 09:56:35,792 - INFO - [Daryl] Данги: уснул с попытки 1
+2026-10-21 09:56:35,792 - INFO - [Daryl] Данги: Благословенная Земля запущена, окно в сне
+2026-10-21 09:56:35,793 - INFO - [Daryl] main_loop завершился
+2026-10-21 09:56:42,351 - WARNING - [Daryl] log_uploader: PNG profiles_Dungeon_blessed_after_load.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_load.png'
+2026-10-21 09:56:42,351 - WARNING - [Daryl] log_uploader: PNG profiles_Dungeon_blessed_after_Ур_75.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_Ур_75.png'
+2026-10-21 09:56:42,351 - WARNING - [Daryl] log_uploader: PNG profiles_Dungeon_blessed_found_ocr.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_found_ocr.png'
+2026-10-21 09:56:42,351 - WARNING - [Daryl] log_uploader: PNG profiles_Dungeon_blessed_level_window.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_level_window.png'
+2026-10-21 09:56:42,351 - WARNING - [Daryl] log_uploader: PNG profiles_Dungeon_blessed_scroll_03.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_scroll_03.png'
+2026-10-21 09:56:42,352 - WARNING - [Daryl] log_uploader: PNG profiles_Dungeon_blessed_time_check.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_time_check.png'
+2026-10-21 10:35:37,345 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-21 10:35:49,672 - INFO - [Daryl] Ищем вкладки
+2026-10-21 10:35:51,680 - INFO - [Daryl] Перешел на вкладку: (381, 34)
+2026-10-21 10:35:53,052 - INFO - [Daryl] Собираю награду тут: (302, 101)
+2026-10-21 10:35:59,342 - INFO - [Daryl] Перешел на вкладку: (381, 59)
+2026-10-21 10:36:00,667 - INFO - [Daryl] Собираю награду тут: (302, 101)
+2026-10-21 10:36:05,222 - INFO - [Daryl] Перешел на вкладку: (381, 84)
+2026-10-21 10:36:06,600 - INFO - [Daryl] Пропускаем кнопку с алмазом/донатом: (302, 101)
+2026-10-21 10:36:06,873 - INFO - [Daryl] Всего собрано: 3
+2026-10-21 10:36:06,873 - INFO - [Daryl] Дейлик успешно собран
+2026-10-21 10:36:08,696 - INFO - [Daryl] Не находимся в энерго
+2026-10-21 10:36:11,916 - INFO - [Daryl] Нашел почту
+2026-10-21 10:36:18,796 - INFO - [Daryl] Почта собрана
+2026-10-21 10:36:19,293 - INFO - [Daryl] Почта успешно собран
+2026-10-21 10:36:21,130 - INFO - [Daryl] Не находимся в энерго
+2026-10-21 10:36:21,409 - INFO - [Daryl] Нашел сбор ачив
+2026-10-21 10:36:27,114 - INFO - [Daryl] Ачивок больше нет
+2026-10-21 10:36:27,395 - INFO - [Daryl] Ачивы успешно собран
+2026-10-21 10:36:29,231 - INFO - [Daryl] Не находимся в энерго
+2026-10-21 10:36:30,851 - INFO - [Daryl] Нашел сбор клана
+2026-10-21 10:36:40,619 - INFO - [Daryl] Клан успешно собран
+2026-10-21 10:36:42,432 - INFO - [Daryl] Не находимся в энерго
+2026-10-21 10:36:45,983 - INFO - [Daryl] Нашел сбор альянса, жму
+2026-10-21 10:36:52,183 - INFO - [Daryl] Альянс успешно собран
+2026-10-21 10:36:53,999 - INFO - [Daryl] Не находимся в энерго
+2026-10-21 10:36:57,104 - INFO - [Daryl] Нашел бп
+2026-10-21 10:36:58,593 - INFO - [Daryl] Пробую чекнуть вкладочки бп
+2026-10-21 10:36:59,091 - INFO - [Daryl] {'left': 0, 'top': 65, 'width': 400, 'height': 1}
+2026-10-21 10:36:59,096 - INFO - [Daryl] [80, 155, 230, 305]
+2026-10-21 10:36:59,096 - INFO - [Daryl] final [['80, 25', 'no'], ['155, 25', 'no'], ['230, 25', 'no'], ['305, 25', 'no']]
+2026-10-21 10:36:59,096 - INFO - [Daryl] Обнаружил вкладок бп: 4, начинаю чекать...
+2026-10-21 10:37:00,846 - INFO - [Daryl] Подвкладок найдено: 0
+2026-10-21 10:37:09,547 - INFO - [Daryl] Подвкладок найдено: 1
+2026-10-21 10:37:10,830 - INFO - [Daryl] Собираю награду [2.1]
+2026-10-21 10:37:14,580 - INFO - [Daryl] Нет наград во вкладке 2, под 1
+2026-10-21 10:37:17,413 - INFO - [Daryl] Собирать нечего, проверяю следующую вкладку
+2026-10-21 10:37:19,213 - INFO - [Daryl] Подвкладок найдено: 0
+2026-10-21 10:37:27,597 - INFO - [Daryl] Подвкладок найдено: 0
+2026-10-21 10:37:34,174 - INFO - [Daryl] Закрываю баттл пасс
+2026-10-21 10:37:36,422 - INFO - [Daryl] Пасс успешно собран
+2026-10-21 10:37:38,231 - INFO - [Daryl] Не находимся в энерго
+2026-10-21 10:37:42,272 - INFO - [Daryl] Вылезла обычная реклама, закрыл гадость
+2026-10-21 10:38:03,181 - INFO - [Daryl] Шоп успешно собран
+2026-10-21 10:38:04,999 - INFO - [Daryl] Не находимся в энерго
+2026-10-21 10:38:15,041 - INFO - [Daryl] main_loop завершился
+2026-10-21 10:43:06,837 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-21 10:43:10,719 - INFO - [Daryl] Аук: запущен relist (снять+найти+поставить)
+2026-10-21 10:43:12,536 - INFO - [Daryl] Не находимся в энерго
+2026-10-21 10:43:18,535 - INFO - [Daryl] Аук: загрузился
+2026-10-21 10:43:18,541 - INFO - [Daryl] Аук: сохранил позицию окна до resize: (0,40) 400x225
+2026-10-21 10:43:18,545 - INFO - [Daryl] Аук: монитор рабочая область 2560x1400 на (0,0)
+2026-10-21 10:43:20,054 - INFO - [Daryl] Аук: окно resize 400x225 на (0,40), scale=(0.42,0.42)
+2026-10-21 10:43:25,837 - INFO - [Daryl] Аук: вкладка Продажа открыта
+2026-10-21 10:43:25,837 - WARNING - [Daryl] Аук: не удалось сохранить фулл-скрин au_after_tab_sell.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-21 10:43:25,837 - INFO - [Daryl] Аук: предмет 1/10
+2026-10-21 10:43:25,855 - INFO - [Daryl] Аук: сохранён au_lot_zone.png
+2026-10-21 10:43:25,856 - INFO - [Daryl] Аук: сохранён au_sample.png
+2026-10-21 10:43:25,858 - INFO - [Daryl] Аук: SIFT образец (лот): 21 точек
+2026-10-21 10:43:26,183 - DEBUG - [Daryl] Аук: статус лота Tesseract: 'be'
+2026-10-21 10:43:26,184 - DEBUG - [Daryl] Аук: статус зелёных пикселей: 0 (0.00%)
+2026-10-21 10:43:26,458 - INFO - [Daryl] Аук: клик Отмена лота (1/2) (650, 179)
+2026-10-21 10:43:27,971 - INFO - [Daryl] Аук: окно подтверждения появилось
+2026-10-21 10:43:31,226 - INFO - [Daryl] Аук: клик ОК отмены (1/4) (546, 383)
+2026-10-21 10:43:34,238 - INFO - [Daryl] Аук: ОК сработал с попытки 1
+2026-10-21 10:43:34,238 - INFO - [Daryl] Аук: лот снят, предмет упал в конец инвентаря
+2026-10-21 10:43:34,259 - INFO - [Daryl] Аук: сохранён au_after_click.png
+2026-10-21 10:43:34,259 - INFO - [Daryl] Аук: ищу предмет (YOLOv8)...
+2026-10-21 10:43:34,259 - INFO - [Daryl] Аук: сканирую страницу 1/2 (вниз)
+2026-10-21 10:43:34,276 - INFO - [Daryl] Аук: сохранён au_page_1.png
+2026-10-21 10:43:34,298 - INFO - [Daryl] Аук: matchTemplate НАШЁЛ — стр 1 (108,221) score=0.893
+2026-10-21 10:43:37,456 - INFO - [Daryl] Аук: свайп инвентаря up (21 точек, 150->428)
+2026-10-21 10:43:41,456 - INFO - [Daryl] Аук: предмет найден! стр 1 (794,351) score=0.893
+2026-10-21 10:43:41,456 - INFO - [Daryl] Аук: pyautogui.click(330,186) — окно=(0,40) item=(794,351) scale=(0.42,0.42)
+2026-10-21 10:43:45,509 - INFO - [Daryl] Аук: сохранён au_after_item_click.png
+2026-10-21 10:43:45,784 - INFO - [Daryl] Аук: OCR мин цена = 3 (raw='3')
+2026-10-21 10:43:45,784 - WARNING - [Daryl] Аук: мин. цена не читается (=3) — пробую макс. цену
+2026-10-21 10:43:46,083 - INFO - [Daryl] Аук: OCR макс цена = 0 (raw='')
+2026-10-21 10:43:46,083 - ERROR - [Daryl] Аук: ни мин, ни макс цена не читаются (мин=3, макс=0) — СТОП, не выставляю
+2026-10-21 10:43:47,331 - WARNING - [Daryl] Аук: предмет 1 не найден — стопаю окно (без закрытия аука/сна), иду к следующему
+2026-10-21 10:43:47,331 - INFO - [Daryl] Аук: предмет не найден — аук НЕ закрываю (skip)
+2026-10-21 10:43:47,749 - INFO - [Daryl] Аук: окно возвращено 400x225 на (0,40)
+2026-10-21 10:43:47,751 - INFO - [Daryl] Аук: предмет не найден — энерго НЕ включаю (skip)
+2026-10-21 10:43:47,751 - WARNING - [Daryl] Аук: не удалось сохранить фулл-скрин au_final_fullscreen.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-21 10:43:47,751 - INFO - [Daryl] Аук: нечего переставлять (все лоты в «Продаётся» или список пуст)
+2026-10-21 10:43:47,751 - DEBUG - [Daryl] Аук: log_uploader запущен в фоне
+2026-10-21 10:43:47,751 - INFO - [Daryl] Шось сломалось либо не смог перевыставить аук
+2026-10-21 10:43:54,900 - INFO - [Daryl] main_loop завершился
+2026-10-21 10:44:03,647 - WARNING - [Daryl] log_uploader: PNG bot_methods_game_au_sample.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\bot\\methods\\game\\au_sample.png'
+2026-10-21 10:44:03,647 - WARNING - [Daryl] log_uploader: PNG bot_methods_game_au_status.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\bot\\methods\\game\\au_status.png'
+2026-10-21 13:14:21,446 - INFO - [Daryl] Запуск Scheduler профиля
+2026-10-21 13:14:21,479 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-21 13:14:21,480 - INFO - [Daryl] Был в энерго, вырубаю перед запуском Шедули
+2026-10-21 13:14:29,973 - INFO - [Daryl] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-21 13:15:16,113 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-21 13:15:16,114 - INFO - [Daryl] Энерго подтверждён (попытка 1)
+2026-10-21 13:15:16,114 - INFO - [Daryl] Энерго включён, профиль завершён
+2026-10-21 13:15:16,114 - INFO - [Daryl] main_loop завершился
+2026-10-22 14:29:09,528 - INFO - [Daryl] Данги: окно wx=0 wy=40 400x225
+2026-10-22 14:29:09,558 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-22 14:29:17,042 - INFO - [Daryl] Не находимся в энерго
+2026-10-22 14:29:17,042 - INFO - [Daryl] _wake_up: вышли из сна с попытки 1
+2026-10-22 14:29:23,905 - INFO - [Daryl] Данги: меню подземелий открыто
+2026-10-22 14:29:23,932 - INFO - [Daryl] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-22 14:29:23,945 - INFO - [Daryl] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-22 14:29:25,091 - INFO - [Daryl] Данги OCR [--psm 11]: 'ариша | feu | лрернельляю | feet | a! | sve | me | igs | са | feel | длинны | @.. | smi, | las | vee: | se | bry | ‘cl | atameccs | гыгрьды | 1 | разд'
+2026-10-22 14:29:26,016 - INFO - [Daryl] Данги OCR [--psm 6]: '4 | ше”... | ry | . | semone | мера! | длиннь | ws | к | №. | any | soe | = | te | . | oct | stemeecs | рыгрыды | 1 | рыл) | ' | nee | 4 | & | в | . |'
+2026-10-22 14:29:27,446 - INFO - [Daryl] Данги OCR [--psm 12]: 'ариша | feu | лрернельляю | feet | ем | са | аа | длинны | he | * | smi, | las | veet | bry | ‘cl | atameccs | гыгрьды | 1 | разд) | а | ку | остров |'
+2026-10-22 14:29:28,422 - INFO - [Daryl] Данги OCR [--psm 3]: 'aqwen | fem | лрериольнимо | дианийиыноч | ._ | - | ну | comets | otel | i, | gare | oct | stemeecs | рыгрыды | 1 | рыл) | остров | hencroecras | солс'
+2026-10-22 14:29:28,422 - DEBUG - [Daryl] Данги: попытка 1/15 — OCR=нет
+2026-10-22 14:29:36,071 - INFO - [Daryl] Данги OCR [--psm 11]: 'fe | uctseamece | ныгрыды | 1 | peated | say | es | st | + | brae | heise | `. | сброс | о | модуиеено | 00600 | . | 4 | oe | .. | брееа | borrows. | '
+2026-10-22 14:29:37,019 - INFO - [Daryl] Данги OCR [--psm 6]: 'и | о | мух | . | uctseamece | ныгрыды | 1 | peated | ` | -'. | 9. | ’. | ие | opens | достуть | 1 | чф | мым | „$ | pv | р: | разоремный | замом | <0'
+2026-10-22 14:29:38,533 - INFO - [Daryl] Данги OCR [--psm 12]: 'fe | uctseamece | ныгрыды | 1 | peated | `. | сброс | о | модуиеено | 00600 | з | : | wvere | ; | borrows. | дестуть | 1 | oman | ow | г. | разоремный'
+2026-10-22 14:29:39,771 - INFO - [Daryl] Данги OCR [--psm 3]: 'о | м | мия | u | . | . | ct | seemercn | reps | 1 | раз | (о) | . | ', | cae | стек. | a) | 2 | сброс | о | модуиеено | 00600 | open | деступь | 1 | '
+2026-10-22 14:29:39,772 - DEBUG - [Daryl] Данги: попытка 2/15 — OCR=нет
+2026-10-22 14:29:47,260 - INFO - [Daryl] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | брочая | доступе | 140mm | эрачив | ‹ | hs, | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | wa | эроса | дес'
+2026-10-22 14:29:48,633 - INFO - [Daryl] Данги OCR [--psm 6]: 'в | { | ‘ | о | ни | фобии | бий | ‘ | (у | . | ‘ | qpeee | доступе | 140m | so | басне | apne | ‹ | р | whi” | - | iy | wy | parsopersada | замок | 6'
+2026-10-22 14:29:50,266 - INFO - [Daryl] Данги OCR [--psm 12]: ''y | ower | qpeee | доступе | 140mm | , | эрачив | ‹ | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | < | of | эроса | деступе | '
+2026-10-22 14:29:51,278 - INFO - [Daryl] Данги OCR [--psm 3]: 'разоренемй | замок | 60h | сре | о | по | pero | в | 05 | сю | эроса | деступе | 1чф | мыл | боевое | арочый | 4% | 40 | mer | храм | рассвета | uu | '
+2026-10-22 14:29:51,278 - DEBUG - [Daryl] Данги: попытка 3/15 — OCR=нет
+2026-10-22 14:29:56,961 - INFO - [Daryl] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-22 14:29:58,298 - INFO - [Daryl] Данги OCR [--psm 11]: 'ра“ | reap | een | ек | wa, | у. | ур | ра | ae | о | tss, | 17% | my | nf | be | парень | tyre | 1 | omen | beer | ee | agen | 45. | 10 | ых | ar | a'
+2026-10-22 14:29:59,587 - INFO - [Daryl] Данги OCR [--psm 6]: 'о | ee | reaper | оз | bib | ae). | о | со | и | po | mens | ans | . | . | сер | ок | ages | 45. | 40 | ых | . | храм | рассвета | `- | etd | i | wae '
+2026-10-22 14:30:00,974 - DEBUG - [Daryl] Данги: попытка 4/15 — OCR=да
+2026-10-22 14:30:00,974 - DEBUG - [Daryl] Данги: OCR нашёл но в самом низу (ocr_y=142, list_h=146) — прокручиваю ещё
+2026-10-22 14:30:06,069 - INFO - [Daryl] Данги OCR [--psm 11]: 'ay | $ | г | " | 4k | se | cees | дет | 14 | omen | сте | oe | bgmeee | 4. | 40 | ees | № | bd | храм | pacoseta | «ах | крик | в | ве | дум | bo | то'
+2026-10-22 14:30:07,378 - DEBUG - [Daryl] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-22 14:30:07,379 - INFO - [Daryl] Данги: найден через OCR (33,167)
+2026-10-22 14:30:07,381 - INFO - [Daryl] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-22 14:30:07,381 - INFO - [Daryl] Данги: клик по строке (33,167)
+2026-10-22 14:30:09,255 - INFO - [Daryl] Данги: кликнул, проверяю время доступа
+2026-10-22 14:30:09,282 - INFO - [Daryl] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-22 14:30:09,292 - INFO - [Daryl] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-22 14:30:09,293 - INFO - [Daryl] Данги: время доступа есть — иду в данж
+2026-10-22 14:30:12,561 - INFO - [Daryl] Данги: нажал Вход
+2026-10-22 14:30:12,582 - INFO - [Daryl] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-22 14:30:12,591 - INFO - [Daryl] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-22 14:30:12,608 - INFO - [Daryl] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-22 14:30:12,625 - INFO - [Daryl] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-22 14:30:12,642 - INFO - [Daryl] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-22 14:30:12,659 - INFO - [Daryl] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-22 14:30:12,677 - INFO - [Daryl] Данги: Ур.40 mean=32 ОТКРЫТ
+2026-10-22 14:30:12,692 - INFO - [Daryl] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-22 14:30:12,692 - INFO - [Daryl] Данги: кликаю последний открытый = Ур.75
+2026-10-22 14:30:12,992 - INFO - [Daryl] Данги: клик Ур.75 (263,166) offset=(3,2)
+2026-10-22 14:30:18,384 - INFO - [Daryl] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-22 14:30:18,384 - INFO - [Daryl] Данги: светлый экран (mean=137) — данж запущен через Ур.75
+2026-10-22 14:30:18,384 - INFO - [Daryl] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-22 14:30:26,403 - INFO - [Daryl] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-22 14:30:28,225 - INFO - [Daryl] Не находимся в энерго
+2026-10-22 14:30:28,225 - INFO - [Daryl] Данги: попытка усыпления 1/3
+2026-10-22 14:30:34,343 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-22 14:30:34,343 - INFO - [Daryl] Данги: уснул с попытки 1
+2026-10-22 14:30:34,343 - INFO - [Daryl] Данги: Благословенная Земля запущена, окно в сне
+2026-10-22 14:30:34,344 - INFO - [Daryl] main_loop завершился
+2026-10-22 14:30:40,622 - WARNING - [Daryl] log_uploader: PNG profiles_Dungeon_blessed_after_load.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_load.png'
+2026-10-22 14:30:40,622 - WARNING - [Daryl] log_uploader: PNG profiles_Dungeon_blessed_after_Ур_75.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_Ур_75.png'
+2026-10-22 14:30:40,622 - WARNING - [Daryl] log_uploader: PNG profiles_Dungeon_blessed_found_ocr.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_found_ocr.png'
+2026-10-22 14:30:40,622 - WARNING - [Daryl] log_uploader: PNG profiles_Dungeon_blessed_level_window.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_level_window.png'
+2026-10-22 14:30:40,623 - WARNING - [Daryl] log_uploader: PNG profiles_Dungeon_blessed_time_check.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_time_check.png'
+2026-10-22 15:22:22,093 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-22 15:22:34,370 - INFO - [Daryl] Ищем вкладки
+2026-10-22 15:22:36,379 - INFO - [Daryl] Перешел на вкладку: (381, 34)
+2026-10-22 15:22:37,698 - INFO - [Daryl] Собираю награду тут: (302, 101)
+2026-10-22 15:22:42,228 - INFO - [Daryl] Всего собрано: 1
+2026-10-22 15:22:42,228 - INFO - [Daryl] Дейлик успешно собран
+2026-10-22 15:22:44,060 - INFO - [Daryl] Не находимся в энерго
+2026-10-22 15:22:47,464 - INFO - [Daryl] Нашел почту
+2026-10-22 15:23:02,350 - INFO - [Daryl] Почта собрана
+2026-10-22 15:23:02,847 - INFO - [Daryl] Почта успешно собран
+2026-10-22 15:23:04,678 - INFO - [Daryl] Не находимся в энерго
+2026-10-22 15:23:04,975 - INFO - [Daryl] Нашел сбор ачив
+2026-10-22 15:23:10,763 - INFO - [Daryl] Ачивок больше нет
+2026-10-22 15:23:11,036 - INFO - [Daryl] Ачивы успешно собран
+2026-10-22 15:23:12,861 - INFO - [Daryl] Не находимся в энерго
+2026-10-22 15:23:14,631 - INFO - [Daryl] Нашел сбор клана
+2026-10-22 15:23:24,414 - INFO - [Daryl] Клан успешно собран
+2026-10-22 15:23:26,229 - INFO - [Daryl] Не находимся в энерго
+2026-10-22 15:23:29,855 - INFO - [Daryl] Нашел сбор альянса, жму
+2026-10-22 15:23:36,044 - INFO - [Daryl] Альянс успешно собран
+2026-10-22 15:23:37,878 - INFO - [Daryl] Не находимся в энерго
+2026-10-22 15:23:40,953 - INFO - [Daryl] Нашел бп
+2026-10-22 15:23:42,462 - INFO - [Daryl] Пробую чекнуть вкладочки бп
+2026-10-22 15:23:42,960 - INFO - [Daryl] {'left': 0, 'top': 65, 'width': 400, 'height': 1}
+2026-10-22 15:23:42,979 - INFO - [Daryl] [155]
+2026-10-22 15:23:42,979 - INFO - [Daryl] final [['155, 25', 'no']]
+2026-10-22 15:23:42,979 - INFO - [Daryl] Обнаружил вкладок бп: 1, начинаю чекать...
+2026-10-22 15:23:45,027 - INFO - [Daryl] Подвкладок найдено: 1
+2026-10-22 15:23:48,194 - INFO - [Daryl] Собираю награду [1.1]
+2026-10-22 15:23:51,981 - INFO - [Daryl] Нет наград во вкладке 1, под 1
+2026-10-22 15:23:57,880 - INFO - [Daryl] Закрываю баттл пасс
+2026-10-22 15:24:00,120 - INFO - [Daryl] Пасс успешно собран
+2026-10-22 15:24:01,930 - INFO - [Daryl] Не находимся в энерго
+2026-10-22 15:24:24,559 - INFO - [Daryl] Вылезла реклама в магазе, закрыл
+2026-10-22 15:24:25,848 - INFO - [Daryl] Вылезла обычная реклама, закрыл гадость
+2026-10-22 15:24:28,380 - INFO - [Daryl] Шоп успешно собран
+2026-10-22 15:24:30,196 - INFO - [Daryl] Не находимся в энерго
+2026-10-22 15:24:40,213 - INFO - [Daryl] main_loop завершился
+2026-10-22 17:05:27,561 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-22 17:05:31,512 - INFO - [Daryl] Аук: запущен relist (снять+найти+поставить)
+2026-10-22 17:05:33,328 - INFO - [Daryl] Не находимся в энерго
+2026-10-22 17:05:46,295 - INFO - [Daryl] Аук: жду загрузки... осталось 109с
+2026-10-22 17:05:58,263 - INFO - [Daryl] Аук: загрузился
+2026-10-22 17:05:58,268 - INFO - [Daryl] Аук: сохранил позицию окна до resize: (0,40) 400x225
+2026-10-22 17:05:58,272 - INFO - [Daryl] Аук: монитор рабочая область 2560x1400 на (0,0)
+2026-10-22 17:05:59,826 - INFO - [Daryl] Аук: окно resize 2560x1400 на (0,40), scale=(2.67,2.59)
+2026-10-22 17:06:05,619 - INFO - [Daryl] Аук: вкладка Продажа открыта
+2026-10-22 17:06:05,619 - WARNING - [Daryl] Аук: не удалось сохранить фулл-скрин au_after_tab_sell.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-22 17:06:05,619 - INFO - [Daryl] Аук: предмет 1/10
+2026-10-22 17:06:05,629 - INFO - [Daryl] Аук: сохранён au_lot_zone.png
+2026-10-22 17:06:05,630 - INFO - [Daryl] Аук: сохранён au_sample.png
+2026-10-22 17:06:05,632 - INFO - [Daryl] Аук: SIFT образец (лот): 0 точек
+2026-10-22 17:06:05,931 - DEBUG - [Daryl] Аук: статус лота Tesseract: 'г'
+2026-10-22 17:06:05,931 - DEBUG - [Daryl] Аук: статус зелёных пикселей: 0 (0.00%)
+2026-10-22 17:06:05,931 - INFO - [Daryl] Аук: образец лота пустой (нет иконки) — список лотов пуст. Завершаю прогон (не ошибка).
+2026-10-22 17:06:05,931 - INFO - [Daryl] Аук: лотов больше нет на странице (предмет 1)
+2026-10-22 17:06:09,159 - INFO - [Daryl] Аук: аук закрыт
+2026-10-22 17:06:09,609 - INFO - [Daryl] Аук: окно возвращено 400x225 на (0,40)
+2026-10-22 17:06:11,445 - INFO - [Daryl] Не находимся в энерго
+2026-10-22 17:06:17,563 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-22 17:06:17,563 - INFO - [Daryl] Аук: окно уложено спать
+2026-10-22 17:06:17,563 - WARNING - [Daryl] Аук: не удалось сохранить фулл-скрин au_final_fullscreen.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-22 17:06:17,563 - INFO - [Daryl] Аук: нечего переставлять (все лоты в «Продаётся» или список пуст)
+2026-10-22 17:06:17,563 - DEBUG - [Daryl] Аук: log_uploader запущен в фоне
+2026-10-22 17:06:17,564 - INFO - [Daryl] Шось сломалось либо не смог перевыставить аук
+2026-10-22 17:06:26,646 - INFO - [Daryl] main_loop завершился
+2026-10-22 20:13:21,909 - INFO - [Daryl] Запуск Scheduler профиля
+2026-10-22 20:13:21,945 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-22 20:13:21,945 - INFO - [Daryl] Был в энерго, вырубаю перед запуском Шедули
+2026-10-22 20:13:30,512 - INFO - [Daryl] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-22 20:14:16,665 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-22 20:14:16,665 - INFO - [Daryl] Энерго подтверждён (попытка 1)
+2026-10-22 20:14:16,665 - INFO - [Daryl] Энерго включён, профиль завершён
+2026-10-22 20:14:16,665 - INFO - [Daryl] main_loop завершился
+2026-10-23 07:20:22,144 - INFO - [Daryl] Запуск Scheduler профиля
+2026-10-23 07:20:22,168 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-23 07:20:22,168 - INFO - [Daryl] Был в энерго, вырубаю перед запуском Шедули
+2026-10-23 07:20:30,707 - INFO - [Daryl] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-23 07:21:16,852 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-23 07:21:16,852 - INFO - [Daryl] Энерго подтверждён (попытка 1)
+2026-10-23 07:21:16,852 - INFO - [Daryl] Энерго включён, профиль завершён
+2026-10-23 07:21:16,853 - INFO - [Daryl] main_loop завершился
+2026-10-23 07:35:43,576 - INFO - [Daryl] Данги: окно wx=0 wy=40 400x225
+2026-10-23 07:35:43,583 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-23 07:35:50,350 - INFO - [Daryl] Не находимся в энерго
+2026-10-23 07:35:50,350 - INFO - [Daryl] _wake_up: вышли из сна с попытки 1
+2026-10-23 07:35:53,849 - INFO - [Daryl] Данги: меню подземелий открыто
+2026-10-23 07:35:53,874 - INFO - [Daryl] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-23 07:35:53,886 - INFO - [Daryl] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-23 07:35:55,082 - INFO - [Daryl] Данги OCR [--psm 11]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | ahs | “vane | try | >. | оставылерся | награды | 1 | роз) | ua | st '
+2026-10-23 07:35:56,097 - INFO - [Daryl] Данги OCR [--psm 6]: 'зе | we | e | . | . | gca | в | во | ушка | о | “¢ | oy | 7 | £23 | ‘a | х | os | у | у | умы | „>. | . | oc | staneece | rtp | 1 | роз) | tas | в | о'
+2026-10-23 07:35:57,594 - INFO - [Daryl] Данги OCR [--psm 12]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | =, | we | veaet | try | >. | оставылерся | награды | 1 | роз) | ua |'
+2026-10-23 07:35:58,610 - INFO - [Daryl] Данги OCR [--psm 3]: 'нью | fame | waewerunsme | дринибынич | - | oer | в | at | fot | век | bll | oc | staneece | rtp | 1 | роз) | остроа | номстовства | с+>сьсх | сброс |'
+2026-10-23 07:35:58,611 - DEBUG - [Daryl] Данги: попытка 1/15 — OCR=нет
+2026-10-23 07:36:05,164 - INFO - [Daryl] Данги OCR [--psm 11]: '9 | uctsesaecs | гысрыды | teste) | 5.4 | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | . | 4 | ve | .. | 2 | браша | доступь | 1 | '
+2026-10-23 07:36:06,543 - INFO - [Daryl] Данги OCR [--psm 6]: 'о, | м | ие | uctsesaecs | гысрыды | teste) | mo, | aa | остров | hencreacrma | 3602 | < | re | 1 | : | 7 | срок | о | нодуиено | в | 0500 | ra | i | '
+2026-10-23 07:36:08,178 - INFO - [Daryl] Данги OCR [--psm 12]: '9 | uctsesaecs | гысрыды | teste) | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | ip | : | 2 | браша | доступь | 1 | oman | р | г. |'
+2026-10-23 07:36:09,383 - INFO - [Daryl] Данги OCR [--psm 3]: 'о | ставальюсв | napa | 1 | peated | остров | hencroacraa | <r | сброс | © | недра | в | 0500 | qpeen | деступь | 1ч. | фи | бе | очьо | aguas | © | р'
+2026-10-23 07:36:09,383 - DEBUG - [Daryl] Данги: попытка 2/15 — OCR=нет
+2026-10-23 07:36:17,242 - INFO - [Daryl] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | брочая | доступе | 140mm | эрачив | ‹ | hs, | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | wa | эроса | дес'
+2026-10-23 07:36:18,631 - INFO - [Daryl] Данги OCR [--psm 6]: 'в | { | ‘ | о | ни | фобии | бий | ‘ | (у | . | ‘ | qpeee | доступе | 140m | so | басне | apne | ‹ | р | whi” | - | iy | wy | parsopersada | замок | 6'
+2026-10-23 07:36:20,338 - INFO - [Daryl] Данги OCR [--psm 12]: ''y | ower | qpeee | доступе | 140mm | , | эрачив | ‹ | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | < | of | эроса | деступе | '
+2026-10-23 07:36:21,341 - INFO - [Daryl] Данги OCR [--psm 3]: 'разоренемй | замок | 60h | сре | о | по | pero | в | 05 | сю | эроса | деступе | 1чф | мыл | боевое | арочый | 4% | 40 | mer | храм | рассвета | uu | '
+2026-10-23 07:36:21,341 - DEBUG - [Daryl] Данги: попытка 3/15 — OCR=нет
+2026-10-23 07:36:27,854 - INFO - [Daryl] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-23 07:36:29,270 - INFO - [Daryl] Данги OCR [--psm 11]: 'reaper | оо | сх | mf. | м | к. | у. | cpa | © | ae | дум | bees | а. | я | т | " | ees | tyne | 1 | omen | bot | oe | офееые | 4+. | 40 | мых | № | я'
+2026-10-23 07:36:31,010 - INFO - [Daryl] Данги OCR [--psm 6]: 'ew | s's | ind | reaper | ee | в» | ocs | trec | we) | dh | eke | . | < | гу | ее | у. | cpa | © | ae | дум | bees | а. | а | аг | tymene | доступа | '
+2026-10-23 07:36:32,683 - DEBUG - [Daryl] Данги: попытка 4/15 — OCR=да
+2026-10-23 07:36:32,683 - DEBUG - [Daryl] Данги: OCR нашёл но в самом низу (ocr_y=142, list_h=146) — прокручиваю ещё
+2026-10-23 07:36:40,201 - INFO - [Daryl] Данги OCR [--psm 11]: 'ay | $ | г | " | 4k | se | cees | дет | 14 | omen | been | oko | spe | ie | tea | any | че | meen | . | > | № | bd | храм | pacoseta | «ах | крик | в '
+2026-10-23 07:36:41,619 - DEBUG - [Daryl] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-23 07:36:41,619 - INFO - [Daryl] Данги: найден через OCR (33,167)
+2026-10-23 07:36:41,622 - INFO - [Daryl] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-23 07:36:41,622 - INFO - [Daryl] Данги: клик по строке (33,167)
+2026-10-23 07:36:45,940 - INFO - [Daryl] Данги: кликнул, проверяю время доступа
+2026-10-23 07:36:45,957 - INFO - [Daryl] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-23 07:36:45,970 - INFO - [Daryl] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-23 07:36:45,970 - INFO - [Daryl] Данги: время доступа есть — иду в данж
+2026-10-23 07:36:49,251 - INFO - [Daryl] Данги: нажал Вход
+2026-10-23 07:36:49,272 - INFO - [Daryl] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-23 07:36:49,284 - INFO - [Daryl] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-23 07:36:49,300 - INFO - [Daryl] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-23 07:36:49,318 - INFO - [Daryl] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-23 07:36:49,334 - INFO - [Daryl] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-23 07:36:49,352 - INFO - [Daryl] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-23 07:36:49,367 - INFO - [Daryl] Данги: Ур.40 mean=25 ОТКРЫТ
+2026-10-23 07:36:49,386 - INFO - [Daryl] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-23 07:36:49,386 - INFO - [Daryl] Данги: кликаю последний открытый = Ур.75
+2026-10-23 07:36:49,792 - INFO - [Daryl] Данги: клик Ур.75 (258,164) offset=(-2,0)
+2026-10-23 07:36:55,095 - INFO - [Daryl] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-23 07:36:55,096 - INFO - [Daryl] Данги: светлый экран (mean=89) — данж запущен через Ур.75
+2026-10-23 07:36:55,096 - INFO - [Daryl] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-23 07:37:03,125 - INFO - [Daryl] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-23 07:37:04,951 - INFO - [Daryl] Не находимся в энерго
+2026-10-23 07:37:04,951 - INFO - [Daryl] Данги: попытка усыпления 1/3
+2026-10-23 07:37:11,119 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-23 07:37:11,119 - INFO - [Daryl] Данги: уснул с попытки 1
+2026-10-23 07:37:11,119 - INFO - [Daryl] Данги: Благословенная Земля запущена, окно в сне
+2026-10-23 07:37:11,119 - INFO - [Daryl] main_loop завершился
+2026-10-23 07:37:17,395 - WARNING - [Daryl] log_uploader: PNG profiles_Dungeon_blessed_after_Ур_75.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_Ур_75.png'
+2026-10-23 07:37:17,396 - WARNING - [Daryl] log_uploader: PNG profiles_Dungeon_blessed_level_window.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_level_window.png'
+2026-10-23 09:31:43,750 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-23 09:31:56,065 - INFO - [Daryl] Ищем вкладки
+2026-10-23 09:31:58,087 - INFO - [Daryl] Перешел на вкладку: (381, 34)
+2026-10-23 09:31:59,437 - INFO - [Daryl] Собираю награду тут: (302, 101)
+2026-10-23 09:32:03,966 - INFO - [Daryl] Всего собрано: 1
+2026-10-23 09:32:03,967 - INFO - [Daryl] Дейлик успешно собран
+2026-10-23 09:32:05,804 - INFO - [Daryl] Не находимся в энерго
+2026-10-23 09:32:09,218 - INFO - [Daryl] Нашел почту
+2026-10-23 09:32:16,061 - INFO - [Daryl] Почта собрана
+2026-10-23 09:32:16,572 - INFO - [Daryl] Почта успешно собран
+2026-10-23 09:32:18,402 - INFO - [Daryl] Не находимся в энерго
+2026-10-23 09:32:23,401 - INFO - [Daryl] Нет красной точки на иконке достижений
+2026-10-23 09:32:23,401 - INFO - [Daryl] Нет новых ачивы или не удалось собрать
+2026-10-23 09:32:25,217 - INFO - [Daryl] Не находимся в энерго
+2026-10-23 09:32:26,834 - INFO - [Daryl] Нашел сбор клана
+2026-10-23 09:32:37,159 - INFO - [Daryl] Клан успешно собран
+2026-10-23 09:32:38,967 - INFO - [Daryl] Не находимся в энерго
+2026-10-23 09:32:42,553 - INFO - [Daryl] Нашел сбор альянса, жму
+2026-10-23 09:32:48,828 - INFO - [Daryl] Альянс успешно собран
+2026-10-23 09:32:50,668 - INFO - [Daryl] Не находимся в энерго
+2026-10-23 09:32:53,972 - INFO - [Daryl] Нашел бп
+2026-10-23 09:32:55,471 - INFO - [Daryl] Пробую чекнуть вкладочки бп
+2026-10-23 09:32:55,972 - INFO - [Daryl] {'left': 0, 'top': 65, 'width': 400, 'height': 1}
+2026-10-23 09:32:55,985 - INFO - [Daryl] [155]
+2026-10-23 09:32:55,985 - INFO - [Daryl] final [['155, 25', 'no']]
+2026-10-23 09:32:55,985 - INFO - [Daryl] Обнаружил вкладок бп: 1, начинаю чекать...
+2026-10-23 09:32:57,751 - INFO - [Daryl] Подвкладок найдено: 1
+2026-10-23 09:32:59,020 - INFO - [Daryl] Собираю награду [1.1]
+2026-10-23 09:33:02,751 - INFO - [Daryl] Нет наград во вкладке 1, под 1
+2026-10-23 09:33:05,584 - INFO - [Daryl] Собирать нечего, проверяю следующую вкладку
+2026-10-23 09:33:05,585 - INFO - [Daryl] Закрываю баттл пасс
+2026-10-23 09:33:07,860 - INFO - [Daryl] Пасс успешно собран
+2026-10-23 09:33:09,685 - INFO - [Daryl] Не находимся в энерго
+2026-10-23 09:33:14,008 - INFO - [Daryl] Вылезла реклама в магазе, закрыл
+2026-10-23 09:33:26,270 - INFO - [Daryl] Нет новых шоп или не удалось собрать
+2026-10-23 09:33:28,085 - INFO - [Daryl] Не находимся в энерго
+2026-10-23 09:33:32,983 - INFO - [Daryl] Вылезла обычная реклама, закрыл гадость
+2026-10-23 09:33:33,801 - INFO - [Daryl] После энерго: закрыл рекламный баннер (проверка 1/3)
+2026-10-23 09:33:39,061 - INFO - [Daryl] main_loop завершился
+2026-10-25 15:23:00,442 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-25 15:23:12,705 - INFO - [Daryl] Ищем вкладки
+2026-10-25 15:23:14,718 - INFO - [Daryl] Перешел на вкладку: (381, 34)
+2026-10-25 15:23:16,064 - INFO - [Daryl] Собираю награду тут: (302, 101)
+2026-10-25 15:23:20,596 - INFO - [Daryl] Всего собрано: 1
+2026-10-25 15:23:20,596 - INFO - [Daryl] Дейлик успешно собран
+2026-10-25 15:23:22,410 - INFO - [Daryl] Не находимся в энерго
+2026-10-25 15:23:25,799 - INFO - [Daryl] Нашел почту
+2026-10-25 15:23:32,574 - INFO - [Daryl] Почта собрана
+2026-10-25 15:23:33,086 - INFO - [Daryl] Почта успешно собран
+2026-10-25 15:23:34,908 - INFO - [Daryl] Не находимся в энерго
+2026-10-25 15:23:39,908 - INFO - [Daryl] Нет красной точки на иконке достижений
+2026-10-25 15:23:39,908 - INFO - [Daryl] Нет новых ачивы или не удалось собрать
+2026-10-25 15:23:41,742 - INFO - [Daryl] Не находимся в энерго
+2026-10-25 15:23:43,712 - INFO - [Daryl] Нашел сбор клана
+2026-10-25 15:23:55,043 - INFO - [Daryl] Не нашел clan_6
+2026-10-25 15:23:55,275 - INFO - [Daryl] Нет новых клан или не удалось собрать
+2026-10-25 15:23:57,092 - INFO - [Daryl] Не находимся в энерго
+2026-10-25 15:24:00,678 - INFO - [Daryl] Нашел сбор альянса, жму
+2026-10-25 15:24:06,796 - INFO - [Daryl] Альянс успешно собран
+2026-10-25 15:24:08,610 - INFO - [Daryl] Не находимся в энерго
+2026-10-25 15:24:11,699 - INFO - [Daryl] Нашел бп
+2026-10-25 15:24:13,206 - INFO - [Daryl] Пробую чекнуть вкладочки бп
+2026-10-25 15:24:13,703 - INFO - [Daryl] {'left': 0, 'top': 65, 'width': 400, 'height': 1}
+2026-10-25 15:24:13,708 - INFO - [Daryl] [155]
+2026-10-25 15:24:13,709 - INFO - [Daryl] final [['155, 25', 'no']]
+2026-10-25 15:24:13,709 - INFO - [Daryl] Обнаружил вкладок бп: 1, начинаю чекать...
+2026-10-25 15:24:15,459 - INFO - [Daryl] Подвкладок найдено: 1
+2026-10-25 15:24:16,742 - INFO - [Daryl] Собираю награду [1.1]
+2026-10-25 15:24:20,510 - INFO - [Daryl] Нет наград во вкладке 1, под 1
+2026-10-25 15:24:23,309 - INFO - [Daryl] Собирать нечего, проверяю следующую вкладку
+2026-10-25 15:24:23,309 - INFO - [Daryl] Закрываю баттл пасс
+2026-10-25 15:24:25,597 - INFO - [Daryl] Пасс успешно собран
+2026-10-25 15:24:27,410 - INFO - [Daryl] Не находимся в энерго
+2026-10-25 15:24:49,504 - INFO - [Daryl] Вылезла реклама в магазе, закрыл
+2026-10-25 15:24:55,766 - INFO - [Daryl] Вылезла обычная реклама, закрыл гадость
+2026-10-25 15:24:58,325 - INFO - [Daryl] Шоп успешно собран
+2026-10-25 15:25:00,142 - INFO - [Daryl] Не находимся в энерго
+2026-10-25 15:25:10,144 - INFO - [Daryl] main_loop завершился
+2026-10-25 15:30:08,532 - INFO - [Daryl] Данги: окно wx=0 wy=40 400x225
+2026-10-25 15:30:08,563 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-25 15:30:16,032 - INFO - [Daryl] Не находимся в энерго
+2026-10-25 15:30:16,032 - INFO - [Daryl] _wake_up: вышли из сна с попытки 1
+2026-10-25 15:30:24,145 - INFO - [Daryl] Данги: меню подземелий открыто
+2026-10-25 15:30:24,174 - INFO - [Daryl] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-25 15:30:24,184 - INFO - [Daryl] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-25 15:30:25,314 - INFO - [Daryl] Данги OCR [--psm 11]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | ahs | “vane | try | >. | оставылерся | награды | 1 | роз) | ua | st '
+2026-10-25 15:30:26,269 - INFO - [Daryl] Данги OCR [--psm 6]: 'зе | we | e | . | . | gca | в | во | ушка | о | “¢ | oy | 7 | £23 | ‘a | х | os | у | у | умы | „>. | . | oc | staneece | rtp | 1 | роз) | tas | в | о'
+2026-10-25 15:30:27,584 - INFO - [Daryl] Данги OCR [--psm 12]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | =, | we | veaet | try | >. | оставылерся | награды | 1 | роз) | ua |'
+2026-10-25 15:30:28,525 - INFO - [Daryl] Данги OCR [--psm 3]: 'нью | fame | waewerunsme | дринибынич | - | oer | в | at | fot | век | bll | oc | staneece | rtp | 1 | роз) | остроа | номстовства | с+>сьсх | сброс |'
+2026-10-25 15:30:28,526 - DEBUG - [Daryl] Данги: попытка 1/15 — OCR=нет
+2026-10-25 15:30:35,811 - INFO - [Daryl] Данги OCR [--psm 11]: '9 | uctsesaecs | гысрыды | teste) | 5.4 | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | . | 4 | ve | .. | 2 | браша | доступь | 1 | '
+2026-10-25 15:30:37,132 - INFO - [Daryl] Данги OCR [--psm 6]: 'о, | м | ие | uctsesaecs | гысрыды | teste) | mo, | aa | остров | hencreacrma | 3602 | < | re | 1 | : | 7 | срок | о | нодуиено | в | 0500 | ra | i | '
+2026-10-25 15:30:38,652 - INFO - [Daryl] Данги OCR [--psm 12]: '9 | uctsesaecs | гысрыды | teste) | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | ip | : | 2 | браша | доступь | 1 | oman | р | г. |'
+2026-10-25 15:30:39,807 - INFO - [Daryl] Данги OCR [--psm 3]: 'о | ставальюсв | napa | 1 | peated | остров | hencroacraa | <r | сброс | © | недра | в | 0500 | qpeen | деступь | 1ч. | фи | бе | очьо | aguas | © | р'
+2026-10-25 15:30:39,807 - DEBUG - [Daryl] Данги: попытка 2/15 — OCR=нет
+2026-10-25 15:30:47,258 - INFO - [Daryl] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | брочая | доступе | 140mm | эрачив | ‹ | hs, | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | wa | эроса | дес'
+2026-10-25 15:30:48,565 - INFO - [Daryl] Данги OCR [--psm 6]: 'в | { | ‘ | о | ни | фобии | бий | ‘ | (у | . | ‘ | qpeee | доступе | 140m | so | басне | apne | ‹ | р | whi” | - | iy | wy | parsopersada | замок | 6'
+2026-10-25 15:30:50,164 - INFO - [Daryl] Данги OCR [--psm 12]: ''y | ower | qpeee | доступе | 140mm | , | эрачив | ‹ | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | < | of | эроса | деступе | '
+2026-10-25 15:30:51,145 - INFO - [Daryl] Данги OCR [--psm 3]: 'разоренемй | замок | 60h | сре | о | по | pero | в | 05 | сю | эроса | деступе | 1чф | мыл | боевое | арочый | 4% | 40 | mer | храм | рассвета | uu | '
+2026-10-25 15:30:51,145 - DEBUG - [Daryl] Данги: попытка 3/15 — OCR=нет
+2026-10-25 15:30:57,884 - INFO - [Daryl] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-25 15:30:59,200 - INFO - [Daryl] Данги OCR [--psm 11]: 'reaper | оо | сх | mf. | м | к. | у. | cpa | © | ae | дум | bees | а. | я | т | " | ees | tyne | 1 | omen | bot | oe | офееые | 4+. | 40 | мых | № | я'
+2026-10-25 15:31:00,777 - INFO - [Daryl] Данги OCR [--psm 6]: 'ew | s's | ind | reaper | ee | в» | ocs | trec | we) | dh | eke | . | < | гу | ее | у. | cpa | © | ae | дум | bees | а. | а | аг | tymene | доступа | '
+2026-10-25 15:31:02,378 - DEBUG - [Daryl] Данги: попытка 4/15 — OCR=да
+2026-10-25 15:31:02,378 - DEBUG - [Daryl] Данги: OCR нашёл но в самом низу (ocr_y=142, list_h=146) — прокручиваю ещё
+2026-10-25 15:31:07,641 - INFO - [Daryl] Данги OCR [--psm 11]: 'ay | ay | se | " | 4k | cees | дет | 14 | omen | men | owe | spews | a | ae | teres | > | № | bd | в | храм | рассвета | «ах | крик | в | ве | дум | b'
+2026-10-25 15:31:08,868 - DEBUG - [Daryl] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-25 15:31:08,868 - INFO - [Daryl] Данги: найден через OCR (33,167)
+2026-10-25 15:31:08,871 - INFO - [Daryl] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-25 15:31:08,871 - INFO - [Daryl] Данги: клик по строке (33,167)
+2026-10-25 15:31:10,636 - INFO - [Daryl] Данги: кликнул, проверяю время доступа
+2026-10-25 15:31:10,656 - INFO - [Daryl] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-25 15:31:10,667 - INFO - [Daryl] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-25 15:31:10,667 - INFO - [Daryl] Данги: время доступа есть — иду в данж
+2026-10-25 15:31:13,927 - INFO - [Daryl] Данги: нажал Вход
+2026-10-25 15:31:13,939 - INFO - [Daryl] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-25 15:31:13,948 - INFO - [Daryl] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-25 15:31:13,965 - INFO - [Daryl] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-25 15:31:13,982 - INFO - [Daryl] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-25 15:31:13,999 - INFO - [Daryl] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-25 15:31:14,016 - INFO - [Daryl] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-25 15:31:14,033 - INFO - [Daryl] Данги: Ур.40 mean=29 ОТКРЫТ
+2026-10-25 15:31:14,049 - INFO - [Daryl] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-25 15:31:14,049 - INFO - [Daryl] Данги: кликаю последний открытый = Ур.75
+2026-10-25 15:31:14,355 - INFO - [Daryl] Данги: клик Ур.75 (260,165) offset=(0,1)
+2026-10-25 15:31:19,658 - INFO - [Daryl] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-25 15:31:19,659 - INFO - [Daryl] Данги: светлый экран (mean=119) — данж запущен через Ур.75
+2026-10-25 15:31:19,659 - INFO - [Daryl] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-25 15:31:27,674 - INFO - [Daryl] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-25 15:31:29,499 - INFO - [Daryl] Не находимся в энерго
+2026-10-25 15:31:29,499 - INFO - [Daryl] Данги: попытка усыпления 1/3
+2026-10-25 15:31:35,681 - INFO - [Daryl] Находимся в энергорежиме
+2026-10-25 15:31:35,681 - INFO - [Daryl] Данги: уснул с попытки 1
+2026-10-25 15:31:35,681 - INFO - [Daryl] Данги: Благословенная Земля запущена, окно в сне
+2026-10-25 15:31:35,682 - INFO - [Daryl] main_loop завершился
