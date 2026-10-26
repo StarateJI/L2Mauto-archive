@@ -1,0 +1,501 @@
+=== Log tail 2026-10-26T19:48:54.890627 | last 500 lines ===
+2026-10-21 10:09:56,689 - INFO - [HollyWood] Данги OCR [--psm 11]: 'ay | se | on | se | " | cees | дет | 14 | omen | о | са | № | ях | храм | рассвета | aay | крик | в | ве | ap | bo | ule | gul | lo | lo | `-4 | <. | '
+2026-10-21 10:09:58,055 - DEBUG - [HollyWood] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-21 10:09:58,055 - INFO - [HollyWood] Данги: найден через OCR (33,167)
+2026-10-21 10:09:58,058 - INFO - [HollyWood] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-21 10:09:58,058 - INFO - [HollyWood] Данги: клик по строке (33,167)
+2026-10-21 10:09:59,935 - INFO - [HollyWood] Данги: кликнул, проверяю время доступа
+2026-10-21 10:09:59,961 - INFO - [HollyWood] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-21 10:09:59,973 - INFO - [HollyWood] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-21 10:09:59,974 - INFO - [HollyWood] Данги: время доступа есть — иду в данж
+2026-10-21 10:10:03,240 - INFO - [HollyWood] Данги: нажал Вход
+2026-10-21 10:10:03,262 - INFO - [HollyWood] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-21 10:10:03,271 - INFO - [HollyWood] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-21 10:10:03,289 - INFO - [HollyWood] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-21 10:10:03,305 - INFO - [HollyWood] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-21 10:10:03,322 - INFO - [HollyWood] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-21 10:10:03,339 - INFO - [HollyWood] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-21 10:10:03,355 - INFO - [HollyWood] Данги: Ур.40 mean=31 ОТКРЫТ
+2026-10-21 10:10:03,371 - INFO - [HollyWood] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-21 10:10:03,371 - INFO - [HollyWood] Данги: кликаю последний открытый = Ур.75
+2026-10-21 10:10:03,686 - INFO - [HollyWood] Данги: клик Ур.75 (257,165) offset=(-3,1)
+2026-10-21 10:10:09,032 - INFO - [HollyWood] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-21 10:10:09,032 - INFO - [HollyWood] Данги: светлый экран (mean=111) — данж запущен через Ур.75
+2026-10-21 10:10:09,032 - INFO - [HollyWood] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-21 10:10:17,064 - INFO - [HollyWood] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-21 10:10:18,888 - INFO - [HollyWood] Не находимся в энерго
+2026-10-21 10:10:18,888 - INFO - [HollyWood] Данги: попытка усыпления 1/3
+2026-10-21 10:10:25,038 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-21 10:10:25,038 - INFO - [HollyWood] Данги: уснул с попытки 1
+2026-10-21 10:10:25,038 - INFO - [HollyWood] Данги: Благословенная Земля запущена, окно в сне
+2026-10-21 10:10:25,039 - INFO - [HollyWood] main_loop завершился
+2026-10-21 10:11:04,807 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-21 10:11:16,460 - INFO - [HollyWood] Ищем вкладки
+2026-10-21 10:11:18,468 - INFO - [HollyWood] Перешел на вкладку: (381, 34)
+2026-10-21 10:11:19,827 - INFO - [HollyWood] Собираю награду тут: (302, 101)
+2026-10-21 10:11:26,072 - INFO - [HollyWood] Перешел на вкладку: (381, 59)
+2026-10-21 10:11:27,427 - INFO - [HollyWood] Собираю награду тут: (302, 101)
+2026-10-21 10:11:31,950 - INFO - [HollyWood] Перешел на вкладку: (381, 84)
+2026-10-21 10:11:33,261 - INFO - [HollyWood] Пропускаем кнопку с алмазом/донатом: (302, 101)
+2026-10-21 10:11:33,515 - INFO - [HollyWood] Всего собрано: 3
+2026-10-21 10:11:33,515 - INFO - [HollyWood] Дейлик успешно собран
+2026-10-21 10:11:35,356 - INFO - [HollyWood] Не находимся в энерго
+2026-10-21 10:11:38,405 - INFO - [HollyWood] Нашел почту
+2026-10-21 10:11:45,157 - INFO - [HollyWood] Почта собрана
+2026-10-21 10:11:45,654 - INFO - [HollyWood] Почта успешно собран
+2026-10-21 10:11:47,474 - INFO - [HollyWood] Не находимся в энерго
+2026-10-21 10:11:52,474 - INFO - [HollyWood] Нет красной точки на иконке достижений
+2026-10-21 10:11:52,474 - INFO - [HollyWood] Нет новых ачивы или не удалось собрать
+2026-10-21 10:11:54,308 - INFO - [HollyWood] Не находимся в энерго
+2026-10-21 10:11:56,115 - INFO - [HollyWood] Нашел сбор клана
+2026-10-21 10:12:05,862 - INFO - [HollyWood] Клан успешно собран
+2026-10-21 10:12:07,673 - INFO - [HollyWood] Не находимся в энерго
+2026-10-21 10:12:11,199 - INFO - [HollyWood] Нашел сбор альянса, жму
+2026-10-21 10:12:17,458 - INFO - [HollyWood] Альянс успешно собран
+2026-10-21 10:12:19,272 - INFO - [HollyWood] Не находимся в энерго
+2026-10-21 10:12:22,630 - INFO - [HollyWood] Нашел бп
+2026-10-21 10:12:24,129 - INFO - [HollyWood] Пробую чекнуть вкладочки бп
+2026-10-21 10:12:24,630 - INFO - [HollyWood] {'left': 1200, 'top': 860, 'width': 400, 'height': 1}
+2026-10-21 10:12:24,642 - INFO - [HollyWood] [80, 155, 230, 305]
+2026-10-21 10:12:24,642 - INFO - [HollyWood] final [['80, 25', 'no'], ['155, 25', 'no'], ['230, 25', 'no'], ['305, 25', 'no']]
+2026-10-21 10:12:24,642 - INFO - [HollyWood] Обнаружил вкладок бп: 4, начинаю чекать...
+2026-10-21 10:12:26,426 - INFO - [HollyWood] Подвкладок найдено: 0
+2026-10-21 10:12:34,840 - INFO - [HollyWood] Подвкладок найдено: 1
+2026-10-21 10:12:36,108 - INFO - [HollyWood] Собираю награду [2.1]
+2026-10-21 10:12:39,857 - INFO - [HollyWood] Нет наград во вкладке 2, под 1
+2026-10-21 10:12:47,210 - INFO - [HollyWood] Подвкладок найдено: 0
+2026-10-21 10:12:55,606 - INFO - [HollyWood] Подвкладок найдено: 0
+2026-10-21 10:13:02,200 - INFO - [HollyWood] Закрываю баттл пасс
+2026-10-21 10:13:04,464 - INFO - [HollyWood] Пасс успешно собран
+2026-10-21 10:13:06,291 - INFO - [HollyWood] Не находимся в энерго
+2026-10-21 10:13:10,364 - INFO - [HollyWood] Вылезла обычная реклама, закрыл гадость
+2026-10-21 10:13:25,387 - INFO - [HollyWood] Чет пошло не так, skip!
+2026-10-21 10:13:27,724 - INFO - [HollyWood] Шоп успешно собран
+2026-10-21 10:13:29,541 - INFO - [HollyWood] Не находимся в энерго
+2026-10-21 10:13:39,596 - INFO - [HollyWood] main_loop завершился
+2026-10-21 10:57:44,533 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-21 10:57:48,451 - INFO - [HollyWood] Аук: запущен relist (снять+найти+поставить)
+2026-10-21 10:57:50,268 - INFO - [HollyWood] Не находимся в энерго
+2026-10-21 10:57:56,234 - INFO - [HollyWood] Аук: загрузился
+2026-10-21 10:57:56,238 - INFO - [HollyWood] Аук: сохранил позицию окна до resize: (1200,835) 400x225
+2026-10-21 10:57:56,241 - INFO - [HollyWood] Аук: монитор рабочая область 2560x1400 на (0,0)
+2026-10-21 10:57:57,789 - INFO - [HollyWood] Аук: окно resize 2560x1400 на (0,40), scale=(2.67,2.59)
+2026-10-21 10:58:03,551 - INFO - [HollyWood] Аук: вкладка Продажа открыта
+2026-10-21 10:58:03,551 - WARNING - [HollyWood] Аук: не удалось сохранить фулл-скрин au_after_tab_sell.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-21 10:58:03,551 - INFO - [HollyWood] Аук: предмет 1/10
+2026-10-21 10:58:03,568 - INFO - [HollyWood] Аук: сохранён au_lot_zone.png
+2026-10-21 10:58:03,569 - INFO - [HollyWood] Аук: сохранён au_sample.png
+2026-10-21 10:58:03,571 - INFO - [HollyWood] Аук: SIFT образец (лот): 0 точек
+2026-10-21 10:58:03,888 - DEBUG - [HollyWood] Аук: статус лота Tesseract: 'г'
+2026-10-21 10:58:03,888 - DEBUG - [HollyWood] Аук: статус зелёных пикселей: 0 (0.00%)
+2026-10-21 10:58:03,888 - INFO - [HollyWood] Аук: образец лота пустой (нет иконки) — список лотов пуст. Завершаю прогон (не ошибка).
+2026-10-21 10:58:03,888 - INFO - [HollyWood] Аук: лотов больше нет на странице (предмет 1)
+2026-10-21 10:58:07,166 - INFO - [HollyWood] Аук: аук закрыт
+2026-10-21 10:58:07,631 - INFO - [HollyWood] Аук: окно возвращено 400x225 на (1200,835)
+2026-10-21 10:58:09,451 - INFO - [HollyWood] Не находимся в энерго
+2026-10-21 10:58:15,602 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-21 10:58:15,602 - INFO - [HollyWood] Аук: окно уложено спать
+2026-10-21 10:58:15,602 - WARNING - [HollyWood] Аук: не удалось сохранить фулл-скрин au_final_fullscreen.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-21 10:58:15,602 - INFO - [HollyWood] Аук: нечего переставлять (все лоты в «Продаётся» или список пуст)
+2026-10-21 10:58:15,603 - DEBUG - [HollyWood] Аук: log_uploader запущен в фоне
+2026-10-21 10:58:15,603 - INFO - [HollyWood] Шось сломалось либо не смог перевыставить аук
+2026-10-21 10:58:23,704 - INFO - [HollyWood] main_loop завершился
+2026-10-21 13:15:20,991 - INFO - [HollyWood] Запуск Scheduler профиля
+2026-10-21 13:15:21,012 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-21 13:15:21,012 - INFO - [HollyWood] Был в энерго, вырубаю перед запуском Шедули
+2026-10-21 13:15:28,817 - INFO - [HollyWood] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-21 13:16:14,930 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-21 13:16:14,930 - INFO - [HollyWood] Энерго подтверждён (попытка 1)
+2026-10-21 13:16:14,930 - INFO - [HollyWood] Энерго включён, профиль завершён
+2026-10-21 13:16:14,930 - INFO - [HollyWood] main_loop завершился
+2026-10-22 14:27:37,968 - INFO - [HollyWood] Данги: окно wx=1200 wy=835 400x225
+2026-10-22 14:27:37,989 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-22 14:27:45,591 - INFO - [HollyWood] Не находимся в энерго
+2026-10-22 14:27:45,591 - INFO - [HollyWood] _wake_up: вышли из сна с попытки 1
+2026-10-22 14:27:52,703 - INFO - [HollyWood] Данги: меню подземелий открыто
+2026-10-22 14:27:52,730 - INFO - [HollyWood] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-22 14:27:52,743 - INFO - [HollyWood] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-22 14:27:53,896 - INFO - [HollyWood] Данги OCR [--psm 11]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | ahs | “vane | try | >. | оставылерся | награды | 1 | роз) | ua | st '
+2026-10-22 14:27:54,829 - INFO - [HollyWood] Данги OCR [--psm 6]: 'зе | we | e | . | . | gca | в | во | ушка | о | “¢ | oy | 7 | £23 | ‘a | х | os | у | у | умы | „>. | . | oc | staneece | rtp | 1 | роз) | tas | в | о'
+2026-10-22 14:27:56,316 - INFO - [HollyWood] Данги OCR [--psm 12]: 'т” | узи | ауъь | 910000 | 9900409 | tt | wangr, | qh | analy | ak | ' | „1 | 0399 | в | oad | ate | 2232} | ro | ronnces | моб | presredoreg | 3 | 99'
+2026-10-22 14:27:57,292 - INFO - [HollyWood] Данги OCR [--psm 3]: 'нью | fame | waewerunsme | дринибынич | - | oer | в | at | fot | век | bll | oc | staneece | rtp | 1 | роз) | остроа | номстовства | с+>сьсх | срок | '
+2026-10-22 14:27:57,292 - DEBUG - [HollyWood] Данги: попытка 1/15 — OCR=нет
+2026-10-22 14:28:04,293 - INFO - [HollyWood] Данги OCR [--psm 11]: '9 | uctsesaecs | гысрыды | teste) | 5.4 | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | . | 4 | ve | .. | 2 | браша | доступь | 1 | '
+2026-10-22 14:28:05,653 - INFO - [HollyWood] Данги OCR [--psm 6]: 'о, | м | ие | uctsesaecs | гысрыды | teste) | . | ха | остров | hencreacrma | 3602 | < | re | 1 | : | 7 | срок | о | нодуиено | в | 0500 | tb | { | . '
+2026-10-22 14:28:07,243 - INFO - [HollyWood] Данги OCR [--psm 12]: '9 | uctsesaecs | гысрыды | teste) | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | ip | : | 2 | браша | доступь | 1 | oman | р | г. |'
+2026-10-22 14:28:08,483 - INFO - [HollyWood] Данги OCR [--psm 3]: 'о | ставальюсв | napa | 1 | peated | остров | hencroacraa | <r | сброс | © | недра | в | 0500 | qpeen | деступь | 1ч. | фи | бе | очьо | aguas | © | р'
+2026-10-22 14:28:08,484 - DEBUG - [HollyWood] Данги: попытка 2/15 — OCR=нет
+2026-10-22 14:28:16,056 - INFO - [HollyWood] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | брочая | доступе | 140mm | эрачив | ‹ | hs, | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | wa | ты | 14 | 0'
+2026-10-22 14:28:17,413 - INFO - [HollyWood] Данги OCR [--psm 6]: 'в | { | ‘ | о | ни | фобии | бий | ‘ | (у | . | ‘ | qpeee | доступе | 140m | so | басне | apne | ‹ | р | whi” | - | iy | wy | parsopersada | замок | -'
+2026-10-22 14:28:19,030 - INFO - [HollyWood] Данги OCR [--psm 12]: ''y | ower | qpeee | доступе | 140mm | , | эрачив | ‹ | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | < | of | ты | 14 | 0am | as'
+2026-10-22 14:28:20,020 - INFO - [HollyWood] Данги OCR [--psm 3]: 'разореномый | замок | --› | <= | сре | о | по | pero | в | 05 | сю | ты | г | боевое | арочый | 4% | $8 | ume | храм | рассвета | uu | cog | 0 | 20 | '
+2026-10-22 14:28:20,020 - DEBUG - [HollyWood] Данги: попытка 3/15 — OCR=нет
+2026-10-22 14:28:26,943 - INFO - [HollyWood] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-22 14:28:28,339 - INFO - [HollyWood] Данги OCR [--psm 11]: 'reaper | оо | сх | mf. | м | к. | у. | cpa | © | ae | дум | bees | а. | я | т | " | ees | tyne | 1 | omen | beet | oe | офреее | 4+. | 28 | ees | № | '
+2026-10-22 14:28:29,855 - INFO - [HollyWood] Данги OCR [--psm 6]: 'a | ty | om | ay | * | joe | reaper | ee | < | у | aly? | ye | cpa | © | ae | дум | bees | be | lu | га | ао | бои | рее | дост | 1 | ф | мым. | as | '
+2026-10-22 14:28:31,389 - DEBUG - [HollyWood] Данги: попытка 4/15 — OCR=да
+2026-10-22 14:28:31,390 - DEBUG - [HollyWood] Данги: OCR нашёл но в самом низу (ocr_y=142, list_h=146) — прокручиваю ещё
+2026-10-22 14:28:36,813 - INFO - [HollyWood] Данги OCR [--psm 11]: 'ay | se | on | se | " | cees | дет | 14 | omen | сте | oe | арееме | 4+. | 22 | ees | № | ях | храм | рассвета | aay | крик | в | ве | ap | bo | ule |'
+2026-10-22 14:28:38,129 - DEBUG - [HollyWood] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-22 14:28:38,129 - INFO - [HollyWood] Данги: найден через OCR (33,167)
+2026-10-22 14:28:38,132 - INFO - [HollyWood] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-22 14:28:38,132 - INFO - [HollyWood] Данги: клик по строке (33,167)
+2026-10-22 14:28:39,894 - INFO - [HollyWood] Данги: кликнул, проверяю время доступа
+2026-10-22 14:28:39,914 - INFO - [HollyWood] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-22 14:28:39,924 - INFO - [HollyWood] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-22 14:28:39,924 - INFO - [HollyWood] Данги: время доступа есть — иду в данж
+2026-10-22 14:28:43,189 - INFO - [HollyWood] Данги: нажал Вход
+2026-10-22 14:28:43,215 - INFO - [HollyWood] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-22 14:28:43,223 - INFO - [HollyWood] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-22 14:28:43,241 - INFO - [HollyWood] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-22 14:28:43,257 - INFO - [HollyWood] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-22 14:28:43,274 - INFO - [HollyWood] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-22 14:28:43,292 - INFO - [HollyWood] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-22 14:28:43,308 - INFO - [HollyWood] Данги: Ур.40 mean=25 ОТКРЫТ
+2026-10-22 14:28:43,325 - INFO - [HollyWood] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-22 14:28:43,325 - INFO - [HollyWood] Данги: кликаю последний открытый = Ур.75
+2026-10-22 14:28:43,630 - INFO - [HollyWood] Данги: клик Ур.75 (262,164) offset=(2,0)
+2026-10-22 14:28:48,934 - INFO - [HollyWood] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-22 14:28:48,936 - INFO - [HollyWood] Данги: светлый экран (mean=80) — данж запущен через Ур.75
+2026-10-22 14:28:48,936 - INFO - [HollyWood] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-22 14:28:56,984 - INFO - [HollyWood] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-22 14:28:58,807 - INFO - [HollyWood] Не находимся в энерго
+2026-10-22 14:28:58,808 - INFO - [HollyWood] Данги: попытка усыпления 1/3
+2026-10-22 14:29:04,941 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-22 14:29:04,941 - INFO - [HollyWood] Данги: уснул с попытки 1
+2026-10-22 14:29:04,941 - INFO - [HollyWood] Данги: Благословенная Земля запущена, окно в сне
+2026-10-22 14:29:04,941 - INFO - [HollyWood] main_loop завершился
+2026-10-22 14:29:11,607 - WARNING - [HollyWood] log_uploader: PNG profiles_Dungeon_blessed_after_Ур_75.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_Ур_75.png'
+2026-10-22 14:29:11,608 - WARNING - [HollyWood] log_uploader: PNG profiles_Dungeon_blessed_level_window.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_level_window.png'
+2026-10-22 15:24:44,712 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-22 15:24:57,213 - INFO - [HollyWood] Ищем вкладки
+2026-10-22 15:24:59,233 - INFO - [HollyWood] Перешел на вкладку: (381, 34)
+2026-10-22 15:25:00,584 - INFO - [HollyWood] Собираю награду тут: (302, 101)
+2026-10-22 15:25:05,127 - INFO - [HollyWood] Всего собрано: 1
+2026-10-22 15:25:05,127 - INFO - [HollyWood] Дейлик успешно собран
+2026-10-22 15:25:06,948 - INFO - [HollyWood] Не находимся в энерго
+2026-10-22 15:25:10,299 - INFO - [HollyWood] Нашел почту
+2026-10-22 15:25:21,087 - INFO - [HollyWood] Почта собрана
+2026-10-22 15:25:21,584 - INFO - [HollyWood] Почта успешно собран
+2026-10-22 15:25:23,397 - INFO - [HollyWood] Не находимся в энерго
+2026-10-22 15:25:28,412 - INFO - [HollyWood] Нет красной точки на иконке достижений
+2026-10-22 15:25:28,412 - INFO - [HollyWood] Нет новых ачивы или не удалось собрать
+2026-10-22 15:25:30,230 - INFO - [HollyWood] Не находимся в энерго
+2026-10-22 15:25:31,863 - INFO - [HollyWood] Нашел сбор клана
+2026-10-22 15:25:41,665 - INFO - [HollyWood] Клан успешно собран
+2026-10-22 15:25:43,481 - INFO - [HollyWood] Не находимся в энерго
+2026-10-22 15:25:47,091 - INFO - [HollyWood] Нашел сбор альянса, жму
+2026-10-22 15:25:53,221 - INFO - [HollyWood] Альянс успешно собран
+2026-10-22 15:25:55,031 - INFO - [HollyWood] Не находимся в энерго
+2026-10-22 15:25:58,135 - INFO - [HollyWood] Нашел бп
+2026-10-22 15:25:59,623 - INFO - [HollyWood] Пробую чекнуть вкладочки бп
+2026-10-22 15:26:00,132 - INFO - [HollyWood] {'left': 1200, 'top': 860, 'width': 400, 'height': 1}
+2026-10-22 15:26:00,149 - INFO - [HollyWood] [155]
+2026-10-22 15:26:00,149 - INFO - [HollyWood] final [['155, 25', 'no']]
+2026-10-22 15:26:00,149 - INFO - [HollyWood] Обнаружил вкладок бп: 1, начинаю чекать...
+2026-10-22 15:26:01,917 - INFO - [HollyWood] Подвкладок найдено: 1
+2026-10-22 15:26:03,183 - INFO - [HollyWood] Собираю награду [1.1]
+2026-10-22 15:26:07,014 - INFO - [HollyWood] Нет наград во вкладке 1, под 1
+2026-10-22 15:26:09,831 - INFO - [HollyWood] Собирать нечего, проверяю следующую вкладку
+2026-10-22 15:26:09,831 - INFO - [HollyWood] Закрываю баттл пасс
+2026-10-22 15:26:12,071 - INFO - [HollyWood] Пасс успешно собран
+2026-10-22 15:26:13,882 - INFO - [HollyWood] Не находимся в энерго
+2026-10-22 15:26:18,201 - INFO - [HollyWood] Вылезла обычная реклама, закрыл гадость
+2026-10-22 15:26:39,999 - INFO - [HollyWood] Шоп успешно собран
+2026-10-22 15:26:41,833 - INFO - [HollyWood] Не находимся в энерго
+2026-10-22 15:26:51,816 - INFO - [HollyWood] main_loop завершился
+2026-10-22 17:04:26,026 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-22 17:04:40,744 - INFO - [HollyWood] Не находимся в энерго
+2026-10-22 17:04:45,962 - INFO - [HollyWood] Аук: запущен relist (снять+найти+поставить)
+2026-10-22 17:04:47,776 - INFO - [HollyWood] Не находимся в энерго
+2026-10-22 17:04:54,529 - INFO - [HollyWood] Аук: загрузился
+2026-10-22 17:04:54,533 - INFO - [HollyWood] Аук: сохранил позицию окна до resize: (1200,835) 400x225
+2026-10-22 17:04:54,535 - INFO - [HollyWood] Аук: монитор рабочая область 2560x1400 на (0,0)
+2026-10-22 17:04:56,086 - INFO - [HollyWood] Аук: окно resize 2560x1400 на (0,40), scale=(2.67,2.59)
+2026-10-22 17:05:01,854 - INFO - [HollyWood] Аук: вкладка Продажа открыта
+2026-10-22 17:05:01,854 - WARNING - [HollyWood] Аук: не удалось сохранить фулл-скрин au_after_tab_sell.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-22 17:05:01,854 - INFO - [HollyWood] Аук: предмет 1/10
+2026-10-22 17:05:01,860 - INFO - [HollyWood] Аук: сохранён au_lot_zone.png
+2026-10-22 17:05:01,861 - INFO - [HollyWood] Аук: сохранён au_sample.png
+2026-10-22 17:05:01,863 - INFO - [HollyWood] Аук: SIFT образец (лот): 0 точек
+2026-10-22 17:05:02,149 - DEBUG - [HollyWood] Аук: статус лота Tesseract: 'г'
+2026-10-22 17:05:02,150 - DEBUG - [HollyWood] Аук: статус зелёных пикселей: 0 (0.00%)
+2026-10-22 17:05:02,150 - INFO - [HollyWood] Аук: образец лота пустой (нет иконки) — список лотов пуст. Завершаю прогон (не ошибка).
+2026-10-22 17:05:02,150 - INFO - [HollyWood] Аук: лотов больше нет на странице (предмет 1)
+2026-10-22 17:05:05,423 - INFO - [HollyWood] Аук: аук закрыт
+2026-10-22 17:05:05,873 - INFO - [HollyWood] Аук: окно возвращено 400x225 на (1200,835)
+2026-10-22 17:05:07,693 - INFO - [HollyWood] Не находимся в энерго
+2026-10-22 17:05:13,828 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-22 17:05:13,828 - INFO - [HollyWood] Аук: окно уложено спать
+2026-10-22 17:05:13,828 - WARNING - [HollyWood] Аук: не удалось сохранить фулл-скрин au_final_fullscreen.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-22 17:05:13,828 - INFO - [HollyWood] Аук: нечего переставлять (все лоты в «Продаётся» или список пуст)
+2026-10-22 17:05:13,829 - DEBUG - [HollyWood] Аук: log_uploader запущен в фоне
+2026-10-22 17:05:13,829 - INFO - [HollyWood] Шось сломалось либо не смог перевыставить аук
+2026-10-22 17:05:22,953 - INFO - [HollyWood] main_loop завершился
+2026-10-22 20:14:21,446 - INFO - [HollyWood] Запуск Scheduler профиля
+2026-10-22 20:14:21,463 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-22 20:14:21,463 - INFO - [HollyWood] Был в энерго, вырубаю перед запуском Шедули
+2026-10-22 20:14:29,199 - INFO - [HollyWood] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-22 20:15:15,348 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-22 20:15:15,348 - INFO - [HollyWood] Энерго подтверждён (попытка 1)
+2026-10-22 20:15:15,348 - INFO - [HollyWood] Энерго включён, профиль завершён
+2026-10-22 20:15:15,348 - INFO - [HollyWood] main_loop завершился
+2026-10-23 07:20:22,144 - INFO - [HollyWood] Запуск Scheduler профиля
+2026-10-23 07:20:22,151 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-23 07:20:22,151 - INFO - [HollyWood] Был в энерго, вырубаю перед запуском Шедули
+2026-10-23 07:20:36,866 - INFO - [HollyWood] Не находимся в энерго
+2026-10-23 07:20:41,084 - INFO - [HollyWood] Не смог выйти из энерго — остановка
+2026-10-23 07:20:41,140 - INFO - [HollyWood] main_loop завершился
+2026-10-23 07:29:33,349 - INFO - [HollyWood] Данги: окно wx=1200 wy=835 400x225
+2026-10-23 07:29:33,361 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-23 07:29:40,061 - INFO - [HollyWood] Не находимся в энерго
+2026-10-23 07:29:40,061 - INFO - [HollyWood] _wake_up: вышли из сна с попытки 1
+2026-10-23 07:29:43,618 - INFO - [HollyWood] Данги: меню подземелий открыто
+2026-10-23 07:29:43,637 - INFO - [HollyWood] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-23 07:29:43,646 - INFO - [HollyWood] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-23 07:29:45,535 - INFO - [HollyWood] Данги OCR [--psm 11]: 'кт» | ликоста: | мах | труюпод | дос | о | <= | red | сть | he | qs | ` | у | ыт | ] | a | og | oct | sanmerce | arpa | 1 | peated) | ua | а | 5.1 | о'
+2026-10-23 07:29:46,644 - INFO - [HollyWood] Данги OCR [--psm 6]: '“ | ‚ | э9фея | легкости: | max. | груюпод | ие | =. | ф | . | мя | миро | (ieee | are | cay | - | 20 | as | р | way | ‘ew | . | остовывеной | мыграды'
+2026-10-23 07:29:48,210 - INFO - [HollyWood] Данги OCR [--psm 12]: 'кт» | ликоста: | мах | труюпод | дос | о | <= | red | сть | he | $ | ky | veuert | a | og | oct | sanmerce | arpa | 1 | peated) | ua | а | 5.1 | остро'
+2026-10-23 07:29:49,125 - INFO - [HollyWood] Данги OCR [--psm 3]: '! | я | . | ‘ | dorey | bupnadoqeuputmerry | oe | 5 | . | зое | ла | кости | max. | грую | зе’ | ig | gb | ив | кей | state | oct | saameecs | rats | '
+2026-10-23 07:29:49,125 - DEBUG - [HollyWood] Данги: попытка 1/15 — OCR=нет
+2026-10-23 07:29:55,726 - INFO - [HollyWood] Данги OCR [--psm 11]: '9 | uctsesaecs | гысрыды | teste) | 5.4 | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | . | 4 | ve | .. | 2 | браша | доступь | 1 | '
+2026-10-23 07:29:57,076 - INFO - [HollyWood] Данги OCR [--psm 6]: 'о, | м | ие | uctsesaecs | гысрыды | teste) | . | ха | остров | hencreacrma | 3602 | < | re | 1 | : | 7 | срок | о | нодуиено | в | 0500 | tb | { | . '
+2026-10-23 07:29:58,677 - INFO - [HollyWood] Данги OCR [--psm 12]: '9 | uctsesaecs | гысрыды | teste) | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | ip | : | 2 | браша | доступь | 1 | oman | р | г. |'
+2026-10-23 07:29:59,858 - INFO - [HollyWood] Данги OCR [--psm 3]: 'о | ставальюсв | napa | 1 | peated | остров | hencroacraa | <r | сброс | © | недра | в | 0500 | qpeen | деступь | 1ч. | фи | бе | очьо | aguas | © | р'
+2026-10-23 07:29:59,858 - DEBUG - [HollyWood] Данги: попытка 2/15 — OCR=нет
+2026-10-23 07:30:07,798 - INFO - [HollyWood] Данги OCR [--psm 11]: 'о | —_— | ae | a | 7 | open | 14 | д | мым. | spn | симы | о | фа | уча | тей, | he | г | разорезаый | замом | + | ‚<< | $ | сорск | © | подр | в | 05'
+2026-10-23 07:30:09,007 - INFO - [HollyWood] Данги OCR [--psm 6]: 'о | eo, | й | ——_ | we | у | \.. | и | * | а | а | ты | lear | фа | $ | эа | р | разореноый | замок | ++. | << | < | уч | у | ; | * | . | (рек | о | п'
+2026-10-23 07:30:10,758 - INFO - [HollyWood] Данги OCR [--psm 12]: 'у | —_— | ae | open | 14 | д | мым. | spn | симы | о | фа | ; | twas | тей, | разорезаый | замом | + | ‚<< | $ | сорск | © | подр | в | 050 | { | а | '
+2026-10-23 07:30:11,991 - INFO - [HollyWood] Данги OCR [--psm 3]: '—_— | ae | aa | . | меч | теч, | сны | tea | фар | разорезамый | замок | + | <> | сбрсх | о | по | древо | в | 00 | брома | доступе | 1 | чфшын. | sce'
+2026-10-23 07:30:11,991 - DEBUG - [HollyWood] Данги: попытка 3/15 — OCR=нет
+2026-10-23 07:30:18,348 - INFO - [HollyWood] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-23 07:30:19,704 - INFO - [HollyWood] Данги OCR [--psm 11]: 'reap | een | ек | wa, | у. | plas | rad, | dae | ee | ry | a) | “ey | oyen | 4 | pg | ome | le | т. | 17 | my | nf | be | парень | tyre | 1 | omen | b'
+2026-10-23 07:30:21,170 - INFO - [HollyWood] Данги OCR [--psm 6]: 'о | ee | reaper | оз | и | ne | < | pp | re | be | ok | р | on | op | jom | ru, | . | . | га | ag | ch | nn | о | mee | ty | 1 | ф | шах | ans | . | и'
+2026-10-23 07:30:22,665 - DEBUG - [HollyWood] Данги: попытка 4/15 — OCR=да
+2026-10-23 07:30:22,666 - DEBUG - [HollyWood] Данги: OCR нашёл но в самом низу (ocr_y=142, list_h=146) — прокручиваю ещё
+2026-10-23 07:30:30,089 - INFO - [HollyWood] Данги OCR [--psm 11]: 'ay | se | on | se | " | cees | дет | 14 | omen | сте | oe | арееме | 4+. | 22 | ees | № | ях | храм | pacoseta | aay | крик | в | ве | ap | bo | ule |'
+2026-10-23 07:30:31,454 - DEBUG - [HollyWood] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-23 07:30:31,455 - INFO - [HollyWood] Данги: найден через OCR (33,167)
+2026-10-23 07:30:31,456 - INFO - [HollyWood] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-23 07:30:31,457 - INFO - [HollyWood] Данги: клик по строке (33,167)
+2026-10-23 07:30:35,762 - INFO - [HollyWood] Данги: кликнул, проверяю время доступа
+2026-10-23 07:30:35,787 - INFO - [HollyWood] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-23 07:30:35,795 - INFO - [HollyWood] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-23 07:30:35,796 - INFO - [HollyWood] Данги: время доступа есть — иду в данж
+2026-10-23 07:30:39,059 - INFO - [HollyWood] Данги: нажал Вход
+2026-10-23 07:30:39,085 - INFO - [HollyWood] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-23 07:30:39,096 - INFO - [HollyWood] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-23 07:30:39,110 - INFO - [HollyWood] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-23 07:30:39,129 - INFO - [HollyWood] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-23 07:30:39,144 - INFO - [HollyWood] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-23 07:30:39,162 - INFO - [HollyWood] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-23 07:30:39,178 - INFO - [HollyWood] Данги: Ур.40 mean=25 ОТКРЫТ
+2026-10-23 07:30:39,195 - INFO - [HollyWood] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-23 07:30:39,195 - INFO - [HollyWood] Данги: кликаю последний открытый = Ур.75
+2026-10-23 07:30:39,599 - INFO - [HollyWood] Данги: клик Ур.75 (257,163) offset=(-3,-1)
+2026-10-23 07:30:44,890 - INFO - [HollyWood] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-23 07:30:44,890 - INFO - [HollyWood] Данги: светлый экран (mean=91) — данж запущен через Ур.75
+2026-10-23 07:30:44,891 - INFO - [HollyWood] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-23 07:30:52,922 - INFO - [HollyWood] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-23 07:30:54,761 - INFO - [HollyWood] Не находимся в энерго
+2026-10-23 07:30:54,761 - INFO - [HollyWood] Данги: попытка усыпления 1/3
+2026-10-23 07:31:00,896 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-23 07:31:00,896 - INFO - [HollyWood] Данги: уснул с попытки 1
+2026-10-23 07:31:00,896 - INFO - [HollyWood] Данги: Благословенная Земля запущена, окно в сне
+2026-10-23 07:31:00,896 - INFO - [HollyWood] main_loop завершился
+2026-10-23 07:31:07,719 - WARNING - [HollyWood] log_uploader: PNG profiles_Dungeon_blessed_after_load.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_load.png'
+2026-10-23 07:31:07,720 - WARNING - [HollyWood] log_uploader: PNG profiles_Dungeon_blessed_after_Ур_75.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_Ур_75.png'
+2026-10-23 07:31:07,720 - WARNING - [HollyWood] log_uploader: PNG profiles_Dungeon_blessed_level_window.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_level_window.png'
+2026-10-23 07:31:07,720 - WARNING - [HollyWood] log_uploader: PNG profiles_Dungeon_blessed_time_check.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_time_check.png'
+2026-10-23 09:40:24,160 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-23 09:40:36,451 - INFO - [HollyWood] Ищем вкладки
+2026-10-23 09:40:38,452 - INFO - [HollyWood] Перешел на вкладку: (381, 34)
+2026-10-23 09:40:39,817 - INFO - [HollyWood] Собираю награду тут: (302, 101)
+2026-10-23 09:40:44,351 - INFO - [HollyWood] Всего собрано: 1
+2026-10-23 09:40:44,351 - INFO - [HollyWood] Дейлик успешно собран
+2026-10-23 09:40:46,160 - INFO - [HollyWood] Не находимся в энерго
+2026-10-23 09:40:49,619 - INFO - [HollyWood] Нашел почту
+2026-10-23 09:40:56,449 - INFO - [HollyWood] Почта собрана
+2026-10-23 09:40:56,945 - INFO - [HollyWood] Почта успешно собран
+2026-10-23 09:40:58,775 - INFO - [HollyWood] Не находимся в энерго
+2026-10-23 09:40:59,077 - INFO - [HollyWood] Нашел сбор ачив
+2026-10-23 09:41:08,742 - INFO - [HollyWood] Ачивок больше нет
+2026-10-23 09:41:08,998 - INFO - [HollyWood] Ачивы успешно собран
+2026-10-23 09:41:10,825 - INFO - [HollyWood] Не находимся в энерго
+2026-10-23 09:41:12,643 - INFO - [HollyWood] Нашел сбор клана
+2026-10-23 09:41:22,460 - INFO - [HollyWood] Клан успешно собран
+2026-10-23 09:41:24,277 - INFO - [HollyWood] Не находимся в энерго
+2026-10-23 09:41:27,848 - INFO - [HollyWood] Нашел сбор альянса, жму
+2026-10-23 09:41:34,075 - INFO - [HollyWood] Альянс успешно собран
+2026-10-23 09:41:35,894 - INFO - [HollyWood] Не находимся в энерго
+2026-10-23 09:41:38,988 - INFO - [HollyWood] Нашел бп
+2026-10-23 09:41:40,492 - INFO - [HollyWood] Пробую чекнуть вкладочки бп
+2026-10-23 09:41:40,989 - INFO - [HollyWood] {'left': 1200, 'top': 860, 'width': 400, 'height': 1}
+2026-10-23 09:41:41,011 - INFO - [HollyWood] [155]
+2026-10-23 09:41:41,011 - INFO - [HollyWood] final [['155, 25', 'no']]
+2026-10-23 09:41:41,011 - INFO - [HollyWood] Обнаружил вкладок бп: 1, начинаю чекать...
+2026-10-23 09:41:43,027 - INFO - [HollyWood] Подвкладок найдено: 1
+2026-10-23 09:41:44,327 - INFO - [HollyWood] Собираю награду [1.1]
+2026-10-23 09:41:48,093 - INFO - [HollyWood] Нет наград во вкладке 1, под 1
+2026-10-23 09:41:50,927 - INFO - [HollyWood] Собирать нечего, проверяю следующую вкладку
+2026-10-23 09:41:50,927 - INFO - [HollyWood] Закрываю баттл пасс
+2026-10-23 09:41:53,481 - INFO - [HollyWood] Пасс успешно собран
+2026-10-23 09:41:55,327 - INFO - [HollyWood] Не находимся в энерго
+2026-10-23 09:41:59,460 - INFO - [HollyWood] Вылезла обычная реклама, закрыл гадость
+2026-10-23 09:42:20,893 - INFO - [HollyWood] Шоп успешно собран
+2026-10-23 09:42:22,710 - INFO - [HollyWood] Не находимся в энерго
+2026-10-23 09:42:32,695 - INFO - [HollyWood] main_loop завершился
+2026-10-25 15:09:52,962 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-25 15:10:05,209 - INFO - [HollyWood] Ищем вкладки
+2026-10-25 15:10:07,230 - INFO - [HollyWood] Перешел на вкладку: (381, 34)
+2026-10-25 15:10:08,567 - INFO - [HollyWood] Собираю награду тут: (302, 101)
+2026-10-25 15:10:13,096 - INFO - [HollyWood] Всего собрано: 1
+2026-10-25 15:10:13,096 - INFO - [HollyWood] Дейлик успешно собран
+2026-10-25 15:10:14,929 - INFO - [HollyWood] Не находимся в энерго
+2026-10-25 15:10:17,966 - INFO - [HollyWood] Нашел почту
+2026-10-25 15:10:25,055 - INFO - [HollyWood] Почта собрана
+2026-10-25 15:10:25,552 - INFO - [HollyWood] Почта успешно собран
+2026-10-25 15:10:27,363 - INFO - [HollyWood] Не находимся в энерго
+2026-10-25 15:10:32,362 - INFO - [HollyWood] Нет красной точки на иконке достижений
+2026-10-25 15:10:32,362 - INFO - [HollyWood] Нет новых ачивы или не удалось собрать
+2026-10-25 15:10:34,197 - INFO - [HollyWood] Не находимся в энерго
+2026-10-25 15:10:35,787 - INFO - [HollyWood] Нашел сбор клана
+2026-10-25 15:10:47,396 - INFO - [HollyWood] Не нашел clan_6
+2026-10-25 15:10:47,691 - INFO - [HollyWood] Нет новых клан или не удалось собрать
+2026-10-25 15:10:49,513 - INFO - [HollyWood] Не находимся в энерго
+2026-10-25 15:10:53,224 - INFO - [HollyWood] Нашел сбор альянса, жму
+2026-10-25 15:11:00,061 - INFO - [HollyWood] Альянс успешно собран
+2026-10-25 15:11:01,879 - INFO - [HollyWood] Не находимся в энерго
+2026-10-25 15:11:05,037 - INFO - [HollyWood] Нашел бп
+2026-10-25 15:11:06,533 - INFO - [HollyWood] Пробую чекнуть вкладочки бп
+2026-10-25 15:11:07,043 - INFO - [HollyWood] {'left': 1200, 'top': 860, 'width': 400, 'height': 1}
+2026-10-25 15:11:07,061 - INFO - [HollyWood] [155]
+2026-10-25 15:11:07,062 - INFO - [HollyWood] final [['155, 25', 'no']]
+2026-10-25 15:11:07,062 - INFO - [HollyWood] Обнаружил вкладок бп: 1, начинаю чекать...
+2026-10-25 15:11:08,862 - INFO - [HollyWood] Подвкладок найдено: 1
+2026-10-25 15:11:10,397 - INFO - [HollyWood] Собираю награду [1.1]
+2026-10-25 15:11:14,162 - INFO - [HollyWood] Нет наград во вкладке 1, под 1
+2026-10-25 15:11:19,955 - INFO - [HollyWood] Закрываю баттл пасс
+2026-10-25 15:11:22,245 - INFO - [HollyWood] Пасс успешно собран
+2026-10-25 15:11:24,063 - INFO - [HollyWood] Не находимся в энерго
+2026-10-25 15:11:28,100 - INFO - [HollyWood] Вылезла обычная реклама, закрыл гадость
+2026-10-25 15:11:48,896 - INFO - [HollyWood] Шоп успешно собран
+2026-10-25 15:11:50,714 - INFO - [HollyWood] Не находимся в энерго
+2026-10-25 15:12:00,715 - INFO - [HollyWood] main_loop завершился
+2026-10-25 15:39:14,909 - INFO - [HollyWood] Данги: окно wx=1200 wy=835 400x225
+2026-10-25 15:39:14,940 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-25 15:39:22,440 - INFO - [HollyWood] Не находимся в энерго
+2026-10-25 15:39:22,440 - INFO - [HollyWood] _wake_up: вышли из сна с попытки 1
+2026-10-25 15:39:29,470 - INFO - [HollyWood] Данги: меню подземелий открыто
+2026-10-25 15:39:29,498 - INFO - [HollyWood] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-25 15:39:29,510 - INFO - [HollyWood] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-25 15:39:30,664 - INFO - [HollyWood] Данги OCR [--psm 11]: 'ариша | feu | лрернельляю | feet | a! | sve | me | igs | rea | bete | gs | зразы | @.. | smi, | las | vee: | se | bry | ‘cl | atameccs | гыгрьды | 1 |'
+2026-10-25 15:39:31,576 - INFO - [HollyWood] Данги OCR [--psm 6]: '4 | ше”... | ry | . | semone | bete | yl | feels | ws | к | №. | «ое. | . | oct | stemeecs | рыгрыды | 1 | рыл) | ' | nee | „8 | { | . | a | ' | сброс'
+2026-10-25 15:39:33,000 - INFO - [HollyWood] Данги OCR [--psm 12]: 'ариша | feu | лрернельляю | feet | ем | rea | bete | gs | зразы | he | * | smi, | las | veet | bry | ‘cl | atameccs | гыгрьды | 1 | разд) | а | ку | о'
+2026-10-25 15:39:34,011 - INFO - [HollyWood] Данги OCR [--psm 3]: 'aqwen | fem | лрериольнимо | дианийиыноч | ._ | - | ну | меру | see | ora | oct | stemeecs | рыгрыды | 1 | рыл) | остров | hencroecras | <u | сброс | '
+2026-10-25 15:39:34,011 - DEBUG - [HollyWood] Данги: попытка 1/15 — OCR=нет
+2026-10-25 15:39:41,344 - INFO - [HollyWood] Данги OCR [--psm 11]: '9 | uctsesaecs | гысрыды | teste) | 5.4 | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | . | 4 | ve | .. | 2 | браша | доступь | 1 | '
+2026-10-25 15:39:42,649 - INFO - [HollyWood] Данги OCR [--psm 6]: 'о, | м | ие | uctsesaecs | гысрыды | teste) | . | ха | остров | hencreacrma | 3602 | < | re | 1 | : | 7 | срок | о | нодуиено | в | 0500 | tb | { | . '
+2026-10-25 15:39:44,268 - INFO - [HollyWood] Данги OCR [--psm 12]: '9 | uctsesaecs | гысрыды | teste) | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | ip | : | 2 | браша | доступь | 1 | oman | р | г. |'
+2026-10-25 15:39:45,494 - INFO - [HollyWood] Данги OCR [--psm 3]: 'о | ставальюсв | napa | 1 | peated | остров | hencroacraa | <r | сброс | © | недра | в | 0500 | qpeen | деступь | 1ч. | фи | бе | очьо | aguas | © | р'
+2026-10-25 15:39:45,495 - DEBUG - [HollyWood] Данги: попытка 2/15 — OCR=нет
+2026-10-25 15:39:53,121 - INFO - [HollyWood] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | брочая | доступе | 140mm | эрачив | ‹ | hs, | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | wa | ты | 14 | 0'
+2026-10-25 15:39:54,300 - INFO - [HollyWood] Данги OCR [--psm 6]: 'в | pa | ‘ | о | ни | фобии | бий | р | whi” | - | iy | wy | parsopersada | замок | 6h | z | 7“ | se | lt | . | срсх | о | по | друивао | в | 0550 | s'
+2026-10-25 15:39:55,856 - INFO - [HollyWood] Данги OCR [--psm 12]: ''y | ower | qpeee | доступе | 140mm | , | эрачив | ‹ | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | < | of | ты | 14 | 0am | as'
+2026-10-25 15:39:56,808 - INFO - [HollyWood] Данги OCR [--psm 3]: 'разоренемй | замок | 60h | сре | о | по | pero | в | 05 | сю | ты | г | боевое | арочый | 4% | $8 | ume | храм | рассвета | >. | тас | 1000-60 | а | г'
+2026-10-25 15:39:56,808 - DEBUG - [HollyWood] Данги: попытка 3/15 — OCR=нет
+2026-10-25 15:40:02,242 - INFO - [HollyWood] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-25 15:40:03,678 - INFO - [HollyWood] Данги OCR [--psm 11]: 'reaper | оо | сх | mf. | м | к. | у. | cpa | © | ae | дум | bees | а. | я | т | " | ees | tyne | 1 | omen | beet | oe | офреее | 4+. | 28 | ees | № | '
+2026-10-25 15:40:05,190 - INFO - [HollyWood] Данги OCR [--psm 6]: 'a | ty | om | 4, | ы | joe | reaper | ee | < | <. | у | м | у. | рик | ева | дум | бек | sine | га | аоны | aan | tyme | дост | 1 | ф | мым. | as | . '
+2026-10-25 15:40:06,607 - DEBUG - [HollyWood] Данги: попытка 4/15 — OCR=да
+2026-10-25 15:40:06,608 - DEBUG - [HollyWood] Данги: OCR нашёл но в самом низу (ocr_y=142, list_h=146) — прокручиваю ещё
+2026-10-25 15:40:11,687 - INFO - [HollyWood] Данги OCR [--psm 11]: 'ay | se | on | se | " | cees | дет | 14 | omen | сте | oe | арееме | 4+. | 22 | ees | № | ях | храм | рассвета | aay | крик | в | ве | ap | bo | ule |'
+2026-10-25 15:40:13,032 - DEBUG - [HollyWood] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-25 15:40:13,032 - INFO - [HollyWood] Данги: найден через OCR (33,167)
+2026-10-25 15:40:13,036 - INFO - [HollyWood] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-25 15:40:13,036 - INFO - [HollyWood] Данги: клик по строке (33,167)
+2026-10-25 15:40:14,921 - INFO - [HollyWood] Данги: кликнул, проверяю время доступа
+2026-10-25 15:40:14,949 - INFO - [HollyWood] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-25 15:40:14,959 - INFO - [HollyWood] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-25 15:40:14,959 - INFO - [HollyWood] Данги: время доступа есть — иду в данж
+2026-10-25 15:40:18,232 - INFO - [HollyWood] Данги: нажал Вход
+2026-10-25 15:40:18,245 - INFO - [HollyWood] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-25 15:40:18,257 - INFO - [HollyWood] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-25 15:40:18,274 - INFO - [HollyWood] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-25 15:40:18,290 - INFO - [HollyWood] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-25 15:40:18,307 - INFO - [HollyWood] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-25 15:40:18,323 - INFO - [HollyWood] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-25 15:40:18,340 - INFO - [HollyWood] Данги: Ур.40 mean=46 ОТКРЫТ
+2026-10-25 15:40:18,359 - INFO - [HollyWood] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-25 15:40:18,360 - INFO - [HollyWood] Данги: кликаю последний открытый = Ур.75
+2026-10-25 15:40:18,668 - INFO - [HollyWood] Данги: клик Ур.75 (260,164) offset=(0,0)
+2026-10-25 15:40:24,035 - INFO - [HollyWood] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-25 15:40:24,035 - INFO - [HollyWood] Данги: светлый экран (mean=129) — данж запущен через Ур.75
+2026-10-25 15:40:24,035 - INFO - [HollyWood] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-25 15:40:32,050 - INFO - [HollyWood] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-25 15:40:33,876 - INFO - [HollyWood] Не находимся в энерго
+2026-10-25 15:40:33,876 - INFO - [HollyWood] Данги: попытка усыпления 1/3
+2026-10-25 15:40:40,041 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-25 15:40:40,041 - INFO - [HollyWood] Данги: уснул с попытки 1
+2026-10-25 15:40:40,041 - INFO - [HollyWood] Данги: Благословенная Земля запущена, окно в сне
+2026-10-25 15:40:40,041 - INFO - [HollyWood] main_loop завершился
+2026-10-25 15:40:46,621 - WARNING - [HollyWood] log_uploader: PNG profiles_Dungeon_blessed_after_Ур_75.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_Ур_75.png'
+2026-10-25 15:40:46,621 - WARNING - [HollyWood] log_uploader: PNG profiles_Dungeon_blessed_level_window.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_level_window.png'
+2026-10-26 19:47:27,151 - INFO - [HollyWood] Данги: окно wx=1200 wy=835 400x225
+2026-10-26 19:47:27,181 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-26 19:47:34,681 - INFO - [HollyWood] Не находимся в энерго
+2026-10-26 19:47:34,681 - INFO - [HollyWood] _wake_up: вышли из сна с попытки 1
+2026-10-26 19:47:42,183 - INFO - [HollyWood] Данги: меню подземелий открыто
+2026-10-26 19:47:42,207 - INFO - [HollyWood] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-26 19:47:42,218 - INFO - [HollyWood] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-26 19:47:43,356 - INFO - [HollyWood] Данги OCR [--psm 11]: '(enn | fae, | feet | monee | ров | na | se | he | =i, | las | ‘cl | atameccs | гыгрьды | 1 | разд) | <. | остров | hencroacras | (2<cuc: | na | а | сб'
+2026-10-26 19:47:44,151 - INFO - [HollyWood] Данги OCR [--psm 6]: 'же... | e | . | чаи | дари" | eat | se | ь | на | «ое. | . | oct | stemeecs | рыгрыды | 1 | рыл) | ' | 4 | t | . | >. | ' | сброс | ose | ppucre | а |'
+2026-10-26 19:47:45,550 - INFO - [HollyWood] Данги OCR [--psm 12]: '(enn | fae, | feet | monee | ров | na | se | he | =r, | las | veet | ‘cl | atameccs | гыгрьды | 1 | разд) | ку | остров | hencroacras | (2<cuc: | na |'
+2026-10-26 19:47:46,525 - INFO - [HollyWood] Данги OCR [--psm 3]: '(enn | fae | авы | puma. | - | oct | stemeecs | рыгрыды | 1 | рыл) | остров | hencroecras | солсльсх | сброс | oss | ppuere | а | 06.00 | queue | дест'
+2026-10-26 19:47:46,525 - DEBUG - [HollyWood] Данги: попытка 1/15 — OCR=нет
+2026-10-26 19:47:54,495 - INFO - [HollyWood] Данги OCR [--psm 11]: '9 | uctsesaecs | гысрыды | teste) | 5.4 | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | . | 4 | ve | .. | 2 | браша | доступь | 1 | '
+2026-10-26 19:47:55,820 - INFO - [HollyWood] Данги OCR [--psm 6]: 'о, | м | ие | uctsesaecs | гысрыды | teste) | . | ха | остров | hencreacrma | 3602 | < | re | 1 | : | 7 | срок | о | нодуиено | в | 0500 | tb | { | . '
+2026-10-26 19:47:57,439 - INFO - [HollyWood] Данги OCR [--psm 12]: '9 | uctsesaecs | гысрыды | teste) | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | ip | : | 2 | браша | доступь | 1 | oman | р | г. |'
+2026-10-26 19:47:58,630 - INFO - [HollyWood] Данги OCR [--psm 3]: 'о | ставальюсв | napa | 1 | peated | остров | hencroacraa | <r | сброс | © | недра | в | 0500 | qpeen | деступь | 1ч. | фи | бе | очьо | aguas | © | р'
+2026-10-26 19:47:58,631 - DEBUG - [HollyWood] Данги: попытка 2/15 — OCR=нет
+2026-10-26 19:48:06,354 - INFO - [HollyWood] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | брочая | доступе | 140mm | poem | ‹ | hs, | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | wa | ты | 14 | 0am'
+2026-10-26 19:48:07,558 - INFO - [HollyWood] Данги OCR [--psm 6]: 'в | pa | ‘ | о | ни | фобии | бий | р | whi” | - | iy | wy | parsopersada | замок | 6h | z | 7“ | se | lt | . | срсх | о | по | друивао | в | 0550 | s'
+2026-10-26 19:48:09,155 - INFO - [HollyWood] Данги OCR [--psm 12]: ''y | ower | брочая | доступе | 140mm | , | poem | ‹ | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | < | of | ты | 14 | 0am | ase'
+2026-10-26 19:48:10,170 - INFO - [HollyWood] Данги OCR [--psm 3]: 'разоренемй | замок | 60h | сре | о | по | pero | в | 05 | сю | ты | г | боевое | арочый | 4% | $8 | ume | храм | рассвета | uu | cog | 0 | 20 | fps | '
+2026-10-26 19:48:10,170 - DEBUG - [HollyWood] Данги: попытка 3/15 — OCR=нет
+2026-10-26 19:48:15,968 - INFO - [HollyWood] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-26 19:48:17,453 - INFO - [HollyWood] Данги OCR [--psm 11]: 'an | reaper | eee | seay, | yd | = | а | ae | oct | door | ло | wu | bd | cf | <} | к. | у. | еле | дека | тс | 7 | " | cees | tyne | 1 | ome | beacon'
+2026-10-26 19:48:19,140 - INFO - [HollyWood] Данги OCR [--psm 6]: 'a. | ° | ma | ow | 79 | aan | aa | soe? | pay | jed | преследов | жиле | остов | лено | из. | ac | р | <. | i | bee | “с. | верь | ‘ло | дум | бек | b'
+2026-10-26 19:48:21,083 - INFO - [HollyWood] Данги OCR [--psm 12]: 'om | reaper | eee | 4 | nap, | | | . | = | а | ae | oct | door | ло | wu | bd | cf | р | ; | еле | дека | тс | я | 7 | м | “ | м: | cees | tyne | 1 | '
+2026-10-26 19:48:22,316 - INFO - [HollyWood] Данги OCR [--psm 3]: 'reaper | оси | rossin | pant | octergesmen | wx | anes | eee | tyne | 140m | beacon | dee | арючые | 4..5 | eres | храм | paccseta | cpa | 6 | at | ду'
+2026-10-26 19:48:22,316 - DEBUG - [HollyWood] Данги: попытка 4/15 — OCR=нет
+2026-10-26 19:48:24,519 - INFO - [HollyWood] Данги OCR [--psm 11]: 'bd | храм | рассвета | a) | ст | ae | ap | bees | ule | su | lo | colo | af | i | = | “4! | mees | tyne | 1 | omens | it | mp | t | a: | berg | oke | '
+2026-10-26 19:48:25,757 - DEBUG - [HollyWood] Данги: попытка 5/15 — OCR=да
+2026-10-26 19:48:25,757 - INFO - [HollyWood] Данги: найден через OCR (33,154)
+2026-10-26 19:48:25,760 - INFO - [HollyWood] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-26 19:48:25,760 - INFO - [HollyWood] Данги: клик по строке (33,154)
+2026-10-26 19:48:29,828 - INFO - [HollyWood] Данги: кликнул, проверяю время доступа
+2026-10-26 19:48:29,858 - INFO - [HollyWood] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-26 19:48:29,868 - INFO - [HollyWood] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-26 19:48:29,869 - INFO - [HollyWood] Данги: время доступа есть — иду в данж
+2026-10-26 19:48:33,146 - INFO - [HollyWood] Данги: нажал Вход
+2026-10-26 19:48:33,174 - INFO - [HollyWood] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-26 19:48:33,183 - INFO - [HollyWood] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-26 19:48:33,199 - INFO - [HollyWood] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-26 19:48:33,217 - INFO - [HollyWood] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-26 19:48:33,234 - INFO - [HollyWood] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-26 19:48:33,249 - INFO - [HollyWood] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-26 19:48:33,268 - INFO - [HollyWood] Данги: Ур.40 mean=25 ОТКРЫТ
+2026-10-26 19:48:33,284 - INFO - [HollyWood] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-26 19:48:33,284 - INFO - [HollyWood] Данги: кликаю последний открытый = Ур.75
+2026-10-26 19:48:33,620 - INFO - [HollyWood] Данги: клик Ур.75 (259,163) offset=(-1,-1)
+2026-10-26 19:48:38,892 - INFO - [HollyWood] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-26 19:48:38,893 - INFO - [HollyWood] Данги: светлый экран (mean=113) — данж запущен через Ур.75
+2026-10-26 19:48:38,893 - INFO - [HollyWood] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-26 19:48:46,928 - INFO - [HollyWood] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-26 19:48:48,751 - INFO - [HollyWood] Не находимся в энерго
+2026-10-26 19:48:48,751 - INFO - [HollyWood] Данги: попытка усыпления 1/3
+2026-10-26 19:48:54,866 - INFO - [HollyWood] Находимся в энергорежиме
+2026-10-26 19:48:54,866 - INFO - [HollyWood] Данги: уснул с попытки 1
+2026-10-26 19:48:54,866 - INFO - [HollyWood] Данги: Благословенная Земля запущена, окно в сне
+2026-10-26 19:48:54,867 - INFO - [HollyWood] main_loop завершился
