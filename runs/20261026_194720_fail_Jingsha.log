@@ -1,0 +1,501 @@
+=== Log tail 2026-10-26T19:47:20.727391 | last 500 lines ===
+2026-10-21 10:05:25,272 - INFO - [Jingsha] Данги: нажал Вход
+2026-10-21 10:05:25,288 - INFO - [Jingsha] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-21 10:05:25,299 - INFO - [Jingsha] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-21 10:05:25,317 - INFO - [Jingsha] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-21 10:05:25,334 - INFO - [Jingsha] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-21 10:05:25,349 - INFO - [Jingsha] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-21 10:05:25,366 - INFO - [Jingsha] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-21 10:05:25,384 - INFO - [Jingsha] Данги: Ур.40 mean=31 ОТКРЫТ
+2026-10-21 10:05:25,402 - INFO - [Jingsha] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-21 10:05:25,402 - INFO - [Jingsha] Данги: кликаю последний открытый = Ур.75
+2026-10-21 10:05:25,704 - INFO - [Jingsha] Данги: клик Ур.75 (260,163) offset=(0,-1)
+2026-10-21 10:05:31,078 - INFO - [Jingsha] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-21 10:05:31,079 - INFO - [Jingsha] Данги: светлый экран (mean=136) — данж запущен через Ур.75
+2026-10-21 10:05:31,079 - INFO - [Jingsha] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-21 10:05:39,111 - INFO - [Jingsha] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-21 10:05:40,933 - INFO - [Jingsha] Не находимся в энерго
+2026-10-21 10:05:40,933 - INFO - [Jingsha] Данги: попытка усыпления 1/3
+2026-10-21 10:05:47,035 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-21 10:05:47,035 - INFO - [Jingsha] Данги: уснул с попытки 1
+2026-10-21 10:05:47,035 - INFO - [Jingsha] Данги: Благословенная Земля запущена, окно в сне
+2026-10-21 10:05:47,036 - INFO - [Jingsha] main_loop завершился
+2026-10-21 10:19:16,680 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-21 10:19:28,385 - INFO - [Jingsha] Ищем вкладки
+2026-10-21 10:19:30,391 - INFO - [Jingsha] Перешел на вкладку: (381, 34)
+2026-10-21 10:19:31,720 - INFO - [Jingsha] Собираю награду тут: (302, 101)
+2026-10-21 10:19:37,991 - INFO - [Jingsha] Перешел на вкладку: (381, 59)
+2026-10-21 10:19:39,352 - INFO - [Jingsha] Собираю награду тут: (302, 101)
+2026-10-21 10:19:43,870 - INFO - [Jingsha] Перешел на вкладку: (381, 84)
+2026-10-21 10:19:45,203 - INFO - [Jingsha] Пропускаем кнопку с алмазом/донатом: (301, 101)
+2026-10-21 10:19:45,471 - INFO - [Jingsha] Всего собрано: 3
+2026-10-21 10:19:45,471 - INFO - [Jingsha] Дейлик успешно собран
+2026-10-21 10:19:47,297 - INFO - [Jingsha] Не находимся в энерго
+2026-10-21 10:19:50,436 - INFO - [Jingsha] Нашел почту
+2026-10-21 10:19:57,253 - INFO - [Jingsha] Почта собрана
+2026-10-21 10:19:57,750 - INFO - [Jingsha] Почта успешно собран
+2026-10-21 10:19:59,564 - INFO - [Jingsha] Не находимся в энерго
+2026-10-21 10:20:04,566 - INFO - [Jingsha] Нет красной точки на иконке достижений
+2026-10-21 10:20:04,566 - INFO - [Jingsha] Нет новых ачивы или не удалось собрать
+2026-10-21 10:20:06,399 - INFO - [Jingsha] Не находимся в энерго
+2026-10-21 10:20:08,234 - INFO - [Jingsha] Нашел сбор клана
+2026-10-21 10:20:18,065 - INFO - [Jingsha] Клан успешно собран
+2026-10-21 10:20:19,882 - INFO - [Jingsha] Не находимся в энерго
+2026-10-21 10:20:23,481 - INFO - [Jingsha] Нашел сбор альянса, жму
+2026-10-21 10:20:29,675 - INFO - [Jingsha] Альянс успешно собран
+2026-10-21 10:20:31,483 - INFO - [Jingsha] Не находимся в энерго
+2026-10-21 10:20:34,775 - INFO - [Jingsha] Нашел бп
+2026-10-21 10:20:36,263 - INFO - [Jingsha] Пробую чекнуть вкладочки бп
+2026-10-21 10:20:36,764 - INFO - [Jingsha] {'left': 1600, 'top': 595, 'width': 400, 'height': 1}
+2026-10-21 10:20:36,782 - INFO - [Jingsha] [80, 155, 230, 305]
+2026-10-21 10:20:36,782 - INFO - [Jingsha] final [['80, 25', 'no'], ['155, 25', 'no'], ['230, 25', 'no'], ['305, 25', 'no']]
+2026-10-21 10:20:36,782 - INFO - [Jingsha] Обнаружил вкладок бп: 4, начинаю чекать...
+2026-10-21 10:20:38,553 - INFO - [Jingsha] Подвкладок найдено: 0
+2026-10-21 10:20:46,983 - INFO - [Jingsha] Подвкладок найдено: 1
+2026-10-21 10:20:48,233 - INFO - [Jingsha] Собираю награду [2.1]
+2026-10-21 10:20:52,017 - INFO - [Jingsha] Нет наград во вкладке 2, под 1
+2026-10-21 10:20:54,831 - INFO - [Jingsha] Собирать нечего, проверяю следующую вкладку
+2026-10-21 10:20:56,617 - INFO - [Jingsha] Подвкладок найдено: 0
+2026-10-21 10:21:04,999 - INFO - [Jingsha] Подвкладок найдено: 0
+2026-10-21 10:21:11,593 - INFO - [Jingsha] Закрываю баттл пасс
+2026-10-21 10:21:13,862 - INFO - [Jingsha] Пасс успешно собран
+2026-10-21 10:21:15,683 - INFO - [Jingsha] Не находимся в энерго
+2026-10-21 10:21:19,752 - INFO - [Jingsha] Вылезла обычная реклама, закрыл гадость
+2026-10-21 10:21:40,983 - INFO - [Jingsha] Шоп успешно собран
+2026-10-21 10:21:42,799 - INFO - [Jingsha] Не находимся в энерго
+2026-10-21 10:21:52,836 - INFO - [Jingsha] main_loop завершился
+2026-10-21 10:52:03,760 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-21 10:52:07,629 - INFO - [Jingsha] Аук: запущен relist (снять+найти+поставить)
+2026-10-21 10:52:09,445 - INFO - [Jingsha] Не находимся в энерго
+2026-10-21 10:52:15,396 - INFO - [Jingsha] Аук: загрузился
+2026-10-21 10:52:15,400 - INFO - [Jingsha] Аук: сохранил позицию окна до resize: (1600,570) 400x225
+2026-10-21 10:52:15,402 - INFO - [Jingsha] Аук: монитор рабочая область 2560x1400 на (0,0)
+2026-10-21 10:52:16,950 - INFO - [Jingsha] Аук: окно resize 2560x1400 на (0,40), scale=(2.67,2.59)
+2026-10-21 10:52:22,705 - INFO - [Jingsha] Аук: вкладка Продажа открыта
+2026-10-21 10:52:22,705 - WARNING - [Jingsha] Аук: не удалось сохранить фулл-скрин au_after_tab_sell.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-21 10:52:22,705 - INFO - [Jingsha] Аук: предмет 1/10
+2026-10-21 10:52:22,714 - INFO - [Jingsha] Аук: сохранён au_lot_zone.png
+2026-10-21 10:52:22,716 - INFO - [Jingsha] Аук: сохранён au_sample.png
+2026-10-21 10:52:22,717 - INFO - [Jingsha] Аук: SIFT образец (лот): 0 точек
+2026-10-21 10:52:23,031 - DEBUG - [Jingsha] Аук: статус лота Tesseract: 'г'
+2026-10-21 10:52:23,031 - DEBUG - [Jingsha] Аук: статус зелёных пикселей: 0 (0.00%)
+2026-10-21 10:52:23,031 - INFO - [Jingsha] Аук: образец лота пустой (нет иконки) — список лотов пуст. Завершаю прогон (не ошибка).
+2026-10-21 10:52:23,031 - INFO - [Jingsha] Аук: лотов больше нет на странице (предмет 1)
+2026-10-21 10:52:26,291 - INFO - [Jingsha] Аук: аук закрыт
+2026-10-21 10:52:26,728 - INFO - [Jingsha] Аук: окно возвращено 400x225 на (1600,570)
+2026-10-21 10:52:28,544 - INFO - [Jingsha] Не находимся в энерго
+2026-10-21 10:52:34,680 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-21 10:52:34,680 - INFO - [Jingsha] Аук: окно уложено спать
+2026-10-21 10:52:34,680 - WARNING - [Jingsha] Аук: не удалось сохранить фулл-скрин au_final_fullscreen.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-21 10:52:34,680 - INFO - [Jingsha] Аук: нечего переставлять (все лоты в «Продаётся» или список пуст)
+2026-10-21 10:52:34,681 - DEBUG - [Jingsha] Аук: log_uploader запущен в фоне
+2026-10-21 10:52:34,681 - INFO - [Jingsha] Шось сломалось либо не смог перевыставить аук
+2026-10-21 10:52:41,773 - INFO - [Jingsha] main_loop завершился
+2026-10-21 13:18:19,633 - INFO - [Jingsha] Запуск Scheduler профиля
+2026-10-21 13:18:19,664 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-21 13:18:19,664 - INFO - [Jingsha] Был в энерго, вырубаю перед запуском Шедули
+2026-10-21 13:18:28,204 - INFO - [Jingsha] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-21 13:19:14,333 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-21 13:19:14,333 - INFO - [Jingsha] Энерго подтверждён (попытка 1)
+2026-10-21 13:19:14,333 - INFO - [Jingsha] Энерго включён, профиль завершён
+2026-10-21 13:19:14,334 - INFO - [Jingsha] main_loop завершился
+2026-10-22 14:23:02,274 - INFO - [Jingsha] Данги: окно wx=1600 wy=570 400x225
+2026-10-22 14:23:02,284 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-22 14:23:09,036 - INFO - [Jingsha] Не находимся в энерго
+2026-10-22 14:23:09,036 - INFO - [Jingsha] _wake_up: вышли из сна с попытки 1
+2026-10-22 14:23:12,539 - INFO - [Jingsha] Данги: меню подземелий открыто
+2026-10-22 14:23:12,561 - INFO - [Jingsha] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-22 14:23:12,571 - INFO - [Jingsha] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-22 14:23:13,748 - INFO - [Jingsha] Данги OCR [--psm 11]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | ahs | “vane | try | >. | оставылерся | награды | 1 | роз) | ua | st '
+2026-10-22 14:23:14,582 - INFO - [Jingsha] Данги OCR [--psm 6]: 'зе | we | e | . | . | gca | в | во | ушка | о | с | ч | я | ох | tas | в | остров | hencroacrma | (ccc | vy | eis. | .. | | | № | и | qpewe | дестуте '
+2026-10-22 14:23:16,065 - INFO - [Jingsha] Данги OCR [--psm 12]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | =, | we | veaet | try | >. | оставылерся | награды | 1 | роз) | ua |'
+2026-10-22 14:23:17,084 - INFO - [Jingsha] Данги OCR [--psm 3]: 'нью | fame | waewerunsme | дринибынич | - | oer | в | at | fot | век | bll | oc | staneece | rtp | 1 | роз) | остроа | номстовства | с+>сьсх | сброс |'
+2026-10-22 14:23:17,084 - DEBUG - [Jingsha] Данги: попытка 1/15 — OCR=нет
+2026-10-22 14:23:23,315 - INFO - [Jingsha] Данги OCR [--psm 11]: 'fe | г | = | uctseamece | ныгрыды | 1 | peated | “eee | wove | бы | ии. | <> | `. | сброс | о | модуиеено | 00600 | з | oe | .. | брачная | деступь | '
+2026-10-22 14:23:24,611 - INFO - [Jingsha] Данги OCR [--psm 6]: 'о | о | ми | . | uctseamece | ныгрыды | 1 | peated | , | чу | nite | aie | на | вы | 8! | <i | rare | th | opa | to. | a | `, | 3. | .3: | и | .. | ly'
+2026-10-22 14:23:26,263 - INFO - [Jingsha] Данги OCR [--psm 12]: 'fe | uctseamece | ныгрыды | 1 | peated | an | мои | "чо | пон | т | ‘es | сброс | ome | ppeere | 00600 | з | : | брачная | деступь | 14 | фи | ' | ; |'
+2026-10-22 14:23:27,453 - INFO - [Jingsha] Данги OCR [--psm 3]: 'о | м | мия | uctseamece | ныгрыды | 1 | peated | тек | вы | нат | сброс | о | модуиеено | 00600 | брачная | деступь | 1ч. | фи | 64040 | ориеа | < | '
+2026-10-22 14:23:27,453 - DEBUG - [Jingsha] Данги: попытка 2/15 — OCR=нет
+2026-10-22 14:23:35,294 - INFO - [Jingsha] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | брочая | доступе | 140mm | эрачив | ‹ | hs, | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | wa | ты | 14 | 0'
+2026-10-22 14:23:36,678 - INFO - [Jingsha] Данги OCR [--psm 6]: 'в | { | ‘ | о | ни | фобии | бий | ‘ | (у | . | ‘ | qpeee | доступе | 140m | so | басне | apne | ‹ | р | whi” | - | iy | wy | parsopersada | замок | 6'
+2026-10-22 14:23:38,272 - INFO - [Jingsha] Данги OCR [--psm 12]: ''y | ower | qpeee | доступе | 140mm | , | эрачив | ‹ | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | < | of | ты | 14 | 0am | as'
+2026-10-22 14:23:39,250 - INFO - [Jingsha] Данги OCR [--psm 3]: 'разоренемй | замок | 60h | сре | о | по | pero | в | 05 | сю | ты | г | speqrowe | аровый | $ | + | $ | мех. | храм | рассвета | uu | cog | 0 | 20 | f'
+2026-10-22 14:23:39,250 - DEBUG - [Jingsha] Данги: попытка 3/15 — OCR=нет
+2026-10-22 14:23:45,607 - INFO - [Jingsha] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-22 14:23:47,014 - INFO - [Jingsha] Данги OCR [--psm 11]: 'reaper | оо | сх | mf. | м | к. | у. | cpa | © | ae | дум | bees | а. | я | т | " | ees | tyne | 1 | omen | bee | oe | bemene | >. | ыы | № | ях | хра'
+2026-10-22 14:23:48,516 - INFO - [Jingsha] Данги OCR [--psm 6]: 'ew | s's | у. | reaper | оо | a. | <. | ? | е, | у. | рик | ева | дум | бек | sine | а | аг | typmene | доступа | 1 | о | мым | и’. | м | о | ус | . |'
+2026-10-22 14:23:50,422 - INFO - [Jingsha] Данги OCR [--psm 12]: 'reaper | оо | * | af, | va, | * | } | № | : | cpa | © | ae | дум | bees | а. | я | fe | sy | ‘ | oy | ees | tyne | 1 | omen | bee | oe | bemene | >. |'
+2026-10-22 14:23:51,653 - INFO - [Jingsha] Данги OCR [--psm 3]: 'reaper | оо | cpa | © | ae | дум | bees | а. | ees | tyne | 1 | omen | bee | oe | bemene | >. | ыы | храм | paccseta | газа | colo: | yates | дкктугы '
+2026-10-22 14:23:51,653 - DEBUG - [Jingsha] Данги: попытка 4/15 — OCR=нет
+2026-10-22 14:23:56,724 - INFO - [Jingsha] Данги OCR [--psm 11]: 'bd | храм | рассвета | a) | ст | ae | ap | bees | ule | su | lo | colo | af | i | = | “4! | mees | tyne | 1 | omens | it | mp | t | a: | berg | oke | '
+2026-10-22 14:23:58,021 - DEBUG - [Jingsha] Данги: попытка 5/15 — OCR=да
+2026-10-22 14:23:58,021 - INFO - [Jingsha] Данги: найден через OCR (33,154)
+2026-10-22 14:23:58,024 - INFO - [Jingsha] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-22 14:23:58,024 - INFO - [Jingsha] Данги: клик по строке (33,154)
+2026-10-22 14:24:01,782 - INFO - [Jingsha] Данги: кликнул, проверяю время доступа
+2026-10-22 14:24:01,812 - INFO - [Jingsha] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-22 14:24:01,821 - INFO - [Jingsha] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-22 14:24:01,821 - INFO - [Jingsha] Данги: время доступа есть — иду в данж
+2026-10-22 14:24:05,088 - INFO - [Jingsha] Данги: нажал Вход
+2026-10-22 14:24:05,109 - INFO - [Jingsha] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-22 14:24:05,120 - INFO - [Jingsha] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-22 14:24:05,137 - INFO - [Jingsha] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-22 14:24:05,154 - INFO - [Jingsha] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-22 14:24:05,170 - INFO - [Jingsha] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-22 14:24:05,187 - INFO - [Jingsha] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-22 14:24:05,204 - INFO - [Jingsha] Данги: Ур.40 mean=30 ОТКРЫТ
+2026-10-22 14:24:05,220 - INFO - [Jingsha] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-22 14:24:05,220 - INFO - [Jingsha] Данги: кликаю последний открытый = Ур.75
+2026-10-22 14:24:05,525 - INFO - [Jingsha] Данги: клик Ур.75 (262,163) offset=(2,-1)
+2026-10-22 14:24:10,814 - INFO - [Jingsha] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-22 14:24:10,815 - INFO - [Jingsha] Данги: светлый экран (mean=141) — данж запущен через Ур.75
+2026-10-22 14:24:10,815 - INFO - [Jingsha] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-22 14:24:18,849 - INFO - [Jingsha] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-22 14:24:20,669 - INFO - [Jingsha] Не находимся в энерго
+2026-10-22 14:24:20,669 - INFO - [Jingsha] Данги: попытка усыпления 1/3
+2026-10-22 14:24:26,820 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-22 14:24:26,820 - INFO - [Jingsha] Данги: уснул с попытки 1
+2026-10-22 14:24:26,820 - INFO - [Jingsha] Данги: Благословенная Земля запущена, окно в сне
+2026-10-22 14:24:26,821 - INFO - [Jingsha] main_loop завершился
+2026-10-22 14:24:33,305 - WARNING - [Jingsha] log_uploader: PNG profiles_Dungeon_blessed_after_load.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_load.png'
+2026-10-22 14:24:33,305 - WARNING - [Jingsha] log_uploader: PNG profiles_Dungeon_blessed_after_Ур_75.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_Ур_75.png'
+2026-10-22 14:24:33,305 - WARNING - [Jingsha] log_uploader: PNG profiles_Dungeon_blessed_found_ocr.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_found_ocr.png'
+2026-10-22 14:24:33,306 - WARNING - [Jingsha] log_uploader: PNG profiles_Dungeon_blessed_level_window.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_level_window.png'
+2026-10-22 14:24:33,306 - WARNING - [Jingsha] log_uploader: PNG profiles_Dungeon_blessed_scroll_03.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_scroll_03.png'
+2026-10-22 14:24:33,306 - WARNING - [Jingsha] log_uploader: PNG profiles_Dungeon_blessed_time_check.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_time_check.png'
+2026-10-22 15:31:29,535 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-22 15:31:41,929 - INFO - [Jingsha] Ищем вкладки
+2026-10-22 15:31:43,952 - INFO - [Jingsha] Перешел на вкладку: (381, 34)
+2026-10-22 15:31:45,308 - INFO - [Jingsha] Собираю награду тут: (302, 101)
+2026-10-22 15:31:50,542 - INFO - [Jingsha] Всего собрано: 1
+2026-10-22 15:31:50,542 - INFO - [Jingsha] Дейлик успешно собран
+2026-10-22 15:31:52,370 - INFO - [Jingsha] Не находимся в энерго
+2026-10-22 15:31:55,462 - INFO - [Jingsha] Нашел почту
+2026-10-22 15:32:06,316 - INFO - [Jingsha] Почта собрана
+2026-10-22 15:32:06,814 - INFO - [Jingsha] Почта успешно собран
+2026-10-22 15:32:08,637 - INFO - [Jingsha] Не находимся в энерго
+2026-10-22 15:32:13,637 - INFO - [Jingsha] Нет красной точки на иконке достижений
+2026-10-22 15:32:13,637 - INFO - [Jingsha] Нет новых ачивы или не удалось собрать
+2026-10-22 15:32:15,473 - INFO - [Jingsha] Не находимся в энерго
+2026-10-22 15:32:17,062 - INFO - [Jingsha] Нашел сбор клана
+2026-10-22 15:32:26,878 - INFO - [Jingsha] Клан успешно собран
+2026-10-22 15:32:28,704 - INFO - [Jingsha] Не находимся в энерго
+2026-10-22 15:32:32,461 - INFO - [Jingsha] Нашел сбор альянса, жму
+2026-10-22 15:32:38,768 - INFO - [Jingsha] Альянс успешно собран
+2026-10-22 15:32:40,588 - INFO - [Jingsha] Не находимся в энерго
+2026-10-22 15:32:44,113 - INFO - [Jingsha] Нашел бп
+2026-10-22 15:32:45,610 - INFO - [Jingsha] Пробую чекнуть вкладочки бп
+2026-10-22 15:32:46,117 - INFO - [Jingsha] {'left': 1600, 'top': 595, 'width': 400, 'height': 1}
+2026-10-22 15:32:46,136 - INFO - [Jingsha] [155]
+2026-10-22 15:32:46,136 - INFO - [Jingsha] final [['155, 25', 'no']]
+2026-10-22 15:32:46,136 - INFO - [Jingsha] Обнаружил вкладок бп: 1, начинаю чекать...
+2026-10-22 15:32:47,904 - INFO - [Jingsha] Подвкладок найдено: 1
+2026-10-22 15:32:49,422 - INFO - [Jingsha] Собираю награду [1.1]
+2026-10-22 15:32:53,554 - INFO - [Jingsha] Нет наград во вкладке 1, под 1
+2026-10-22 15:32:56,387 - INFO - [Jingsha] Собирать нечего, проверяю следующую вкладку
+2026-10-22 15:32:56,387 - INFO - [Jingsha] Закрываю баттл пасс
+2026-10-22 15:32:58,641 - INFO - [Jingsha] Пасс успешно собран
+2026-10-22 15:33:00,454 - INFO - [Jingsha] Не находимся в энерго
+2026-10-22 15:33:04,497 - INFO - [Jingsha] Вылезла обычная реклама, закрыл гадость
+2026-10-22 15:33:26,222 - INFO - [Jingsha] Шоп успешно собран
+2026-10-22 15:33:28,055 - INFO - [Jingsha] Не находимся в энерго
+2026-10-22 15:33:38,440 - INFO - [Jingsha] main_loop завершился
+2026-10-22 17:00:45,375 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-22 17:00:49,243 - INFO - [Jingsha] Аук: запущен relist (снять+найти+поставить)
+2026-10-22 17:00:51,057 - INFO - [Jingsha] Не находимся в энерго
+2026-10-22 17:00:57,757 - INFO - [Jingsha] Аук: загрузился
+2026-10-22 17:00:57,765 - INFO - [Jingsha] Аук: сохранил позицию окна до resize: (1600,570) 400x225
+2026-10-22 17:00:57,768 - INFO - [Jingsha] Аук: монитор рабочая область 2560x1400 на (0,0)
+2026-10-22 17:00:59,310 - INFO - [Jingsha] Аук: окно resize 2560x1400 на (0,40), scale=(2.67,2.59)
+2026-10-22 17:01:05,068 - INFO - [Jingsha] Аук: вкладка Продажа открыта
+2026-10-22 17:01:05,068 - WARNING - [Jingsha] Аук: не удалось сохранить фулл-скрин au_after_tab_sell.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-22 17:01:05,068 - INFO - [Jingsha] Аук: предмет 1/10
+2026-10-22 17:01:05,074 - INFO - [Jingsha] Аук: сохранён au_lot_zone.png
+2026-10-22 17:01:05,075 - INFO - [Jingsha] Аук: сохранён au_sample.png
+2026-10-22 17:01:05,077 - INFO - [Jingsha] Аук: SIFT образец (лот): 0 точек
+2026-10-22 17:01:05,376 - DEBUG - [Jingsha] Аук: статус лота Tesseract: 'г'
+2026-10-22 17:01:05,376 - DEBUG - [Jingsha] Аук: статус зелёных пикселей: 0 (0.00%)
+2026-10-22 17:01:05,376 - INFO - [Jingsha] Аук: образец лота пустой (нет иконки) — список лотов пуст. Завершаю прогон (не ошибка).
+2026-10-22 17:01:05,376 - INFO - [Jingsha] Аук: лотов больше нет на странице (предмет 1)
+2026-10-22 17:01:08,651 - INFO - [Jingsha] Аук: аук закрыт
+2026-10-22 17:01:09,088 - INFO - [Jingsha] Аук: окно возвращено 400x225 на (1600,570)
+2026-10-22 17:01:10,907 - INFO - [Jingsha] Не находимся в энерго
+2026-10-22 17:01:17,058 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-22 17:01:17,058 - INFO - [Jingsha] Аук: окно уложено спать
+2026-10-22 17:01:17,058 - WARNING - [Jingsha] Аук: не удалось сохранить фулл-скрин au_final_fullscreen.png: '_thread._local' object has no attribute 'srcdc'
+2026-10-22 17:01:17,058 - INFO - [Jingsha] Аук: нечего переставлять (все лоты в «Продаётся» или список пуст)
+2026-10-22 17:01:17,059 - DEBUG - [Jingsha] Аук: log_uploader запущен в фоне
+2026-10-22 17:01:17,059 - INFO - [Jingsha] Шось сломалось либо не смог перевыставить аук
+2026-10-22 17:01:24,181 - INFO - [Jingsha] main_loop завершился
+2026-10-22 20:16:20,534 - INFO - [Jingsha] Запуск Scheduler профиля
+2026-10-22 20:16:20,565 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-22 20:16:20,566 - INFO - [Jingsha] Был в энерго, вырубаю перед запуском Шедули
+2026-10-22 20:16:29,117 - INFO - [Jingsha] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-22 20:17:15,268 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-22 20:17:15,268 - INFO - [Jingsha] Энерго подтверждён (попытка 1)
+2026-10-22 20:17:15,268 - INFO - [Jingsha] Энерго включён, профиль завершён
+2026-10-22 20:17:15,268 - INFO - [Jingsha] main_loop завершился
+2026-10-23 07:18:23,060 - INFO - [Jingsha] Запуск Scheduler профиля
+2026-10-23 07:18:23,082 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-23 07:18:23,082 - INFO - [Jingsha] Был в энерго, вырубаю перед запуском Шедули
+2026-10-23 07:18:30,799 - INFO - [Jingsha] Schedule запущен, жду 40 сек (окно само летит в город и закупается)
+2026-10-23 07:19:16,935 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-23 07:19:16,936 - INFO - [Jingsha] Энерго подтверждён (попытка 1)
+2026-10-23 07:19:16,936 - INFO - [Jingsha] Энерго включён, профиль завершён
+2026-10-23 07:19:16,936 - INFO - [Jingsha] main_loop завершился
+2026-10-23 07:38:49,715 - INFO - [Jingsha] Данги: окно wx=1600 wy=570 400x225
+2026-10-23 07:38:49,736 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-23 07:38:56,420 - INFO - [Jingsha] Не находимся в энерго
+2026-10-23 07:38:56,420 - INFO - [Jingsha] _wake_up: вышли из сна с попытки 1
+2026-10-23 07:38:59,913 - INFO - [Jingsha] Данги: меню подземелий открыто
+2026-10-23 07:38:59,927 - INFO - [Jingsha] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-23 07:38:59,940 - INFO - [Jingsha] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-23 07:39:01,116 - INFO - [Jingsha] Данги OCR [--psm 11]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | ahs | “vane | try | >. | оставылерся | награды | 1 | роз) | ua | st '
+2026-10-23 07:39:01,933 - INFO - [Jingsha] Данги OCR [--psm 6]: 'зе | we | e | . | . | gca | в | во | ушка | о | с | ч | я | ох | tas | в | остров | hencroacrma | (ccc | vy | eis. | .. | | | № | и | qpewe | дестуте '
+2026-10-23 07:39:03,308 - INFO - [Jingsha] Данги OCR [--psm 12]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | =, | we | veaet | try | >. | оставылерся | награды | 1 | роз) | ua |'
+2026-10-23 07:39:04,302 - INFO - [Jingsha] Данги OCR [--psm 3]: 'нью | fame | waewerunsme | дринибынич | - | oer | в | at | fot | век | bll | oc | staneece | rtp | 1 | роз) | остроа | номстовства | с+>сьсх | сброс |'
+2026-10-23 07:39:04,302 - DEBUG - [Jingsha] Данги: попытка 1/15 — OCR=нет
+2026-10-23 07:39:10,543 - INFO - [Jingsha] Данги OCR [--psm 11]: '9 | uctsesaecs | гысрыды | teste) | 5.4 | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | . | 4 | ve | .. | 2 | браша | доступь | 1 | '
+2026-10-23 07:39:12,161 - INFO - [Jingsha] Данги OCR [--psm 6]: 'о, | м | ие | uctsesaecs | гысрыды | teste) | mo, | aa | остров | hencreacrma | 3602 | < | re | 1 | : | 7 | срок | о | нодуиено | в | 0500 | ra | i | '
+2026-10-23 07:39:13,861 - INFO - [Jingsha] Данги OCR [--psm 12]: '9 | uctsesaecs | гысрыды | teste) | остров | hencroacraa | 2 | <0. | сброс | © | нодренно | 00600 | ip | : | 2 | браша | доступь | 1 | oman | р | г. |'
+2026-10-23 07:39:15,129 - INFO - [Jingsha] Данги OCR [--psm 3]: 'о | ставальюсв | napa | 1 | peated | остров | hencroacraa | <r | сброс | © | недра | в | 0500 | qpeen | деступь | 1ч. | фи | бе | очьо | aguas | © | р'
+2026-10-23 07:39:15,129 - DEBUG - [Jingsha] Данги: попытка 2/15 — OCR=нет
+2026-10-23 07:39:23,227 - INFO - [Jingsha] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | брочая | доступе | 140mm | эрачив | ‹ | hs, | г | разоремвеый | замок | +60 | сбрск | о | пе | душе | в | 0550 | wa | ты | 14 | 0a'
+2026-10-23 07:39:24,722 - INFO - [Jingsha] Данги OCR [--psm 6]: 'в | { | ‘ | о | ни | фобии | бий | ‘ | (у | . | ‘ | qpeee | доступе | 140m | so | басне | apne | ‹ | р | whi” | - | iy | wy | parsopersada | замок | 6'
+2026-10-23 07:39:26,424 - INFO - [Jingsha] Данги OCR [--psm 12]: ''y | ower | qpeee | доступе | 140mm | , | эрачив | ‹ | г | разоремвеый | замок | +60 | сбрск | о | пе | душе | в | 0550 | < | of | ты | 14 | 0am | ase'
+2026-10-23 07:39:27,448 - INFO - [Jingsha] Данги OCR [--psm 3]: 'разоренемй | замок | 60h | сбрск | о | пе | душе | в | 0550 | ты | г | speqrowe | аровый | $ | + | $ | мех. | храм | рассвета | uu | cog | 0 | 20 | fp'
+2026-10-23 07:39:27,449 - DEBUG - [Jingsha] Данги: попытка 3/15 — OCR=нет
+2026-10-23 07:39:33,806 - INFO - [Jingsha] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-23 07:39:35,377 - INFO - [Jingsha] Данги OCR [--psm 11]: 'reaper | оо | сх | mf. | м | к. | у. | cpa | © | ae | дум | bees | а. | я | т | " | ees | tyne | 1 | omen | bee | oe | bemene | >. | ыы | № | ях | хра'
+2026-10-23 07:39:36,929 - INFO - [Jingsha] Данги OCR [--psm 6]: 'ew | s's | у. | reaper | оо | a. | <. | ? | е, | у. | рик | ева | дум | бек | sine | а | аг | typmene | доступа | 1 | о | мым | и’. | м | о | ус | . |'
+2026-10-23 07:39:38,858 - INFO - [Jingsha] Данги OCR [--psm 12]: 'reaper | оо | * | af, | va, | * | } | № | : | cpa | © | ae | дум | bees | а. | я | fe | sy | ‘ | oy | ees | tyne | 1 | omen | bee | oe | bemene | >. |'
+2026-10-23 07:39:40,176 - INFO - [Jingsha] Данги OCR [--psm 3]: 'reaper | оо | cpa | © | ae | дум | bees | а. | ees | tyne | 1 | omen | bee | oe | bemene | >. | ыы | храм | paccseta | газа | colo: | yates | дкктугы '
+2026-10-23 07:39:40,176 - DEBUG - [Jingsha] Данги: попытка 4/15 — OCR=нет
+2026-10-23 07:39:48,912 - INFO - [Jingsha] Данги OCR [--psm 11]: 'bd | храм | рассвета | a) | ст | ae | ap | bees | ule | su | lo | colo | af | i | = | “4! | mees | tyne | 1 | omens | it | mp | t | a: | berg | oke | '
+2026-10-23 07:39:50,172 - DEBUG - [Jingsha] Данги: попытка 5/15 — OCR=да
+2026-10-23 07:39:50,172 - INFO - [Jingsha] Данги: найден через OCR (33,154)
+2026-10-23 07:39:50,174 - INFO - [Jingsha] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-23 07:39:50,174 - INFO - [Jingsha] Данги: клик по строке (33,154)
+2026-10-23 07:39:54,983 - INFO - [Jingsha] Данги: кликнул, проверяю время доступа
+2026-10-23 07:39:55,014 - INFO - [Jingsha] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-23 07:39:55,022 - INFO - [Jingsha] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-23 07:39:55,023 - INFO - [Jingsha] Данги: время доступа есть — иду в данж
+2026-10-23 07:39:58,269 - INFO - [Jingsha] Данги: нажал Вход
+2026-10-23 07:39:58,295 - INFO - [Jingsha] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-23 07:39:58,305 - INFO - [Jingsha] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-23 07:39:58,321 - INFO - [Jingsha] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-23 07:39:58,337 - INFO - [Jingsha] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-23 07:39:58,354 - INFO - [Jingsha] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-23 07:39:58,369 - INFO - [Jingsha] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-23 07:39:58,387 - INFO - [Jingsha] Данги: Ур.40 mean=30 ОТКРЫТ
+2026-10-23 07:39:58,403 - INFO - [Jingsha] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-23 07:39:58,403 - INFO - [Jingsha] Данги: кликаю последний открытый = Ур.75
+2026-10-23 07:39:58,840 - INFO - [Jingsha] Данги: клик Ур.75 (262,162) offset=(2,-2)
+2026-10-23 07:40:04,133 - INFO - [Jingsha] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-23 07:40:04,134 - INFO - [Jingsha] Данги: светлый экран (mean=84) — данж запущен через Ур.75
+2026-10-23 07:40:04,134 - INFO - [Jingsha] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-23 07:40:12,152 - INFO - [Jingsha] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-23 07:40:13,971 - INFO - [Jingsha] Не находимся в энерго
+2026-10-23 07:40:13,971 - INFO - [Jingsha] Данги: попытка усыпления 1/3
+2026-10-23 07:40:20,104 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-23 07:40:20,104 - INFO - [Jingsha] Данги: уснул с попытки 1
+2026-10-23 07:40:20,104 - INFO - [Jingsha] Данги: Благословенная Земля запущена, окно в сне
+2026-10-23 07:40:20,104 - INFO - [Jingsha] main_loop завершился
+2026-10-23 07:40:26,198 - WARNING - [Jingsha] log_uploader: PNG profiles_Dungeon_blessed_after_load.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_load.png'
+2026-10-23 07:40:26,198 - WARNING - [Jingsha] log_uploader: PNG profiles_Dungeon_blessed_after_Ур_75.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_Ур_75.png'
+2026-10-23 07:40:26,198 - WARNING - [Jingsha] log_uploader: PNG profiles_Dungeon_blessed_found_ocr.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_found_ocr.png'
+2026-10-23 07:40:26,198 - WARNING - [Jingsha] log_uploader: PNG profiles_Dungeon_blessed_level_window.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_level_window.png'
+2026-10-23 07:40:26,199 - WARNING - [Jingsha] log_uploader: PNG profiles_Dungeon_blessed_scroll_00.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_scroll_00.png'
+2026-10-23 07:40:26,199 - WARNING - [Jingsha] log_uploader: PNG profiles_Dungeon_blessed_scroll_03.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_scroll_03.png'
+2026-10-23 07:40:26,199 - WARNING - [Jingsha] log_uploader: PNG profiles_Dungeon_blessed_time_check.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_time_check.png'
+2026-10-23 09:26:57,545 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-23 09:27:09,940 - INFO - [Jingsha] Ищем вкладки
+2026-10-23 09:27:11,957 - INFO - [Jingsha] Перешел на вкладку: (381, 34)
+2026-10-23 09:27:13,300 - INFO - [Jingsha] Собираю награду тут: (302, 101)
+2026-10-23 09:27:17,829 - INFO - [Jingsha] Всего собрано: 1
+2026-10-23 09:27:17,829 - INFO - [Jingsha] Дейлик успешно собран
+2026-10-23 09:27:19,663 - INFO - [Jingsha] Не находимся в энерго
+2026-10-23 09:27:23,045 - INFO - [Jingsha] Нашел почту
+2026-10-23 09:27:30,025 - INFO - [Jingsha] Почта собрана
+2026-10-23 09:27:30,520 - INFO - [Jingsha] Почта успешно собран
+2026-10-23 09:27:32,329 - INFO - [Jingsha] Не находимся в энерго
+2026-10-23 09:27:32,606 - INFO - [Jingsha] Нашел сбор ачив
+2026-10-23 09:27:38,446 - INFO - [Jingsha] Ачивок больше нет
+2026-10-23 09:27:38,981 - INFO - [Jingsha] Ачивы успешно собран
+2026-10-23 09:27:40,796 - INFO - [Jingsha] Не находимся в энерго
+2026-10-23 09:27:42,365 - INFO - [Jingsha] Нашел сбор клана
+2026-10-23 09:27:52,197 - INFO - [Jingsha] Клан успешно собран
+2026-10-23 09:27:54,012 - INFO - [Jingsha] Не находимся в энерго
+2026-10-23 09:27:57,551 - INFO - [Jingsha] Нашел сбор альянса, жму
+2026-10-23 09:28:03,734 - INFO - [Jingsha] Альянс успешно собран
+2026-10-23 09:28:05,562 - INFO - [Jingsha] Не находимся в энерго
+2026-10-23 09:28:08,591 - INFO - [Jingsha] Нашел бп
+2026-10-23 09:28:10,096 - INFO - [Jingsha] Пробую чекнуть вкладочки бп
+2026-10-23 09:28:10,606 - INFO - [Jingsha] {'left': 1600, 'top': 595, 'width': 400, 'height': 1}
+2026-10-23 09:28:10,613 - INFO - [Jingsha] [155]
+2026-10-23 09:28:10,613 - INFO - [Jingsha] final [['155, 25', 'no']]
+2026-10-23 09:28:10,614 - INFO - [Jingsha] Обнаружил вкладок бп: 1, начинаю чекать...
+2026-10-23 09:28:12,598 - INFO - [Jingsha] Подвкладок найдено: 1
+2026-10-23 09:28:13,881 - INFO - [Jingsha] Собираю награду [1.1]
+2026-10-23 09:28:17,681 - INFO - [Jingsha] Нет наград во вкладке 1, под 1
+2026-10-23 09:28:23,538 - INFO - [Jingsha] Закрываю баттл пасс
+2026-10-23 09:28:25,781 - INFO - [Jingsha] Пасс успешно собран
+2026-10-23 09:28:27,596 - INFO - [Jingsha] Не находимся в энерго
+2026-10-23 09:28:31,651 - INFO - [Jingsha] Вылезла обычная реклама, закрыл гадость
+2026-10-23 09:28:52,597 - INFO - [Jingsha] Шоп успешно собран
+2026-10-23 09:28:54,415 - INFO - [Jingsha] Не находимся в энерго
+2026-10-23 09:29:04,419 - INFO - [Jingsha] main_loop завершился
+2026-10-25 15:12:05,532 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-25 15:12:17,150 - INFO - [Jingsha] Ищем вкладки
+2026-10-25 15:12:19,162 - INFO - [Jingsha] Перешел на вкладку: (381, 34)
+2026-10-25 15:12:20,484 - INFO - [Jingsha] Собираю награду тут: (302, 101)
+2026-10-25 15:12:25,017 - INFO - [Jingsha] Всего собрано: 1
+2026-10-25 15:12:25,017 - INFO - [Jingsha] Дейлик успешно собран
+2026-10-25 15:12:26,832 - INFO - [Jingsha] Не находимся в энерго
+2026-10-25 15:12:29,956 - INFO - [Jingsha] Нашел почту
+2026-10-25 15:12:36,752 - INFO - [Jingsha] Почта собрана
+2026-10-25 15:12:37,248 - INFO - [Jingsha] Почта успешно собран
+2026-10-25 15:12:39,066 - INFO - [Jingsha] Не находимся в энерго
+2026-10-25 15:12:44,064 - INFO - [Jingsha] Нет красной точки на иконке достижений
+2026-10-25 15:12:44,064 - INFO - [Jingsha] Нет новых ачивы или не удалось собрать
+2026-10-25 15:12:45,898 - INFO - [Jingsha] Не находимся в энерго
+2026-10-25 15:12:47,616 - INFO - [Jingsha] Нашел сбор клана
+2026-10-25 15:12:58,814 - INFO - [Jingsha] Не нашел clan_6
+2026-10-25 15:12:59,063 - INFO - [Jingsha] Нет новых клан или не удалось собрать
+2026-10-25 15:13:00,882 - INFO - [Jingsha] Не находимся в энерго
+2026-10-25 15:13:04,418 - INFO - [Jingsha] Нашел сбор альянса, жму
+2026-10-25 15:13:10,572 - INFO - [Jingsha] Альянс успешно собран
+2026-10-25 15:13:12,396 - INFO - [Jingsha] Не находимся в энерго
+2026-10-25 15:13:15,787 - INFO - [Jingsha] Нашел бп
+2026-10-25 15:13:17,285 - INFO - [Jingsha] Пробую чекнуть вкладочки бп
+2026-10-25 15:13:17,786 - INFO - [Jingsha] {'left': 1600, 'top': 595, 'width': 400, 'height': 1}
+2026-10-25 15:13:17,797 - INFO - [Jingsha] [155]
+2026-10-25 15:13:17,797 - INFO - [Jingsha] final [['155, 25', 'no']]
+2026-10-25 15:13:17,797 - INFO - [Jingsha] Обнаружил вкладок бп: 1, начинаю чекать...
+2026-10-25 15:13:19,598 - INFO - [Jingsha] Подвкладок найдено: 1
+2026-10-25 15:13:22,848 - INFO - [Jingsha] Нет наград во вкладке 1, под 1
+2026-10-25 15:13:25,683 - INFO - [Jingsha] Собирать нечего, проверяю следующую вкладку
+2026-10-25 15:13:25,683 - INFO - [Jingsha] Закрываю баттл пасс
+2026-10-25 15:13:27,952 - INFO - [Jingsha] Пасс успешно собран
+2026-10-25 15:13:29,766 - INFO - [Jingsha] Не находимся в энерго
+2026-10-25 15:13:34,092 - INFO - [Jingsha] Вылезла обычная реклама, закрыл гадость
+2026-10-25 15:13:55,882 - INFO - [Jingsha] Шоп успешно собран
+2026-10-25 15:13:57,699 - INFO - [Jingsha] Не находимся в энерго
+2026-10-25 15:14:07,729 - INFO - [Jingsha] main_loop завершился
+2026-10-25 15:39:14,908 - INFO - [Jingsha] Данги: окно wx=1600 wy=570 400x225
+2026-10-25 15:39:14,924 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-25 15:39:21,692 - INFO - [Jingsha] Не находимся в энерго
+2026-10-25 15:39:21,692 - INFO - [Jingsha] _wake_up: вышли из сна с попытки 1
+2026-10-25 15:39:25,163 - INFO - [Jingsha] Данги: меню подземелий открыто
+2026-10-25 15:39:25,186 - INFO - [Jingsha] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-25 15:39:25,209 - INFO - [Jingsha] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-25 15:39:26,371 - INFO - [Jingsha] Данги OCR [--psm 11]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | ahs | “vane | try | >. | оставылерся | награды | 1 | роз) | ua | st '
+2026-10-25 15:39:27,145 - INFO - [Jingsha] Данги OCR [--psm 6]: 'зе | we | e | . | . | gca | в | во | ушка | о | с | ч | я | ох | tas | в | остров | hencroacrma | (ccc | vy | eis. | .. | | | № | и | qpewe | дестуте '
+2026-10-25 15:39:28,510 - INFO - [Jingsha] Данги OCR [--psm 12]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | =, | we | veaet | try | >. | оставылерся | награды | 1 | роз) | ua |'
+2026-10-25 15:39:29,469 - INFO - [Jingsha] Данги OCR [--psm 3]: 'нью | fame | waewerunsme | дринибынич | - | oer | в | at | fot | век | bll | oc | staneece | rtp | 1 | роз) | остроа | номстовства | с+>сьсх | сброс |'
+2026-10-25 15:39:29,470 - DEBUG - [Jingsha] Данги: попытка 1/15 — OCR=нет
+2026-10-25 15:39:35,789 - INFO - [Jingsha] Данги OCR [--psm 11]: 'mer | 5 | г | = | uctseamece | ныгрыды | 1 | peated | * | aoe” | моин | на | о | 0 | as" | м | `. | сброс | о | модуиеено | 00600 | з | oe | .. | брач'
+2026-10-25 15:39:36,752 - INFO - [Jingsha] Данги OCR [--psm 6]: 'и | о | мух | . | uctseamece | ныгрыды | 1 | peated | тит | 8 | bb | erase | eh | das | . | are | ’. | ие | opens | достуть | 1 | чф | мым | “ty | a |'
+2026-10-25 15:39:38,365 - INFO - [Jingsha] Данги OCR [--psm 12]: 'mer | 5 | г | = | uctseamece | ныгрыды | 1 | peated | * | aoe” | моин | на | о | 0 | as" | м | `. | сброс | о | модуиеено | 00600 | з | : | брачная | '
+2026-10-25 15:39:39,613 - INFO - [Jingsha] Данги OCR [--psm 3]: 'о | м | мия | - | . | uctsesmerce | гыграды | teste) | ча | иг” | моим | ну | о | 0 | as" | и | сброс | о | недуееыо | в | 000 | брачная | деступь | 1'
+2026-10-25 15:39:39,613 - DEBUG - [Jingsha] Данги: попытка 2/15 — OCR=нет
+2026-10-25 15:39:47,307 - INFO - [Jingsha] Данги OCR [--psm 11]: 'о | ' | —_— | ae | i” | те | деев | на | pam | tes | ce | мены | ах | he | г | разорезаый | замом | + | ‚<< | $ | сорск | © | подр | в | 050 | ae | qp'
+2026-10-25 15:39:48,432 - INFO - [Jingsha] Данги OCR [--psm 6]: 'о | eo, | й | ——_ | we | us. | iy | ms | р | разорномый | замок | +26 | < | уч | у | ; | * | . | (рек | о | подривно | в | 0500 | hea | a | { | : | . '
+2026-10-25 15:39:50,170 - INFO - [Jingsha] Данги OCR [--psm 12]: 'у | ' | —_— | ae | a | а | i” | те | деев | на | pam | tes | 7 | hee | viene | разорезаый | замом | + | ‚<< | $ | сорск | © | подр | в | 050 | { | а |'
+2026-10-25 15:39:51,379 - INFO - [Jingsha] Данги OCR [--psm 3]: '’ | ra | —_— | ae | 4 | . | hon, | , | { | tty | 140em | к | . | на | умным | те | деев | на | pam | tes | разорезамый | замок | + | <> | сбрсх | о | '
+2026-10-25 15:39:51,379 - DEBUG - [Jingsha] Данги: попытка 3/15 — OCR=нет
+2026-10-25 15:39:57,328 - INFO - [Jingsha] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-25 15:39:58,646 - INFO - [Jingsha] Данги OCR [--psm 11]: 'reaper | оо | сх | mf. | м | к. | у. | { | (рак | © | ae | дум | bees | bl | я | т | " | ees | tyne | 1 | omen | bee | oe | bemene | >. | ыы | № | ях '
+2026-10-25 15:40:00,176 - INFO - [Jingsha] Данги OCR [--psm 6]: 'а | ry | ay | у. | reaper | оо | < | су | aly? | ye | op | acd | © | ae | дум | bees | bl | ey | ге, | .: | я | 2b | ag | k | soren | аг | typmene | c'
+2026-10-25 15:40:01,728 - DEBUG - [Jingsha] Данги: попытка 4/15 — OCR=да
+2026-10-25 15:40:01,728 - DEBUG - [Jingsha] Данги: OCR нашёл но в самом низу (ocr_y=142, list_h=146) — прокручиваю ещё
+2026-10-25 15:40:09,013 - INFO - [Jingsha] Данги OCR [--psm 11]: 'ay | $ | г | " | se | om | cees | ctyns | 10 | men | ` | a | у. | hon | one | време | bee | eee: | . | > | № | bd | в | храм | рассвета | «ах | крик |'
+2026-10-25 15:40:10,304 - DEBUG - [Jingsha] Данги: после прокрутки — OCR=да ocr_y=122
+2026-10-25 15:40:10,304 - INFO - [Jingsha] Данги: найден через OCR (33,167)
+2026-10-25 15:40:10,307 - INFO - [Jingsha] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-25 15:40:10,307 - INFO - [Jingsha] Данги: клик по строке (33,167)
+2026-10-25 15:40:14,541 - INFO - [Jingsha] Данги: кликнул, проверяю время доступа
+2026-10-25 15:40:14,567 - INFO - [Jingsha] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-25 15:40:14,576 - INFO - [Jingsha] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-25 15:40:14,576 - INFO - [Jingsha] Данги: время доступа есть — иду в данж
+2026-10-25 15:40:17,856 - INFO - [Jingsha] Данги: нажал Вход
+2026-10-25 15:40:17,879 - INFO - [Jingsha] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-25 15:40:17,890 - INFO - [Jingsha] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-25 15:40:17,906 - INFO - [Jingsha] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-25 15:40:17,924 - INFO - [Jingsha] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-25 15:40:17,940 - INFO - [Jingsha] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-25 15:40:17,958 - INFO - [Jingsha] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-25 15:40:17,975 - INFO - [Jingsha] Данги: Ур.40 mean=25 ОТКРЫТ
+2026-10-25 15:40:17,992 - INFO - [Jingsha] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-25 15:40:17,992 - INFO - [Jingsha] Данги: кликаю последний открытый = Ур.75
+2026-10-25 15:40:18,363 - INFO - [Jingsha] Данги: клик Ур.75 (257,166) offset=(-3,2)
+2026-10-25 15:40:23,650 - INFO - [Jingsha] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-25 15:40:23,650 - INFO - [Jingsha] Данги: светлый экран (mean=143) — данж запущен через Ур.75
+2026-10-25 15:40:23,650 - INFO - [Jingsha] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-25 15:40:31,670 - INFO - [Jingsha] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-25 15:40:33,491 - INFO - [Jingsha] Не находимся в энерго
+2026-10-25 15:40:33,491 - INFO - [Jingsha] Данги: попытка усыпления 1/3
+2026-10-25 15:40:39,657 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-25 15:40:39,657 - INFO - [Jingsha] Данги: уснул с попытки 1
+2026-10-25 15:40:39,657 - INFO - [Jingsha] Данги: Благословенная Земля запущена, окно в сне
+2026-10-25 15:40:39,657 - INFO - [Jingsha] main_loop завершился
+2026-10-25 15:40:46,323 - WARNING - [Jingsha] log_uploader: PNG profiles_Dungeon_blessed_after_Ур_75.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_after_Ур_75.png'
+2026-10-25 15:40:46,323 - WARNING - [Jingsha] log_uploader: PNG profiles_Dungeon_blessed_level_window.png не загружен: [Errno 2] No such file or directory: 'C:\\Users\\PC\\Desktop\\L2Mauto\\profiles\\Dungeon\\blessed_level_window.png'
+2026-10-26 19:45:53,981 - INFO - [Jingsha] Данги: окно wx=1601 wy=570 400x225
+2026-10-26 19:45:53,998 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-26 19:46:00,731 - INFO - [Jingsha] Не находимся в энерго
+2026-10-26 19:46:00,731 - INFO - [Jingsha] _wake_up: вышли из сна с попытки 1
+2026-10-26 19:46:04,248 - INFO - [Jingsha] Данги: меню подземелий открыто
+2026-10-26 19:46:04,273 - INFO - [Jingsha] Данги: сохранён blessed_menu_opened.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_menu_opened.png
+2026-10-26 19:46:04,284 - INFO - [Jingsha] Данги: сохранён blessed_scroll_00.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_00.png
+2026-10-26 19:46:05,494 - INFO - [Jingsha] Данги OCR [--psm 11]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | ahs | “vane | try | >. | оставылерся | награды | 1 | роз) | ua | st '
+2026-10-26 19:46:06,330 - INFO - [Jingsha] Данги OCR [--psm 6]: 'зе | we | e | . | . | gca | в | во | ушка | о | с | ч | я | ох | tas | в | остров | hencroacrma | (ccc | vy | eis. | .. | | | № | и | qpewe | дестуте '
+2026-10-26 19:46:07,741 - INFO - [Jingsha] Данги OCR [--psm 12]: 'ари | fauve | злиррернельнико | fete | срок | в | ве | ди | ores | в | 171 | he | =, | we | veaet | try | >. | оставылерся | награды | 1 | роз) | ua |'
+2026-10-26 19:46:08,744 - INFO - [Jingsha] Данги OCR [--psm 3]: 'нью | fame | waewerunsme | дринибынич | - | oer | в | at | fot | век | bll | oc | staneece | rtp | 1 | роз) | остроа | номстовства | с+>сьсх | сброс |'
+2026-10-26 19:46:08,744 - DEBUG - [Jingsha] Данги: попытка 1/15 — OCR=нет
+2026-10-26 19:46:15,520 - INFO - [Jingsha] Данги OCR [--psm 11]: 'mater | 5 | = | = | оставался | ныгрыды | 1 | peated | ` | змяунму | эъ>н | на | и | оо | 4: | <бросозодреемно | в | 052 | + | oe | .. | gees | доступ'
+2026-10-26 19:46:16,352 - INFO - [Jingsha] Данги OCR [--psm 6]: 'о | о | ие | . | оставался | ныгрыды | 1 | peated | : | painter | ta | ued | own | на | и | nese | м | - | * | a | ' | сброс | ome | древню | 20500 | '
+2026-10-26 19:46:18,091 - INFO - [Jingsha] Данги OCR [--psm 12]: 'mater | 5 | = | = | оставался | ныгрыды | 1 | peated | ` | змяунму | эъ>н | на | и | оо | 4: | <бросозодреемно | в | 052 | + | : | @ричив | доступь | '
+2026-10-26 19:46:19,311 - INFO - [Jingsha] Данги OCR [--psm 3]: 'о | м | ие | оставался | ныгрыды | 1 | peated | ‚о | зиумтриру | warm | «нотивыфыльнииену | неси | ., | а. | <бросозодреемно | в | 052 | gees | доступ'
+2026-10-26 19:46:19,311 - DEBUG - [Jingsha] Данги: попытка 2/15 — OCR=нет
+2026-10-26 19:46:27,345 - INFO - [Jingsha] Данги OCR [--psm 11]: '+ | 5 | ower | ‚. | брочая | доступе | 140mm | эрачив | ‹ | hs, | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | wa | ты | 14 | 0'
+2026-10-26 19:46:28,700 - INFO - [Jingsha] Данги OCR [--psm 6]: 'в | { | ‘ | о | ни | фобии | бий | ‘ | (у | . | ‘ | qpeee | доступе | 140m | so | басне | apne | ‹ | р | whi” | - | iy | wy | parsopersada | замок | 6'
+2026-10-26 19:46:30,327 - INFO - [Jingsha] Данги OCR [--psm 12]: ''y | ower | qpeee | доступе | 140mm | , | эрачив | ‹ | г | разоремвеый | замок | +60 | сре | о | по | pero | в | 05 | сю | < | of | ты | 14 | 0am | as'
+2026-10-26 19:46:31,348 - INFO - [Jingsha] Данги OCR [--psm 3]: 'разоренемй | замок | 60h | сре | о | по | pero | в | 05 | сю | ты | г | speqrowe | аровый | $ | + | $ | мех. | храм | рассвета | uu | cog | 0 | 20 | f'
+2026-10-26 19:46:31,348 - DEBUG - [Jingsha] Данги: попытка 3/15 — OCR=нет
+2026-10-26 19:46:37,936 - INFO - [Jingsha] Данги: сохранён blessed_scroll_03.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_scroll_03.png
+2026-10-26 19:46:39,370 - INFO - [Jingsha] Данги OCR [--psm 11]: 'reaper | оо | сх | mf. | м | к. | у. | cpa | © | ae | дум | bees | а. | я | т | " | ees | tyne | 1 | omen | bee | oe | bemene | >. | ыы | № | ях | хра'
+2026-10-26 19:46:40,879 - INFO - [Jingsha] Данги OCR [--psm 6]: 'ew | s's | у. | reaper | оо | a. | <. | ? | е, | у. | рик | ева | дум | бек | sine | а | аг | typmene | доступа | 1 | о | мым | a | . | м | о | ус | .'
+2026-10-26 19:46:42,730 - INFO - [Jingsha] Данги OCR [--psm 12]: 'reaper | оо | * | af, | va, | * | } | № | : | cpa | © | ae | дум | bees | а. | я | fe | sy | ‘ | oy | ees | tyne | 1 | omen | bee | oe | bemene | >. |'
+2026-10-26 19:46:43,968 - INFO - [Jingsha] Данги OCR [--psm 3]: 'reaper | оо | cpa | © | ae | дум | bees | а. | ees | tyne | 1 | omen | bee | oe | bemene | >. | ыы | храм | paccseta | газа | colo: | yates | дкктугы '
+2026-10-26 19:46:43,968 - DEBUG - [Jingsha] Данги: попытка 4/15 — OCR=нет
+2026-10-26 19:46:50,729 - INFO - [Jingsha] Данги OCR [--psm 11]: 'bd | храм | рассвета | a) | ст | ae | ap | bees | ule | su | lo | colo | af | i | = | “4! | mees | tyne | 1 | omens | it | mp | t | a: | berg | oke | '
+2026-10-26 19:46:51,969 - DEBUG - [Jingsha] Данги: попытка 5/15 — OCR=да
+2026-10-26 19:46:51,969 - INFO - [Jingsha] Данги: найден через OCR (33,154)
+2026-10-26 19:46:51,972 - INFO - [Jingsha] Данги: сохранён blessed_found_ocr.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_found_ocr.png
+2026-10-26 19:46:51,972 - INFO - [Jingsha] Данги: клик по строке (33,154)
+2026-10-26 19:46:55,695 - INFO - [Jingsha] Данги: кликнул, проверяю время доступа
+2026-10-26 19:46:55,723 - INFO - [Jingsha] Данги: сохранён blessed_after_dungeon_click.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_dungeon_click.png
+2026-10-26 19:46:55,732 - INFO - [Jingsha] Данги: сохранён blessed_time_check.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_time_check.png
+2026-10-26 19:46:55,732 - INFO - [Jingsha] Данги: время доступа есть — иду в данж
+2026-10-26 19:46:58,982 - INFO - [Jingsha] Данги: нажал Вход
+2026-10-26 19:46:59,005 - INFO - [Jingsha] Данги: сохранён blessed_level_window.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_level_window.png
+2026-10-26 19:46:59,017 - INFO - [Jingsha] Данги: Ур.75 mean=25 ОТКРЫТ
+2026-10-26 19:46:59,033 - INFO - [Jingsha] Данги: Ур.70 mean=25 ОТКРЫТ
+2026-10-26 19:46:59,050 - INFO - [Jingsha] Данги: Ур.60 mean=24 ОТКРЫТ
+2026-10-26 19:46:59,065 - INFO - [Jingsha] Данги: Ур.55 mean=25 ОТКРЫТ
+2026-10-26 19:46:59,082 - INFO - [Jingsha] Данги: Ур.50 mean=25 ОТКРЫТ
+2026-10-26 19:46:59,098 - INFO - [Jingsha] Данги: Ур.40 mean=30 ОТКРЫТ
+2026-10-26 19:46:59,116 - INFO - [Jingsha] Данги: Ур.30 mean=25 ОТКРЫТ
+2026-10-26 19:46:59,116 - INFO - [Jingsha] Данги: кликаю последний открытый = Ур.75
+2026-10-26 19:46:59,419 - INFO - [Jingsha] Данги: клик Ур.75 (258,163) offset=(-2,-1)
+2026-10-26 19:47:04,708 - INFO - [Jingsha] Данги: сохранён blessed_after_Ур_75.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_Ур_75.png
+2026-10-26 19:47:04,709 - INFO - [Jingsha] Данги: светлый экран (mean=109) — данж запущен через Ур.75
+2026-10-26 19:47:04,709 - INFO - [Jingsha] Данги: данж запущен, жду 8 сек на загрузку
+2026-10-26 19:47:12,725 - INFO - [Jingsha] Данги: сохранён blessed_after_load.png -> C:\Users\PC\Desktop\L2Mauto\profiles\Dungeon\blessed_after_load.png
+2026-10-26 19:47:14,549 - INFO - [Jingsha] Не находимся в энерго
+2026-10-26 19:47:14,549 - INFO - [Jingsha] Данги: попытка усыпления 1/3
+2026-10-26 19:47:20,700 - INFO - [Jingsha] Находимся в энергорежиме
+2026-10-26 19:47:20,700 - INFO - [Jingsha] Данги: уснул с попытки 1
+2026-10-26 19:47:20,700 - INFO - [Jingsha] Данги: Благословенная Земля запущена, окно в сне
+2026-10-26 19:47:20,700 - INFO - [Jingsha] main_loop завершился
